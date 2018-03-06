@@ -30,4 +30,28 @@ cd orange3
 pip install google-cloud-storage
 pip install -r requirements.txt
 pip install -r requirements-gui.txt
-python setup.py develop
+python setup
+
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install python-pip
+sudo apt-get install htop
+
+sudo pip install googl-cloud
+
+install things in home
+have orange folder, gcloud flolder
+
+
+
+api key:
+follow steps to get key
+copy key into apikey.json
+edit ~/.profile
+at bottom add export GOOGLE_APPLICATION_CREDENTIALS=filepath of apikey.json
+do the same with 
+cd ~/catkin
+source devel/setup.bash
+cd ~/
+finally save then run source ~/.bashrc
