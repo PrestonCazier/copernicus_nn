@@ -6,5 +6,4 @@ all:
 	sudo apt-get install git python-virtualenv python-pip
 	sudo apt-get install python3-numpy python3-scipy
 	sudo apt-get install python3-pyqt5
-	sudo apt-get install python-pip
 	sudo apt-get install htop
