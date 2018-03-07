@@ -46,6 +46,7 @@ sudo apt-get install python-pip
 sudo apt-get install htop
 
 sudo pip install googl-cloud
+sudo pip install -U pypinfo
 
 install things in home
 have orange folder, gcloud flolder
