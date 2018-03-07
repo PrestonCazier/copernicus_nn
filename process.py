@@ -1,4 +1,4 @@
-#!usr/bin/env
+#!/usr/bin/env python
 from google.cloud import language
 
 def language_analysis(text):
