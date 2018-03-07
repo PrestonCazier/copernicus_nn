@@ -2,7 +2,7 @@
 from google.cloud import language
 
 def language_analysis(text):
-    client = language.Client()
+    client = language.LanguageServiceClient()
     document = client.document_from_text(text)
     sent_analysis = document.analyze_sentiment()
     dir(sent_analysis)
