@@ -1,0 +1,549 @@
+document_sentiment {
+  magnitude: 0.20000000298
+}
+language: "en"
+sentences {
+  text {
+    content: "Here is some sample text."
+    begin_offset: -1
+  }
+  sentiment {
+    magnitude: 0.10000000149
+    score: 0.10000000149
+  }
+}
+sentences {
+  text {
+    content: "Aaron shouldn\'t sleep in class."
+    begin_offset: -1
+  }
+  sentiment {
+  }
+}
+sentences {
+  text {
+    content: "Boosting is a principle used in many applications for aid in in image processing."
+    begin_offset: -1
+  }
+  sentiment {
+  }
+}
+
+entities {
+  name: "sample text"
+  type: OTHER
+  salience: 0.417329281569
+  mentions {
+    text {
+      content: "sample text"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Aaron"
+  type: PERSON
+  salience: 0.159412011504
+  mentions {
+    text {
+      content: "Aaron"
+      begin_offset: -1
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "principle"
+  type: OTHER
+  salience: 0.132566422224
+  mentions {
+    text {
+      content: "principle"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "class"
+  type: OTHER
+  salience: 0.11779718101
+  mentions {
+    text {
+      content: "class"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "aid"
+  type: OTHER
+  salience: 0.0808156579733
+  mentions {
+    text {
+      content: "aid"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "image processing"
+  type: OTHER
+  salience: 0.0562684088945
+  mentions {
+    text {
+      content: "image processing"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "applications"
+  type: OTHER
+  salience: 0.0358110293746
+  mentions {
+    text {
+      content: "applications"
+      begin_offset: -1
+    }
+    type: COMMON
+  }
+}
+language: "en"
+
+sentences {
+  text {
+    content: "Here is some sample text."
+    begin_offset: -1
+  }
+}
+sentences {
+  text {
+    content: "Aaron shouldn\'t sleep in class."
+    begin_offset: -1
+  }
+}
+sentences {
+  text {
+    content: "Boosting is a principle used in many applications for aid in in image processing."
+    begin_offset: -1
+  }
+}
+tokens {
+  text {
+    content: "Here"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADV
+    number: SINGULAR
+    person: THIRD
+  }
+  dependency_edge {
+    head_token_index: 1
+    label: ADVMOD
+  }
+  lemma: "Here"
+}
+tokens {
+  text {
+    content: "is"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+    mood: INDICATIVE
+    number: SINGULAR
+    person: THIRD
+    tense: PRESENT
+  }
+  dependency_edge {
+    head_token_index: 1
+    label: ROOT
+  }
+  lemma: "be"
+}
+tokens {
+  text {
+    content: "some"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: DET
+  }
+  dependency_edge {
+    head_token_index: 4
+    label: DET
+  }
+  lemma: "some"
+}
+tokens {
+  text {
+    content: "sample"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 4
+    label: NN
+  }
+  lemma: "sample"
+}
+tokens {
+  text {
+    content: "text"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 1
+    label: NSUBJ
+  }
+  lemma: "text"
+}
+tokens {
+  text {
+    content: "."
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: PUNCT
+  }
+  dependency_edge {
+    head_token_index: 1
+    label: P
+  }
+  lemma: "."
+}
+tokens {
+  text {
+    content: "Aaron"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+    proper: PROPER
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: NSUBJ
+  }
+  lemma: "Aaron"
+}
+tokens {
+  text {
+    content: "should"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: AUX
+  }
+  lemma: "should"
+}
+tokens {
+  text {
+    content: "n\'t"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADV
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: NEG
+  }
+  lemma: "n\'t"
+}
+tokens {
+  text {
+    content: "sleep"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: ROOT
+  }
+  lemma: "sleep"
+}
+tokens {
+  text {
+    content: "in"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADP
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: PREP
+  }
+  lemma: "in"
+}
+tokens {
+  text {
+    content: "class"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 10
+    label: POBJ
+  }
+  lemma: "class"
+}
+tokens {
+  text {
+    content: "."
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: PUNCT
+  }
+  dependency_edge {
+    head_token_index: 9
+    label: P
+  }
+  lemma: "."
+}
+tokens {
+  text {
+    content: "Boosting"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+  }
+  dependency_edge {
+    head_token_index: 14
+    label: CSUBJ
+  }
+  lemma: "boost"
+}
+tokens {
+  text {
+    content: "is"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+    mood: INDICATIVE
+    number: SINGULAR
+    person: THIRD
+    tense: PRESENT
+  }
+  dependency_edge {
+    head_token_index: 14
+    label: ROOT
+  }
+  lemma: "be"
+}
+tokens {
+  text {
+    content: "a"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: DET
+  }
+  dependency_edge {
+    head_token_index: 16
+    label: DET
+  }
+  lemma: "a"
+}
+tokens {
+  text {
+    content: "principle"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 14
+    label: ATTR
+  }
+  lemma: "principle"
+}
+tokens {
+  text {
+    content: "used"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: VERB
+    tense: PAST
+  }
+  dependency_edge {
+    head_token_index: 16
+    label: VMOD
+  }
+  lemma: "use"
+}
+tokens {
+  text {
+    content: "in"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADP
+  }
+  dependency_edge {
+    head_token_index: 17
+    label: PREP
+  }
+  lemma: "in"
+}
+tokens {
+  text {
+    content: "many"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADJ
+  }
+  dependency_edge {
+    head_token_index: 20
+    label: AMOD
+  }
+  lemma: "many"
+}
+tokens {
+  text {
+    content: "applications"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: PLURAL
+  }
+  dependency_edge {
+    head_token_index: 18
+    label: POBJ
+  }
+  lemma: "application"
+}
+tokens {
+  text {
+    content: "for"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADP
+  }
+  dependency_edge {
+    head_token_index: 20
+    label: PREP
+  }
+  lemma: "for"
+}
+tokens {
+  text {
+    content: "aid"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 21
+    label: POBJ
+  }
+  lemma: "aid"
+}
+tokens {
+  text {
+    content: "in"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADP
+  }
+  dependency_edge {
+    head_token_index: 17
+    label: PREP
+  }
+  lemma: "in"
+}
+tokens {
+  text {
+    content: "in"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: ADP
+  }
+  dependency_edge {
+    head_token_index: 23
+    label: PCOMP
+  }
+  lemma: "in"
+}
+tokens {
+  text {
+    content: "image"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 26
+    label: NN
+  }
+  lemma: "image"
+}
+tokens {
+  text {
+    content: "processing"
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: NOUN
+    number: SINGULAR
+  }
+  dependency_edge {
+    head_token_index: 24
+    label: POBJ
+  }
+  lemma: "processing"
+}
+tokens {
+  text {
+    content: "."
+    begin_offset: -1
+  }
+  part_of_speech {
+    tag: PUNCT
+  }
+  dependency_edge {
+    head_token_index: 14
+    label: P
+  }
+  lemma: "."
+}
+language: "en"
