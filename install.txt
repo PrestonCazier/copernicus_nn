@@ -37,7 +37,7 @@ cd orange3
 
 pip install -r requirements.txt
 pip install -r requirements-gui.txt
-python setup
+python setup.py develop
 
 
 sudo apt-get update
