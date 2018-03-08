@@ -69,11 +69,9 @@ def get_native_encoding_type():
 #
 #    return response
 def analyze_entities_single_sentence(text):
-	client = language.LanguageServiceClient()
+    client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     entities = client.analyze_entities(document=document)
 
@@ -81,11 +79,9 @@ def analyze_entities_single_sentence(text):
 
 
 def analyze_entities_paragraph(text):
-	client = language.LanguageServiceClient()
+    client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     entities = client.analyze_entities(document=document)
 
@@ -110,9 +106,7 @@ def analyze_entities_paragraph(text):
 def analyze_sentiment_single_sentence(text):
     client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     sentiment = client.analyze_sentiment(document=document)
 
@@ -122,9 +116,7 @@ def analyze_sentiment_single_sentence(text):
 def analyze_sentiment_paragraph(text):
     client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     sentiment = client.analyze_sentiment(document=document)
 
@@ -147,11 +139,9 @@ def analyze_sentiment_paragraph(text):
 #
 #    return response
 def analyze_syntax_single_sentence(text):
-	client = language.LanguageServiceClient()
+    client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     syntax = client.analyze_syntax(document=document)
 
@@ -159,23 +149,21 @@ def analyze_syntax_single_sentence(text):
 
 
 def analyze_syntax_paragraph(text):
-	client = language.LanguageServiceClient()
+    client = language.LanguageServiceClient()
 
-    document = types.Document(
-        content=text,
-        type=enums.Document.Type.PLAIN_TEXT)
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
     syntax = client.analyze_syntax(document=document)
 
     return syntax
 
 
-def looper()
+def looper():
     sample_text = '''Here is some sample text.  Aaron shouldn't sleep in class.  Boosting is a principle used in many applications for aid in in image processing.'''
     encoding = get_native_encoding_type()
-    sentiment = analyze_sentiment_paragraph(sample_text, encoding)
-    entities = analyze_entities_paragraph(sample_text, encoding)
-    syntax = analyze_syntax_paragraph(sample_text, encoding)
+    sentiment = analyze_sentiment_paragraph(sample_text)
+    entities = analyze_entities_paragraph(sample_text)
+    syntax = analyze_syntax_paragraph(sample_text)
     print(sentiment)
     print(entities)
     print(syntax)
