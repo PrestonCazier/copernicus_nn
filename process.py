@@ -20,8 +20,10 @@ import argparse
 import json
 import sys
 
-import googleapiclient.discovery
+#import googleapiclient.discovery
 from google.cloud import language
+from google.cloud.language import enums
+from google.cloud.language import types
 
 #def language_analysis(text):
 #	client = language.LanguageServiceClient()
@@ -51,62 +53,129 @@ def get_native_encoding_type():
 	else:
 		return 'UTF32'
 	
-def analyze_entities(text, encoding='UTF32'):
-    body = {
-        'document': {
-            'type': 'PLAIN_TEXT',
-            'content': text,
-        },
-        'encoding_type': encoding,
-    }
+#def analyze_entities(text, encoding='UTF32'):
+#    body = {
+#        'document': {
+#            'type': 'PLAIN_TEXT',
+#            'content': text,
+#        },
+#        'encoding_type': encoding,
+#    }
+#
+#    service = googleapiclient.discovery.build('language', 'v1')
+#
+#    request = service.documents().analyzeEntities(body=body)
+#    response = request.execute()
+#
+#    return response
+def analyze_entities_single_sentence(text):
+	client = language.LanguageServiceClient()
 
-    service = googleapiclient.discovery.build('language', 'v1')
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
 
-    request = service.documents().analyzeEntities(body=body)
-    response = request.execute()
+    entities = client.analyze_entities(document=document)
 
-    return response
-
-def analyze_sentiment(text, encoding='UTF32'):
-    body = {
-        'document': {
-            'type': 'PLAIN_TEXT',
-            'content': text,
-        },
-        'encoding_type': encoding
-    }
-
-    service = googleapiclient.discovery.build('language', 'v1')
-
-    request = service.documents().analyzeSentiment(body=body)
-    response = request.execute()
-
-    return response
+    return entities
 
 
-def analyze_syntax(text, encoding='UTF32'):
-    body = {
-        'document': {
-            'type': 'PLAIN_TEXT',
-            'content': text,
-        },
-        'encoding_type': encoding
-    }
+def analyze_entities_paragraph(text):
+	client = language.LanguageServiceClient()
 
-    service = googleapiclient.discovery.build('language', 'v1')
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
 
-    request = service.documents().analyzeSyntax(body=body)
-    response = request.execute()
+    entities = client.analyze_entities(document=document)
 
-    return response
+    return entities
+
+
+#def analyze_sentiment(text, encoding='UTF32'):
+#    body = {
+#        'document': {
+#            'type': 'PLAIN_TEXT',
+#            'content': text,
+#        },
+#        'encoding_type': encoding
+#    }
+#
+#    service = googleapiclient.discovery.build('language', 'v1')
+#
+#    request = service.documents().analyzeSentiment(body=body)
+#    response = request.execute()
+#
+#    return response
+def analyze_sentiment_single_sentence(text):
+    client = language.LanguageServiceClient()
+
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
+
+    sentiment = client.analyze_sentiment(document=document)
+
+    return sentiment
+
+
+def analyze_sentiment_paragraph(text):
+    client = language.LanguageServiceClient()
+
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
+
+    sentiment = client.analyze_sentiment(document=document)
+
+    return sentiment
+
+
+#def analyze_syntax(text, encoding='UTF32'):
+#    body = {
+#        'document': {
+#            'type': 'PLAIN_TEXT',
+#            'content': text,
+#        },
+#        'encoding_type': encoding
+#    }
+#
+#    service = googleapiclient.discovery.build('language', 'v1')
+#
+#    request = service.documents().analyzeSyntax(body=body)
+#    response = request.execute()
+#
+#    return response
+def analyze_syntax_single_sentence(text):
+	client = language.LanguageServiceClient()
+
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
+
+    syntax = client.analyze_syntax(document=document)
+
+    return syntax
+
+
+def analyze_syntax_paragraph(text):
+	client = language.LanguageServiceClient()
+
+    document = types.Document(
+        content=text,
+        type=enums.Document.Type.PLAIN_TEXT)
+
+    syntax = client.analyze_syntax(document=document)
+
+    return syntax
 
 
 def looper()
     sample_text = '''Here is some sample text.  Aaron shouldn't sleep in class.  Boosting is a principle used in many applications for aid in in image processing.'''
     encoding = get_native_encoding_type()
-    sentiment = analyze_sentiment(sample_text, encoding)
-    entities = analyze_entities(sample_text, encoding)
-    syntax = analyze_syntax(sample_text, encoding)
+    sentiment = analyze_sentiment_paragraph(sample_text, encoding)
+    entities = analyze_entities_paragraph(sample_text, encoding)
+    syntax = analyze_syntax_paragraph(sample_text, encoding)
     print(sentiment)
     print(entities)
     print(syntax)
