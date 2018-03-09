@@ -25,27 +25,7 @@ from google.cloud import language
 from google.cloud.language import enums
 from google.cloud.language import types
 
-#def language_analysis(text):
-#	client = language.LanguageServiceClient()
-#	document = client.document_from_text(text)
-#	sent_analysis = document.analyze_sentiment()
-#	dir(sent_analysis)
-#	sentiment = sent_analysis.sentiment
-#
-#	ent_analysis = document.analyze_entities()
-#	dir(ent_analysis)
-#	entities = ent_analysis.entities
-#
-#	return sentiment, entities
-#
-#
-#example_text = 'Python is such a great programming language'
-#sentiment, entities = language_analysis(example_text)
-#print(sentiment.score, sentiment.magnitude)
-#for e in entities:
-#	print(e.name, e.entity_type, e.metadata, e.salience)
 
-	
 def get_native_encoding_type():
 	"""Returns the encoding type that matches Python's native strings."""
 	if sys.maxunicode == 65535:
@@ -53,120 +33,52 @@ def get_native_encoding_type():
 	else:
 		return 'UTF32'
 	
-#def analyze_entities(text, encoding='UTF32'):
-#    body = {
-#        'document': {
-#            'type': 'PLAIN_TEXT',
-#            'content': text,
-#        },
-#        'encoding_type': encoding,
-#    }
-#
-#    service = googleapiclient.discovery.build('language', 'v1')
-#
-#    request = service.documents().analyzeEntities(body=body)
-#    response = request.execute()
-#
-#    return response
+
 def analyze_entities_single_sentence(text):
     client = language.LanguageServiceClient()
-
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
     entities = client.analyze_entities(document=document)
-
     return entities
 
 
-def analyze_entities_paragraph(text):
+def analyze_sentiment(text):
     client = language.LanguageServiceClient()
-
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
-    entities = client.analyze_entities(document=document)
-
-    return entities
-
-
-#def analyze_sentiment(text, encoding='UTF32'):
-#    body = {
-#        'document': {
-#            'type': 'PLAIN_TEXT',
-#            'content': text,
-#        },
-#        'encoding_type': encoding
-#    }
-#
-#    service = googleapiclient.discovery.build('language', 'v1')
-#
-#    request = service.documents().analyzeSentiment(body=body)
-#    response = request.execute()
-#
-#    return response
-def analyze_sentiment_single_sentence(text):
-    client = language.LanguageServiceClient()
-
-    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
     sentiment = client.analyze_sentiment(document=document)
-
     return sentiment
 
 
-def analyze_sentiment_paragraph(text):
+def analyze_syntax(text):
     client = language.LanguageServiceClient()
-
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
-    sentiment = client.analyze_sentiment(document=document)
-
-    return sentiment
-
-
-#def analyze_syntax(text, encoding='UTF32'):
-#    body = {
-#        'document': {
-#            'type': 'PLAIN_TEXT',
-#            'content': text,
-#        },
-#        'encoding_type': encoding
-#    }
-#
-#    service = googleapiclient.discovery.build('language', 'v1')
-#
-#    request = service.documents().analyzeSyntax(body=body)
-#    response = request.execute()
-#
-#    return response
-def analyze_syntax_single_sentence(text):
-    client = language.LanguageServiceClient()
-
-    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
     syntax = client.analyze_syntax(document=document)
-
     return syntax
 
 
-def analyze_syntax_paragraph(text):
-    client = language.LanguageServiceClient()
-
-    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-
-    syntax = client.analyze_syntax(document=document)
-
-    return syntax
-
-
-def looper():
-    sample_text = '''Here is some sample text.  Aaron shouldn't sleep in class.  Boosting is a principle used in many applications for aid in in image processing.'''
-    encoding = get_native_encoding_type()
-    sentiment = analyze_sentiment_paragraph(sample_text)
-    entities = analyze_entities_paragraph(sample_text)
-    syntax = analyze_syntax_paragraph(sample_text)
+def createJSONLineObject(line):
+    sentiment = analyze_sentiment_single_sentence(line)
+    entities = analyze_entities_single_sentence(line)
+    syntax = analyze_syntax_single_sentence(line)
     print(sentiment)
     print(entities)
     print(syntax)
+    print("Line {}: {}".format(cnt, line.strip()))
+    
+
+def readFile(filein):
+    filepath = "/home/ros/catkin_ws/src/copernicusnn/scripts/" + filein
+    with open(filepath) as fp:  
+        line = fp.readline()
+        while line:
+            createJSONLineObject(line)
+            line = fp.readline()
+    return
+
+
+def looper(filein, fileout):
+    filepath = "/home/ros/catkin_ws/src/copernicusnn/scripts/" + fileout
+    with open(filepath) as fp:
+        fp.write(readFile(filein))
 
 
 if __name__ == '__main__':
