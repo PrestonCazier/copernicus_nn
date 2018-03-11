@@ -59,27 +59,34 @@ def createJSONLineObject(line):
     sentiment = analyze_sentiment_single_sentence(line)
     entities = analyze_entities_single_sentence(line)
     syntax = analyze_syntax_single_sentence(line)
-    print(sentiment)
-    print(entities)
-    print(syntax)
-    print("Line {}: {}".format(cnt, line.strip()))
-    
+    #print(sentiment)
+    #print(entities)
+    #print(syntax)
+    #print("Line {}: {}".format(cnt, line.strip()))
+    pythonDictionary = {'sentiment' : sentiment, 'entities' : entities, 'syntax' : syntax
+    return pythonDictionary
 
-def readFile(filein):
-    filepath = "/home/ros/catkin_ws/src/copernicusnn/scripts/" + filein
+
+def writeJsonToFile(jsonDict, fileout, filepath):
+    path = filepath + fileout
+    file = open(path, "a")
+    file.write(jsonDict)
+    file.close()
+
+
+def readFile(filein, fileout, filepath):
+    filepath = filepath + filein
     with open(filepath) as fp:  
         line = fp.readline()
         while line:
-            createJSONLineObject(line)
+            dictionaryToJson = json.dumps(createJSONLineObject(line))
+            writeJsonToFile(dictionaryToJson, fileout)
             line = fp.readline()
     return
 
 
-def looper(filein, fileout):
-    filepath = "/home/ros/catkin_ws/src/copernicusnn/scripts/" + fileout
-    with open(filepath) as fp:
-        fp.write(readFile(filein))
-
-
 if __name__ == '__main__':
-    looper()
+    filein = '/home/ros/'
+    fileout = ''
+    filepath = ''
+    readFile(filein, fileout, filepath)
