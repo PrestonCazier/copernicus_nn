@@ -34,7 +34,7 @@ def get_native_encoding_type():
 		return 'UTF32'
 	
 
-def analyze_entities_single_sentence(text):
+def analyze_entities(text):
     client = language.LanguageServiceClient()
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
     entities = client.analyze_entities(document=document)
