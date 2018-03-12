@@ -86,18 +86,18 @@ def createSyntaxString(syntax):
 
 
 def createPartOfSpeechString(partOfSpeech):
-    return_string = '\"tag\" : ' + partOfSpeech.tag + ', '
-    return_string += '\"aspect" : ' partOfSpeech.aspect + ', '
-    return_string += '\"case" : ' + partOfSpeech.case + ', '
-    return_string += '\"form" : ' + partOfSpeech.form + ', '
-    return_string += '\"gender" : ' + partOfSpeech.gender + ', '
-    return_string += '\"mood" : ' + partOfSpeech.mood + ', '
-    return_string += '\"number" : ' + partOfSpeech.number + ', '
-    return_string += '\"person" : ' + partOfSpeech.person + ', '
-    return_string += '\"proper" : ' + partOfSpeech.proper + ', '
-    return_string += '\"reciprocity" : ' + partOfSpeech.reciprocity + ', '
-    return_string += '\"tense" : ' + partOfSpeech.tense + ', '
-    return_string += '\"voice" : ' + partOfSpeech.voice
+    return_string = '\"tag\" : ' + partOfSpeech.Tag + ', '
+    return_string += '\"aspect\" : ' + partOfSpeech.Aspect + ', '
+    return_string += '\"case\" : ' + partOfSpeech.Case + ', '
+    return_string += '\"form\" : ' + partOfSpeech.Form + ', '
+    return_string += '\"gender\" : ' + partOfSpeech.Gender + ', '
+    return_string += '\"mood\" : ' + partOfSpeech.Mood + ', '
+    return_string += '\"number\" : ' + partOfSpeech.Number + ', '
+    return_string += '\"person\" : ' + partOfSpeech.Person + ', '
+    return_string += '\"proper\" : ' + partOfSpeech.Proper + ', '
+    return_string += '\"reciprocity\" : ' + partOfSpeech.Reciprocity + ', '
+    return_string += '\"tense\" : ' + partOfSpeech.Tense + ', '
+    return_string += '\"voice\" : ' + partOfSpeech.Voice
     return return_string
 
 
@@ -105,7 +105,7 @@ def createJSONLineObject(line):
     sentiment = analyze_sentiment(line)
     entities = analyze_entities(line)
     syntax = analyze_syntax(line)
-    name_s = '{ \"name\" : ' + entities.name 
+    name_s = '{ \"name\" : ' + line 
     sentiment_s = createSentimentString(sentiment)
     entities_s = createEntitiesString(entities)
     syntax_s = createSyntaxString(syntax)
@@ -133,4 +133,4 @@ if __name__ == '__main__':
     filein = 'sentences/sentences'
     fileout = 'proc_sent/processed_sentences'
     filepath = '/home/ros/Downloads/copernicusnn-master/'
-    readFile(filein, fileout, filepath, 1)
+    readFile(filein, fileout, filepath, str(1))
