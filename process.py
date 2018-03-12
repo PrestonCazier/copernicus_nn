@@ -41,11 +41,32 @@ def analyze_entities(text):
     return entities
 
 
+def createEntitiesString(entities):
+    type_s = entities.type
+    salience_s = entities.salience
+    mentions_s = createMentionsString(entities.mentions)
+    return_string = '{ \"sentiment\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t'
+
+
+def createMentionsString(mentions):
+    text_s = '\"text\" : { \"content\" : ' + mentions.text.content + ', \"beginOffset\" : ' + mentions.text.beginOffset + ' }, '
+    type_s = '\"type\" : ' + mentions.type
+    return_string = text_s + type_s
+    return return_string
+
+
 def analyze_sentiment(text):
     client = language.LanguageServiceClient()
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
     sentiment = client.analyze_sentiment(document=document)
     return sentiment
+
+
+def createSentimentString(sentiment):
+    score = sentiment.score
+    magnitude = sentiment.magnitude
+    return_string = '{ \"sentiment\" : { \"score\" : ' + score + ', "magnitude\" : ' + magnitude + ' } },\n\t' 
+    return return_string
 
 
 def analyze_syntax(text):
@@ -55,16 +76,40 @@ def analyze_syntax(text):
     return syntax
 
 
+def createSyntaxString(syntax):
+    text_s = '\"text\" : { \"content\" : ' + syntax.text.content + ', \"beginOffset\" : ' + syntax.text.beginOffset + ' }, '
+    partOfSpeech_s =  '\"partOfSpeech\" : { ' + createPartOfSpeechString(syntax.partOfSpeech) + ' }, '
+    dependencyEdge_s = '\"dependencyEdge\" : { \"headTokenIndex\" : ' + syntax.dependencyEdge.headTokenIndex + ', \"label\" : ' + syntax.dependencyEdge.label + ' }, '
+    lemma_s = '\"lemma\" : ' + syntax.lemma
+    return_string = '{ \"syntax\" : {' + text_s + partOfSpeech_s + dependencyEdge_s + ' } }\n'
+    return return_string
+
+
+def createPartOfSpeechString(partOfSpeech):
+    return_string = '\"tag\" : ' + partOfSpeech.tag + ', '
+    return_string += '\"aspect" : ' partOfSpeech.aspect + ', '
+    return_string += '\"case" : ' + partOfSpeech.case + ', '
+    return_string += '\"form" : ' + partOfSpeech.form + ', '
+    return_string += '\"gender" : ' + partOfSpeech.gender + ', '
+    return_string += '\"mood" : ' + partOfSpeech.mood + ', '
+    return_string += '\"number" : ' + partOfSpeech.number + ', '
+    return_string += '\"person" : ' + partOfSpeech.person + ', '
+    return_string += '\"proper" : ' + partOfSpeech.proper + ', '
+    return_string += '\"reciprocity" : ' + partOfSpeech.reciprocity + ', '
+    return_string += '\"tense" : ' + partOfSpeech.tense + ', '
+    return_string += '\"voice" : ' + partOfSpeech.voice
+    return return_string
+
+
 def createJSONLineObject(line):
     sentiment = analyze_sentiment(line)
     entities = analyze_entities(line)
     syntax = analyze_syntax(line)
-    #print(sentiment)
-    #print(entities)
-    #print(syntax)
-    #print("Line {}: {}".format(cnt, line.strip()))
-    pythonDictionary = {'sentiment' : sentiment, 'entities' : entities, 'syntax' : syntax }
-    return pythonDictionary
+    name_s = '{ \"name\" : ' + entities.name 
+    sentiment_s = createSentimentString(sentiment)
+    entities_s = createEntitiesString(entities)
+    syntax_s = createSyntaxString(syntax)
+    return name_s + '\n\t' + sentiment_s + entities_s + syntax_s
 
 
 def writeJsonToFile(jsonDict, fileout, filepath, num):
@@ -74,24 +119,18 @@ def writeJsonToFile(jsonDict, fileout, filepath, num):
     file.close()
 
 
-def readFile(filein, fileout, filepath):
-    #for x in range(1, 100)
-    count = 0
-    num = 1
-    filepath = filepath + filein + '1.txt'
+def readFile(filein, fileout, filepath, num):
+    filepath = filepath + filein + num+ '.txt'
     with open(filepath) as fp:  
         line = fp.readline()
         while line:
-            dictionaryToJson = json.dumps(createJSONLineObject(line))
-            writeJsonToFile(dictionaryToJson, fileout)
+            jsonDict = createJSONLineObject(line)
+            writeJsonToFile(jsonDict, fileout, num)
             line = fp.readline()
-            count += 1
-            if count == 5000:
-                num+=1
 
 
 if __name__ == '__main__':
-    filein = 'sentences'
-    fileout = 'processed_sentences'
+    filein = 'sentences/sentences'
+    fileout = 'proc_sent/processed_sentences'
     filepath = '/home/ros/Downloads/copernicusnn-master/'
-    readFile(filein, fileout, filepath)
+    readFile(filein, fileout, filepath, 1)
