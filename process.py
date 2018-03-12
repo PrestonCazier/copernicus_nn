@@ -37,15 +37,15 @@ def get_native_encoding_type():
 def analyze_entities(text):
     client = language.LanguageServiceClient()
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-    entities = client.analyze_entities(document=document)
-    return entities
+    response = client.analyze_entities(document=document)
+    return response.entities
 
 
 def createEntitiesString(entity):
     type_s = entity.entity_type
     salience_s = entity.salience
     mentions_s = createMentionsString(entity.mentions)
-    return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t'
+    return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t\t'
 
 
 def createMentionsString(mentions):
@@ -108,8 +108,10 @@ def createJSONLineObject(line):
     syntax = analyze_syntax(line)
     name_s = '{ \"name\" : ' + line 
     sentiment_s = createSentimentString(sentiment)
-    for entity in entities.entities:
-        entities_s = createEntitiesString(entities)
+    entities_s = '{ \"entities\" : {\n\t\t'
+    for entity in entities:
+        entities_s += createEntitiesString(entities)
+    entities_s += '\n\t},\n\t'
     syntax_s = createSyntaxString(syntax)
     return name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '},\n'
 
