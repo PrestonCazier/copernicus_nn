@@ -56,9 +56,9 @@ def analyze_syntax(text):
 
 
 def createJSONLineObject(line):
-    sentiment = analyze_sentiment_single_sentence(line)
-    entities = analyze_entities_single_sentence(line)
-    syntax = analyze_syntax_single_sentence(line)
+    sentiment = analyze_sentiment(line)
+    entities = analyze_entities(line)
+    syntax = analyze_syntax(line)
     #print(sentiment)
     #print(entities)
     #print(syntax)
@@ -76,6 +76,8 @@ def writeJsonToFile(jsonDict, fileout, filepath, num):
 
 def readFile(filein, fileout, filepath):
     #for x in range(1, 100)
+    count = 0
+    num = 1
     filepath = filepath + filein + '1.txt'
     with open(filepath) as fp:  
         line = fp.readline()
@@ -83,7 +85,9 @@ def readFile(filein, fileout, filepath):
             dictionaryToJson = json.dumps(createJSONLineObject(line))
             writeJsonToFile(dictionaryToJson, fileout)
             line = fp.readline()
-    return
+            count += 1
+            if count == 5000:
+                num+=1
 
 
 if __name__ == '__main__':
