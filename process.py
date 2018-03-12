@@ -66,7 +66,7 @@ def analyze_sentiment(text):
 def createSentimentString(sentiment):
     score = sentiment.score
     magnitude = sentiment.magnitude
-    return_string = '{ \"sentiment\" : { \"score\" : ' + score + ', "magnitude\" : ' + magnitude + ' } },\n\t' 
+    return_string = '{ \"sentiment\" : { \"score\" : ' + str(score) + ', "magnitude\" : ' + str(magnitude) + ' } },\n\t' 
     return return_string
 
 
