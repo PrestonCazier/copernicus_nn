@@ -41,11 +41,11 @@ def analyze_entities(text):
     return entities
 
 
-def createEntitiesString(entities):
-    type_s = entities.type
-    salience_s = entities.salience
-    mentions_s = createMentionsString(entities.mentions)
-    return_string = '{ \"sentiment\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t'
+def createEntitiesString(entity):
+    type_s = entity.entity_type
+    salience_s = entity.salience
+    mentions_s = createMentionsString(entity.mentions)
+    return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t'
 
 
 def createMentionsString(mentions):
@@ -108,7 +108,8 @@ def createJSONLineObject(line):
     syntax = analyze_syntax(line)
     name_s = '{ \"name\" : ' + line 
     sentiment_s = createSentimentString(sentiment)
-    entities_s = createEntitiesString(entities)
+    for entity in entities.entities:
+        entities_s = createEntitiesString(entities)
     syntax_s = createSyntaxString(syntax)
     return name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '},\n'
 
