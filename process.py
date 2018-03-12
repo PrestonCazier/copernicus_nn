@@ -136,7 +136,8 @@ def createJSONLineObject(line):
     syntax_s = '\n\t{ \"syntax\" : ['
     for token in syntax_tokens:
         syntax_s += createSyntaxString(token)
-    return name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '\n\t]}\n},\n'
+    return_string = name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '\n\t]}\n},\n'
+    return return_string.encode('UTF-8')
 
 
 def writeJsonToFile(jsonDict, fileout, filepath, num):
@@ -149,7 +150,7 @@ def writeJsonToFile(jsonDict, fileout, filepath, num):
 def readFile(filein, fileout, filepath, num):
     count = 1
     filep = filepath + filein + num+ '.txt'
-    with open(filep) as fp:  
+    with open(filep, encoding="utf8") as fp:  
         line = fp.readline()
         while line:
             print(count)
