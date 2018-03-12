@@ -45,15 +45,18 @@ def createEntitiesString(entity):
     entity_type = ('UNKNOWN', 'PERSON', 'LOCATION', 'ORGANIZATION',
                    'EVENT', 'WORK_OF_ART', 'CONSUMER_GOOD', 'OTHER')
     type_s = entity_type[entity.type]
-    salience_s = entity.salience
-    mentions_s = createMentionsString(entity.mentions)
-    return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t\t'
+    salience_s = str(entity.salience)
+    mentions_s = '\"mentions\" : ['
+    for mention in entity.mentions:
+    	mentions_s += createMentionsString(mention)
+    return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', ' + mentions_s + '  ] } },\n\t\t'
+    return return_string
 
 
-def createMentionsString(mentions):
-    text_s = '\"text\" : { \"content\" : ' + mentions.text.content + ', \"beginOffset\" : ' + mentions.text.beginOffset + ' }, '
-    type_s = '\"type\" : ' + mentions.type
-    return_string = text_s + type_s
+def createMentionsString(mention):
+    text_s = '\"text\" : { \"content\" : ' + mention.text.content + ', \"begin_offset\" : ' + str(mention.text.begin_offset) + ' }, '
+    type_s = '\"type\" : ' + str(mention.type)		#enum here
+    return_string = '{ ' +  text_s + type_s + ' }, '
     return return_string
 
 
@@ -75,46 +78,48 @@ def createSentimentString(sentiment):
 def analyze_syntax(text):
     client = language.LanguageServiceClient()
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-    syntax = client.analyze_syntax(document=document)
-    return syntax
+    syntax_tokens = client.analyze_syntax(document=document).tokens
+    return syntax_tokens
 
 
-def createSyntaxString(syntax):
-    text_s = '\"text\" : { \"content\" : ' + syntax.text.content + ', \"beginOffset\" : ' + syntax.text.beginOffset + ' }, '
-    partOfSpeech_s =  '\"partOfSpeech\" : { ' + createPartOfSpeechString(syntax.partOfSpeech) + ' }, '
-    dependencyEdge_s = '\"dependencyEdge\" : { \"headTokenIndex\" : ' + syntax.dependencyEdge.headTokenIndex + ', \"label\" : ' + syntax.dependencyEdge.label + ' }, '
-    lemma_s = '\"lemma\" : ' + syntax.lemma
+def createSyntaxString(token):
+    text_s = '\"text\" : { \"content\" : ' + token.text.content + ', \"begin_offset\" : ' + str(token.text.begin_offset) + ' }, '
+    partOfSpeech_s =  '\"part_of_speech\" : { ' + createPartOfSpeechString(token.part_of_speech) + ' }, '
+    dependencyEdge_s = '\"dependency_edge\" : { \"head_token_index\" : ' + str(token.dependency_edge.head_token_index) + ', \"label\" : ' + str(token.dependency_edge.label) + ' }, '			#label is enum
+    lemma_s = '\"lemma\" : ' + token.lemma
     return_string = '{ \"syntax\" : {' + text_s + partOfSpeech_s + dependencyEdge_s + ' } }\n'
     return return_string
 
 
 def createPartOfSpeechString(partOfSpeech):
-    return_string = '\"tag\" : ' + partOfSpeech.Tag + ', '
-    return_string += '\"aspect\" : ' + partOfSpeech.Aspect + ', '
-    return_string += '\"case\" : ' + partOfSpeech.Case + ', '
-    return_string += '\"form\" : ' + partOfSpeech.Form + ', '
-    return_string += '\"gender\" : ' + partOfSpeech.Gender + ', '
-    return_string += '\"mood\" : ' + partOfSpeech.Mood + ', '
-    return_string += '\"number\" : ' + partOfSpeech.Number + ', '
-    return_string += '\"person\" : ' + partOfSpeech.Person + ', '
-    return_string += '\"proper\" : ' + partOfSpeech.Proper + ', '
-    return_string += '\"reciprocity\" : ' + partOfSpeech.Reciprocity + ', '
-    return_string += '\"tense\" : ' + partOfSpeech.Tense + ', '
-    return_string += '\"voice\" : ' + partOfSpeech.Voice
+    return_string = '\"tag\" : ' + str(partOfSpeech.tag) + ', '				# enum
+    return_string += '\"aspect\" : ' + str(partOfSpeech.aspect) + ', '			# enum
+    return_string += '\"case\" : ' + str(partOfSpeech.case) + ', '			# enum
+    return_string += '\"form\" : ' + str(partOfSpeech.form) + ', '			# enum
+    return_string += '\"gender\" : ' + str(partOfSpeech.gender) + ', '			# enum
+    return_string += '\"mood\" : ' + str(partOfSpeech.mood) + ', '			# enum
+    return_string += '\"number\" : ' + str(partOfSpeech.number) + ', '			# enum
+    return_string += '\"person\" : ' + str(partOfSpeech.person) + ', '			# enum
+    return_string += '\"proper\" : ' + str(partOfSpeech.proper) + ', '			# enum
+    return_string += '\"reciprocity\" : ' + str(partOfSpeech.reciprocity) + ', '	# enum
+    return_string += '\"tense\" : ' + str(partOfSpeech.tense) + ', '			# enum
+    return_string += '\"voice\" : ' + str(partOfSpeech.voice)				# enum
     return return_string
 
 
 def createJSONLineObject(line):
     sentiment = analyze_sentiment(line)
     entities = analyze_entities(line)
-    syntax = analyze_syntax(line)
+    syntax_tokens = analyze_syntax(line)
     name_s = '{ \"name\" : ' + line 
     sentiment_s = createSentimentString(sentiment)
     entities_s = '{ \"entities\" : {\n\t\t'
     for entity in entities:
-        entities_s += createEntitiesString(entities)
+        entities_s += createEntitiesString(entity)
     entities_s += '\n\t},\n\t'
-    syntax_s = createSyntaxString(syntax)
+    syntax_s = '{ \"syntax\" : {\n\t\t'
+    for token in syntax_tokens:
+        syntax_s += createSyntaxString(token)
     return name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '},\n'
 
 
@@ -126,12 +131,12 @@ def writeJsonToFile(jsonDict, fileout, filepath, num):
 
 
 def readFile(filein, fileout, filepath, num):
-    filepath = filepath + filein + num+ '.txt'
-    with open(filepath) as fp:  
+    filep = filepath + filein + num+ '.txt'
+    with open(filep) as fp:  
         line = fp.readline()
         while line:
             jsonDict = createJSONLineObject(line)
-            writeJsonToFile(jsonDict, fileout, num)
+            writeJsonToFile(jsonDict, fileout, filepath, num)
             line = fp.readline()
 
 
