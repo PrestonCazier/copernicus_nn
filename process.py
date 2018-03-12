@@ -63,7 +63,7 @@ def createJSONLineObject(line):
     #print(entities)
     #print(syntax)
     #print("Line {}: {}".format(cnt, line.strip()))
-    pythonDictionary = {'sentiment' : sentiment, 'entities' : entities, 'syntax' : syntax
+    pythonDictionary = {'sentiment' : sentiment, 'entities' : entities, 'syntax' : syntax }
     return pythonDictionary
 
 
