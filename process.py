@@ -42,7 +42,9 @@ def analyze_entities(text):
 
 
 def createEntitiesString(entity):
-    type_s = entity.entity_type
+    entity_type = ('UNKNOWN', 'PERSON', 'LOCATION', 'ORGANIZATION',
+                   'EVENT', 'WORK_OF_ART', 'CONSUMER_GOOD', 'OTHER')
+    type_s = entity_type[entity.type]
     salience_s = entity.salience
     mentions_s = createMentionsString(entity.mentions)
     return_string = '{ \"name\" : ' + entity.name + ', \"entity\" : { \"type\" : ' + type_s + ', \"salience\" : ' + salience_s + ', \"mentions\" : [ { ' + mentions_s + ' } ] } },\n\t\t'
