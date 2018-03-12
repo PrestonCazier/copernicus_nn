@@ -67,8 +67,8 @@ def createJSONLineObject(line):
     return pythonDictionary
 
 
-def writeJsonToFile(jsonDict, fileout, filepath):
-    path = filepath + fileout
+def writeJsonToFile(jsonDict, fileout, filepath, num):
+    path = filepath + fileout + num + '.json'
     file = open(path, "a")
     file.write(jsonDict)
     file.close()
@@ -86,7 +86,7 @@ def readFile(filein, fileout, filepath):
 
 
 if __name__ == '__main__':
-    filein = '/home/ros/'
-    fileout = ''
-    filepath = ''
+    filein = 'sentences'
+    fileout = 'processed_sentences'
+    filepath = '/home/ros/Downloads/copernicusnn-master/'
     readFile(filein, fileout, filepath)
