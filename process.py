@@ -58,7 +58,8 @@ def createMentionsString(mentions):
 def analyze_sentiment(text):
     client = language.LanguageServiceClient()
     document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
-    sentiment = client.analyze_sentiment(document=document)
+    response = client.analyze_sentiment(document=document)
+    sentiment = response.document_sentiment
     return sentiment
 
 
