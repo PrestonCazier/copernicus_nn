@@ -109,7 +109,7 @@ def createJSONLineObject(line):
     sentiment_s = createSentimentString(sentiment)
     entities_s = createEntitiesString(entities)
     syntax_s = createSyntaxString(syntax)
-    return name_s + '\n\t' + sentiment_s + entities_s + syntax_s
+    return name_s + '\n\t' + sentiment_s + entities_s + syntax_s + '},\n'
 
 
 def writeJsonToFile(jsonDict, fileout, filepath, num):
