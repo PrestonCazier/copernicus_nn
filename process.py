@@ -75,7 +75,8 @@ def writeJsonToFile(jsonDict, fileout, filepath, num):
 
 
 def readFile(filein, fileout, filepath):
-    filepath = filepath + filein
+    #for x in range(1, 100)
+    filepath = filepath + filein + '1.txt'
     with open(filepath) as fp:  
         line = fp.readline()
         while line:
