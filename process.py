@@ -56,7 +56,7 @@ def createEntitiesString(entity):
 def createMentionsString(mention):
     mention_type = ('TYPE_UNKNOWN', 'PROPER', 'COMMON')
     text_s = '\"text\" : { \"content\" : ' + mention.text.content + ', \"begin_offset\" : ' + str(mention.text.begin_offset) + ' }, '
-    type_s = '\"type\" : ' + mention_type(mention.type)		#enum here
+    type_s = '\"type\" : ' + mention_type[mention.type]		#enum here
     return_string = '{ ' +  text_s + type_s + ' }, '
     return return_string
 
@@ -87,9 +87,9 @@ def createSyntaxString(token):
     text_s = '\n\t\t\t{\n\t\t\t\t\"text\" : { \"content\" : ' + token.text.content + ', \"begin_offset\" : ' + str(token.text.begin_offset) + ' }, '
     partOfSpeech_s =  '\n\t\t\t\t\"part_of_speech\" : { ' + createPartOfSpeechString(token.part_of_speech) + ' }, '
     de_label = ('UNKNOWN', 'ABBREV', 'ACOMP', 'ADVCL', 'ADVMOD', 'AMOD', 'APPOS', 'ATTR', 'AUX', 'AUXPASS', 'CC', 'CCOMP', 'CONJ', 'CSUBJ', 'CSUBJPASS', 'DEP', 'DET', 'DISCOURSE', 'DOBJ', 'EXPL', 'GOESWITH', 'IOBJ', 'MARK', 'MWE', 'MWV', 'NEG', 'NN', 'NPADVMOD', 'NSUBJ', 'NSUBJPASS', 'NUM', 'NUMBER', 'P', 'PARATAXIS', 'PARTMOD', 'PCOMP', 'POBJ', 'POSS', 'POSTNEG', 'PRECOMP', 'PRECONJ', 'PREDET', 'PREF', 'PREP', 'PRONL', 'PRT', 'PS', 'QUANTMOD', 'RCMOD', 'RCMODREL', 'RDROP', 'REF', 'REMNANT', 'REPARANDUM', 'ROOT', 'SNUM', 'SUFF', 'TMOD', 'TOPIC', 'VMOD', 'VOCATIVE', 'XCOMP', 'SUFFIX', 'TITLE', 'ADVPHMOD', 'AUXCAUS', 'AUXVV', 'DTMOD', 'FOREIGN', 'KW', 'LIST', 'NOMC', 'NOMCSUBJ', 'NOMCSUBJPASS', 'NUMC', 'COP', 'DISLOCATED', 'ASP', 'GMOD', 'GOBJ', 'INFMOD', 'MES', 'NCOMP')
-    dependencyEdge_s = '\n\t\t\t\t\"dependency_edge\" : { \"head_token_index\" : ' + str(token.dependency_edge.head_token_index) + ', \"label\" : ' + de_label(token.dependency_edge.label) + ' },'			#label is enum
+    dependencyEdge_s = '\n\t\t\t\t\"dependency_edge\" : { \"head_token_index\" : ' + str(token.dependency_edge.head_token_index) + ', \"label\" : ' + de_label[token.dependency_edge.label] + ' },'			#label is enum
     lemma_s = '\n\t\t\t\t\"lemma\" : ' + token.lemma
-    return_string = '\n\t\t{ \"token\" : ' + text_s + partOfSpeech_s + dependencyEdge_s + lemma_s' },\n'
+    return_string = '\n\t\t{ \"token\" : ' + text_s + partOfSpeech_s + dependencyEdge_s + lemma_s + ' },\n'
     return return_string
 
 
@@ -98,28 +98,28 @@ def createPartOfSpeechString(partOfSpeech):
     pos_tag = ('UNKNOWN', 'ADJ', 'ADP', 'ADV', 'CONJ', 'DET', 'NOUN', 'NUM',
                'PRON', 'PRT', 'PUNCT', 'VERB', 'X', 'AFFIX')
     return_string = '\"tag\" : ' + pos_tag[partOfSpeech.tag] + ', '				# enum
-    aspect = ('ASPECT_UNKNOWN', 'PERFECTIVE', 'IMPERFECTIVE', 'PROGRESSIVE')
-    return_string += '\"aspect\" : ' + apsect(partOfSpeech.aspect) + ', '			# enum
+    pos_aspect = ('ASPECT_UNKNOWN', 'PERFECTIVE', 'IMPERFECTIVE', 'PROGRESSIVE')
+    return_string += '\"aspect\" : ' + pos_aspect[partOfSpeech.aspect] + ', '			# enum
     pos_case = ('CASE_UNKNOWN', 'ACCUSATIVE', 'ADVERBAL', 'COMPLEMENTIVE', 'DATIVE', 'GENITIVE', 'INSTRUMENTAL', 'LOCATIVE', 'NOMINATIVE', 'OBLIQUE', 'PARTITIVE', 'PREPOSTIONAL', 'REFLEXIVE_CASE', 'RELATIVE_CASE', 'VOCATIVE')
-    return_string += '\"case\" : ' + pos_case(partOfSpeech.case) + ', '			# enum
+    return_string += '\"case\" : ' + pos_case[partOfSpeech.case] + ', '			# enum
     pos_form = ('FORM_UNKNOWN', 'ADNOMIAL', 'AUXILIARY', 'COMPLEMENTIZER', 'FINAL_ENDING', 'GERUND', 'REALIS', 'IRREALIS', 'SHORT', 'LONG', 'ORDER', 'SPECIFIC')
-    return_string += '\"form\" : ' + pos_form(partOfSpeech.form) + ', '			# enum
+    return_string += '\"form\" : ' + pos_form[partOfSpeech.form] + ', '			# enum
     pos_gender = ('GENDER_UNKNOWN', 'FEMININE', 'MASCULINE', 'NEUTER')
-    return_string += '\"gender\" : ' + pos_gender(partOfSpeech.gender) + ', '			# enum
+    return_string += '\"gender\" : ' + pos_gender[partOfSpeech.gender] + ', '			# enum
     pos_mood = ('MOOD_UNKNOWN', 'CONDITIONAL_MOOD', 'IMPERATIVE', 'INDICATIVE', 'INTERROGATIVE', 'JUSSIVE', 'SUBJUNCTIVE')
-    return_string += '\"mood\" : ' + pos_mood(partOfSpeech.mood) + ', '			# enum
+    return_string += '\"mood\" : ' + pos_mood[partOfSpeech.mood] + ', '			# enum
     pos_number = ('NUMBER_UNKNOWN', 'SINGULAR', 'PLURAL', 'DUAL')
-    return_string += '\"number\" : ' + pos_number(partOfSpeech.number) + ', '			# enum
+    return_string += '\"number\" : ' + pos_number[partOfSpeech.number] + ', '			# enum
     pos_person = ('PERSON_UNKNOWN', 'FIRST', 'SECOND', 'THIRD', 'REFLEXIVE_PERSON')
-    return_string += '\"person\" : ' + pos_person(partOfSpeech.person) + ', '			# enum
+    return_string += '\"person\" : ' + pos_person[partOfSpeech.person] + ', '			# enum
     pos_proper = ('PROPER_UNKNOWN', 'PROPER', 'NOT_PROPER')
-    return_string += '\"proper\" : ' + pos_proper(partOfSpeech.proper) + ', '			# enum
+    return_string += '\"proper\" : ' + pos_proper[partOfSpeech.proper] + ', '			# enum
     pos_reciprocity = ('RECIPROCITY_UNKNOWN', 'RECIPROCAL', 'NON_RECIPROCAL')
-    return_string += '\"reciprocity\" : ' + pos_reciprocity(partOfSpeech.reciprocity) + ', '	# enum
+    return_string += '\"reciprocity\" : ' + pos_reciprocity[partOfSpeech.reciprocity] + ', '	# enum
     pos_tense = ('TENSE_UNKNOWN', 'CONDITIONAL_TENSE', 'FUTURE', 'PAST', 'PRESENT', 'IMPERFECT', 'PLUPERFECT')
-    return_string += '\"tense\" : ' + pos_tense(partOfSpeech.tense) + ', '			# enum
-    pos_voise = ('VOICE_UNKNOWN', 'ACTIVE', 'CAUSATIVE', 'PASSIVE')
-    return_string += '\"voice\" : ' + pos_voice(partOfSpeech.voice)				# enum
+    return_string += '\"tense\" : ' + pos_tense[partOfSpeech.tense] + ', '			# enum
+    pos_voice = ('VOICE_UNKNOWN', 'ACTIVE', 'CAUSATIVE', 'PASSIVE')
+    return_string += '\"voice\" : ' + pos_voice[partOfSpeech.voice]				# enum
     return return_string
 
 
