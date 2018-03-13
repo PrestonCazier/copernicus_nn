@@ -14,8 +14,6 @@ I don't know if I have the time.
 Education in this world disappoints me.
 You're in better shape than I am.
 You are in my way.
-This will cost €30.
-I make €100 a day.
 I may give up soon and just nap instead.
 It's because you don't want to be alone.
 That won't happen.
@@ -543,7 +541,6 @@ This baby penguin is too cute!
 I'm at the hospital. I got struck by lightning.
 Let's face it, it's impossible. We're never gonna make it.
 What is your greatest source of inspiration?
-You don't marry someone you can live with — you marry the person whom you cannot live without.
 In theory, there is no difference between theory and practice. But, in practice, there is.
 Don't stay in bed, unless you can make money in bed.
 There are people in the world so hungry, that God cannot appear to them except in the form of bread.
@@ -596,7 +593,6 @@ Denying she was an anarchist, Katja maintained she wished only to make changes i
 Blindness is responsible for a staggering toll of poor health, suffering, and loss of dignity and diminution in the quality of lives of people worldwide.
 The formation and movement of hurricanes are capricious, even with our present-day technology.
 When you send a telegram, brevity is essential because you will be charged for every word.
-David has a keen interest in aesthetics — the qualities that make a painting, sculpture, musical composition, or poem pleasing to the eye, ear, or mind.
 Despite Trang's constant affirmations of love, Spenser is still afraid someday she will fall out of love with him.
 You met him at the university?
 Aaah!! My computer is broken!
@@ -905,7 +901,6 @@ Time has passed very fast.
 Which is your luggage?
 Open the cupboard to the left, the bottles are in there.
 There are also nightclubs where you dance flamenco.
-The entrée includes a beverage.
 I suggest that we go out on Friday.
 That way I kill two birds with one stone.
 Do you have professional experience?
@@ -1760,7 +1755,6 @@ You should follow the doctor's advice.
 You'd better consult the doctor.
 You had better ask the doctor for advice.
 You are strong-minded.
-I'm surprised that you're so naïve.
 You've done it!
 Do you remember seeing me before?
 You must conquer your fear of the dark.
@@ -5075,7 +5069,6 @@ When the visitor entered the room, we stood to greet him.
 Give me one kibidango.
 I've lost my filling.
 This tooth has to have a filling.
-As I entered the café, I found two young men watching a wrestling match on television.
 As I entered a tearoom, I found two young men watching a wrestling match on television.
 I asked for a seat in the smoking section.
 Smoking, please.
@@ -10694,7 +10687,6 @@ It's a lot of fun making people laugh while giving a speech.
 The speaker tried to incite the people to rebellion.
 The speaker aroused the anger of the audience.
 The speaker swaggered into the lecture hall.
-François gave a speech.
 The speaker banged the table with his fist.
 I had little time to prepare the speech.
 A person giving a speech should stand where everyone can see him.
@@ -13881,7 +13873,6 @@ It is unusual to see rock stars wearing a tie!
 On the rocks, please.
 The rock concert was called off because the singer fell ill.
 I've done rock climbing and deep-sea diving and slept in an Indonesian jungle.
-We'd like a bottle of rosé.
 I thought you were raised in L.A.
 I should cancel my L.A. trip.
 I'd like to make a collect call to Los Angeles.
@@ -24251,7 +24242,6 @@ Sometimes her free manner seems rude.
 It's no crime to skip breakfast once in a while.
 It's no crime to just idle the whole day once in a while.
 You can't just work all day every day. You need to take a vacation once in a while.
-Sometimes it's good for a married couple to go to a hot spring together—just the two of them.
 Use your head for a change.
 Once in a while, I visit the theater.
 Why don't you dine out with me for a change?
@@ -24989,7 +24979,6 @@ Don't talk so loud.
 I'm concerned whether or not I can handle a big job like that.
 I cannot afford to pay so much.
 I've never seen so big a dog.
-Now, quit being so blasé about this.
 There can be no joy in that idle life.
 You don't have to stand on ceremony with me.
 Please don't walk so fast. I can't keep pace with you.
@@ -38909,7 +38898,6 @@ Do you have this in my size?
 It will surely by useful for your future to put forth this much effort.
 There are so many anti-smoking campaigns these days; maybe smoking really is a threat to the public order.
 I'm not afraid of anything after having verbal abuse heaped on me like that. In fact, I feel empowered by it.
-Not bad—not bad at all. This is quite a gathering of talent to have under one roof.
 Just don't forget this.
 I'll say this: I am innocent.
 Will this much food do for a week's camping?
@@ -49998,3 +49986,14 @@ We all agree in liking the teacher.
 Look at that mountain which is covered with snow.
 That baby has charming eyes.
 That baby is fat and healthy.
+I can truly say that baby is ugly.
+That baby will have slept five hours by noon.
+Look at that red building.
+That red tie doesn't go with your suit. Why don't you wear the green one?
+That red dress becomes her.
+That red sweater looks good on you.
+That blue-white shining star is Sirius.
+The young man was extremely money hungry.
+Please look at the girl who wore the blue clothes.
+That blue one is also mine.
+That student is Tom.

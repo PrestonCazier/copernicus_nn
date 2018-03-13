@@ -1,26 +1,3 @@
-I made her acquaintance through his introduction.
-His portrait was mounted in the fancy frame.
-His testimony stands on facts.
-His witness is approximate to the truth.
-The object of his admiration shows the kind of person that he would like to be.
-He is contemptuous of his boss's narrow mind.
-His boss has a good opinion of his knowledge of computers.
-We caught sight of his boat.
-His car collided with a train.
-The train he was on could no longer be seen.
-His train arrives at five this evening.
-His train arrived at Tokyo Station.
-His joke made us all laugh.
-His joke set the company off into a fit of laughter.
-His jokes amused me.
-His jokes made us laugh.
-His joke eased the tension in the room.
-His joke has been done to death.
-At his joke, they all burst into laughter.
-His joke made all the class burst into laughter.
-His joke set everyone laughing.
-His joke borders on insult.
-They held their sides with laughter at his joke.
 His information is certain.
 We admire his hold on the situation.
 His condition is, if anything, better than in the morning.
@@ -21293,7 +21270,6 @@ She is trying to save as much money as she can.
 She laughed the way schoolgirls do, with her hand over her mouth.
 She realized her ambition to be an actress.
 She showed the passengers how to fasten their seat belts.
-She is unbelievably naïve.
 She said her prayers, her heart full of love and tenderness.
 She is not only kind but honest.
 She is not only kind, but also honest.
@@ -36521,7 +36497,6 @@ What Microsoft is launching is a beta version of its "NetShow streaming server";
 To 'name' we pass the page identifier (Japanese and special characters cannot be used).
 ODS super alloy is produced by the mechanical alloy method following powder metallurgy.
 OK. I'm just next door so if you can get that assurance let me know.
-I got the OK so I unthinkingly created the clichéd 'grass runner thief/bard' character.
 He was PK'ed, I resurrected him.
 'That' has only the two cases, nominative and objective, and it does not inflect depending on the case.
 With Windows OS systems 'administrator account' corresponds to 'root'.
@@ -36770,7 +36745,6 @@ However, in China, they don't use a word for "human rights," but instead express
 However, when I finally reached the castle I was thrown into this prison by the commander of the imperial guard.
 But other things would need to be taken into account as well.
 However, it's a pain putting the room in order.
-However, it was not just me – there was one more person, no, one more creature visiting.
 What's more she went and ordered a top up of noodles twice.
 Moreover, what's on the bottom of the memo isn't dirt but a ... b-blood seal!?
 Moreover, she liked walks so much that even in the middle of winter she would come like this to ask to go out twice a day without fail.
@@ -36917,7 +36891,6 @@ Theremin: The world's first electronic musical instrument, made by Russian physi
 Television turned on, she patrols in front of the CRT. "Hey you, food's up!"
 What sort of current affairs appear in the civil service examination?
 I don't know what, but I felt in my heart something that gives me the chills.
-No doubt, regardless of the time, she was planning to go to the net café without me if I hadn't arrived first.
 I'm sure Taeko was scared and tried to get Yuri to go along with her.
 If I'm going to have a wedding ceremony, I want it to be the best ever so I have no regrets!
 I was expecting it to be a bad book, but damn me if it wasn't quite good after all.
@@ -37787,7 +37760,6 @@ I added Newspaper article frequency data to the 'Kanji list' function.
 You're pretty good with the lay of the land.
 After climbing Mt. Fuji, I got the inspiration for a poem.
 Is this bread's best-by OK?
-Right, while we're taking a walk anyway, we could like go along the woodland path and enjoy a little stroll through the forest…
 "Let me get a sample," and she transferred part to a petri dish.
 Well now. Are those words to be trusted I wonder?
 I sprang out of bed.
@@ -37937,7 +37909,6 @@ She has a boyfriend she's been going out with since high school but feels their 
 Get a move on!
 Let's have a contest. The side to come up with the worst insult wins.
 Dammit, that pest Nagisa, she really went and snitched on me to the teachers.
-・ Corrected mistaken/missing characters in the text data.
 "Ryu, I can't seeee!" "Naturally, that's because I'm covering your eyes."
 "Isn't it about time you tried photographing people or something?" "Eh? Snapshots? I don't know ..."
 With that sort of attitude you'll never get past the honourable-mention prizes.
@@ -38237,7 +38208,6 @@ I have to get to sleep! I've got classes tomorrow.
 When I inquired "what is that?" I was told, "go and find out for yourself."
 I know that interest rates are fixed in accordance to the borrower's business risk.
 Recently I've stopped being afraid of "living in shame" and being exposed to "public ridicule".
-By the way, today is the 8th of June — my wife's birthday.
 Happy birthday, Miss Aiba!
 The present password is "eosdigital".
 In the cold season when you want to drink something hot I recommend this sort of thermos flask.
@@ -39417,7 +39387,6 @@ And that cannot happen if we go back to the way things were.
 It is only the chance for us to make that change.
 This victory alone is not the change we seek.
 What began 21 months ago in the depths of winter cannot end on this autumn night.
-And, above all, I will ask you to join in the work of remaking this nation, the only way it's been done in America for 221 years — block by block, brick by brick, calloused hand by calloused hand.
 I will listen to you, especially when we disagree.
 But I will always be honest with you about the challenges we face.
 And we know the government can't solve every problem.
@@ -39431,13 +39400,11 @@ There's new energy to harness, new jobs to be created, new schools to build, and
 Our climb will be steep.
 There are mothers and fathers who will lie awake after the children fall asleep and wonder how they'll make the mortgage or pay their doctors' bills or save enough for their child's college education.
 Even as we stand here tonight, we know there are brave Americans waking up in the deserts of Iraq and the mountains of Afghanistan to risk their lives for us.
-For even as we celebrate tonight, we know the challenges that tomorrow will bring are the greatest of our lifetime — two wars, a planet in peril, the worst financial crisis in a century.
 You did it because you understand the enormity of the task that lies ahead.
 And I know you didn't do this just to win an election.
 And I know you didn't do it for me.
 This is your victory.
 It drew strength from the not-so-young people who braved the bitter cold and scorching heat to knock on doors of perfect strangers, and from the millions of Americans who volunteered and organized and proved that more than two centuries later a government of the people, by the people, and for the people has not perished from the Earth.
-It grew strength from the young people who rejected the myth of their generation's apathy … who left their homes and their families for jobs that offered little pay and less sleep.
 It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause.
 It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston.
 Our campaign was not hatched in the halls of Washington.
@@ -39448,7 +39415,6 @@ I am grateful to them.
 To my sister Maya, my sister Alma, all my other brothers and sisters, thank you so much for all the support that you've given me.
 I miss them tonight. I know that my debt to them is beyond measure.
 And while she's no longer with us, I know my grandmother's watching, along with the family that made me who I am.
-And you have earned the new puppy that's coming with us … to the White House.
 Sarah and Marsha - I love you both more than you can imagine.
 And I would not be standing here tonight without the unyielding support of my best friend for the last 16 years, the rock of our family, the love of my life, the nation's next first lady, Michelle Obama.
 I want to thank my partner in this journey, a man who campaigned from his heart, and spoke for the men and women he grew up with on the streets of Scranton, and rode with on the train home to Delaware, the vice president-elect of the United States, Joe Biden.
@@ -39467,14 +39433,11 @@ Though passion may have strained, it must not break our bonds of affection.
 And to those Americans whose support I have yet to earn, I may not have won your vote tonight, but I hear your voices.
 I need your help. And I will be your president, too.
 And to all those watching tonight from beyond our shores, from parliaments and palaces, to those who are huddled around radios in the forgotten corners of the world, our stories are singular, but our destiny is shared, and a new dawn of American leadership is at hand.
-To those — to those who would tear the world down: We will defeat you.
 To those who seek peace and security: We support you.
 To all those who have wondered if America's beacon still burns as bright: Tonight we proved once more that the true strength of our nation comes not from the might of our arms or the scale of our wealth, but from the enduring power of our ideals: democracy, liberty, opportunity and unyielding hope.
 That's the true genius of America: that America can change.
 Our union can be perfected.
 At a time when women's voices were silenced and their hopes dismissed, she lived to see them stand up and speak out and reach out for the ballot.
-And tonight, I think about all that she's seen throughout her century in America — the heartache and the hope; the struggle and the progress; the times we were told that we can't, and the people who pressed on with that American creed: Yes we can.
-She was born just a generation past slavery; a time when there were no cars on the road or planes in the sky; when someone like her couldn't vote for two reasons — because she was a woman and because of the color of her skin.
 She's a lot like the millions of others who stood in line to make their voice heard in this election except for one thing: Ann Nixon Cooper is 106 years old.
 One that's on my mind tonight is about a woman who cast her ballot in Atlanta.
 This election had many firsts and many stories that will be told for generations.
@@ -39839,7 +39802,6 @@ It's nice out today, isn't it?
 It looked cheap.
 When it is possible for you to meet him?
 These games are listed under the adult category.
-These students are the crème de la crème of our school.
 Is early medieval glass production a continuation of Roman glass technology?
 A commission!
 The amount of smoke that comes out of an electronic cigarette isn't bad at all.
@@ -39854,12 +39816,10 @@ How was the universe formed?
 Why do you stifle me so by complaining?
 Let the healthy boy learn to suffer.
 The movie called "Paranormal Activity" was not that much good.
-I want five köftes.
 Let go of your hate.
 I will send your money as soon as possible.
 Nobody is perfect.
 Roman Emperor Caligula had a horse called Incitatus which means fast.
-In Sumerian "LÚ.GAL" means the ruler or king.
 Enough for one day.
 Kibune is in Kyoto.
 I think that is wrong.
@@ -40414,7 +40374,6 @@ I am honored to be in the timeless city of Cairo, and to be hosted by two remark
 Together, you represent the harmony between tradition and progress.
 I am grateful for your hospitality, and the hospitality of the people of Egypt.
 I am also proud to carry with me the goodwill of the American people, and a greeting of peace from Muslim communities in my country: assalaamu alaykum.
-We meet at a time of tension between the United States and Muslims around the world – tension rooted in historical forces that go beyond any current policy debate.
 The relationship between Islam and the West includes centuries of co-existence and cooperation, but also conflict and religious wars.
 More recently, tension has been fed by colonialism that denied rights and opportunities to many Muslims, and a Cold War in which Muslim-majority countries were too often treated as proxies without regard to their own aspirations.
 Moreover, the sweeping change brought by modernity and globalization led many Muslims to view the West as hostile to the traditions of Islam.
@@ -40423,37 +40382,30 @@ The attacks of September 11th, 2001 and the continued efforts of these extremist
 This has bred more fear and mistrust.
 So long as our relationship is defined by our differences, we will empower those who sow hatred rather than peace, and who promote conflict rather than the cooperation that can help all of our people achieve justice and prosperity.
 This cycle of suspicion and discord must end.
-I have come here to seek a new beginning between the United States and Muslims around the world; one based upon mutual interest and mutual respect; and one based upon the truth that America and Islam are not exclusive, and need not be in competition. Instead, they overlap, and share common principles – principles of justice and progress; tolerance and the dignity of all human beings.
 I do so recognizing that change cannot happen overnight.
 No single speech can eradicate years of mistrust, nor can I answer in the time that I have all the complex questions that brought us to this point.
 But I am convinced that in order to move forward, we must say openly the things we hold in our hearts, and that too often are said only behind closed doors.
 There must be a sustained effort to listen to each other; to learn from each other; to respect one another; and to seek common ground.
 As the Holy Koran tells us, "Be conscious of God and speak always the truth."
-That is what I will try to do – to speak the truth as best I can, humbled by the task before us, and firm in my belief that the interests we share as human beings are far more powerful than the forces that drive us apart.
 Part of this conviction is rooted in my own experience.
 I am a Christian, but my father came from a Kenyan family that includes generations of Muslims.
 As a boy, I spent several years in Indonesia and heard the call of the azaan at the break of dawn and the fall of dusk.
 As a young man, I worked in Chicago communities where many found dignity and peace in their Muslim faith.
-As a student of history, I also know civilization's debt to Islam. It was Islam – at places like Al-Azhar University – that carried the light of learning through so many centuries, paving the way for Europe's Renaissance and Enlightenment.
 It was innovation in Muslim communities that developed the order of algebra; our magnetic compass and tools of navigation; our mastery of pens and printing; our understanding of how disease spreads and how it can be healed.
 Islamic culture has given us majestic arches and soaring spires; timeless poetry and cherished music; elegant calligraphy and places of peaceful contemplation.
 And throughout history, Islam has demonstrated through words and deeds the possibilities of religious tolerance and racial equality.
 I know, too, that Islam has always been a part of America's story. The first nation to recognize my country was Morocco.
 In signing the Treaty of Tripoli in 1796, our second President John Adams wrote, "The United States has in itself no character of enmity against the laws, religion or tranquility of Muslims."
 And since our founding, American Muslims have enriched the United States. They have fought in our wars, served in government, stood for civil rights, started businesses, taught at our Universities, excelled in our sports arenas, won Nobel Prizes, built our tallest building, and lit the Olympic Torch.
-And when the first Muslim-American was recently elected to Congress, he took the oath to defend our Constitution using the same Holy Koran that one of our Founding Fathers – Thomas Jefferson – kept in his personal library.
 So I have known Islam on three continents before coming to the region where it was first revealed.
 That experience guides my conviction that partnership between America and Islam must be based on what Islam is, not what it isn't. And I consider it part of my responsibility as President of the United States to fight against negative stereotypes of Islam wherever they appear.
 But that same principle must apply to Muslim perceptions of America. Just as Muslims do not fit a crude stereotype, America is not the crude stereotype of a self-interested empire.
 The United States has been one of the greatest sources of progress that the world has ever known.
 We were born out of revolution against an empire.
-We were founded upon the ideal that all are created equal, and we have shed blood and struggled for centuries to give meaning to those words – within our borders, and around the world.
 We are shaped by every culture, drawn from every end of the Earth, and dedicated to a simple concept: E pluribus unum: "Out of many, one."
 Much has been made of the fact that an African-American with the name Barack Hussein Obama could be elected President. But my personal story is not so unique.
-The dream of opportunity for all people has not come true for everyone in America, but its promise exists for all who come to our shores – that includes nearly seven million American Muslims in our country today who enjoy incomes and education that are higher than average.
 Moreover, freedom in America is indivisible from the freedom to practice one's religion. That is why there is a mosque in every state of our union, and over 1,200 mosques within our borders.
 That is why the U.S. government has gone to court to protect the right of women and girls to wear the hijab, and to punish those who would deny it.
-So let there be no doubt: Islam is a part of America. And I believe that America holds within her the truth that regardless of race, religion, or station in life, all of us share common aspirations – to live in peace and security; to get an education and to work with dignity; to love our families, our communities, and our God. These things we share. This is the hope of all humanity.
 Of course, recognizing our common humanity is only the beginning of our task.
 Words alone cannot meet the needs of our people. These needs will be met only if we act boldly in the years ahead; and if we understand that the challenges we face are shared, and our failure to meet them will hurt us all.
 For we have learned from recent experience that when a financial system weakens in one country, prosperity is hurt everywhere.
@@ -40470,7 +40422,6 @@ The notice in the park said "Keep off the grass".
 That does not mean we should ignore sources of tension. Indeed, it suggests the opposite: we must face these tensions squarely.
 And so in that spirit, let me speak as clearly and plainly as I can about some specific issues that I believe we must finally confront together.
 The first issue that we have to confront is violent extremism in all of its forms.
-In Ankara, I made clear that America is not – and never will be – at war with Islam. We will, however, relentlessly confront violent extremists who pose a grave threat to our security.
 Because we reject the same thing that people of all faiths reject: the killing of innocent men, women, and children. And it is my first duty as President to protect the American people.
 The situation in Afghanistan demonstrates America's goals, and our need to work together.
 Over seven years ago, the United States pursued al Qaeda and the Taliban with broad international support. We did not go by choice, we went because of necessity.
@@ -41482,7 +41433,6 @@ Before, when we still had guilders, everything was much cheaper than now with th
 A terribly loud beep resounded - the microphone produced feedback.
 What you get from far is tasty.
 In May, all birds lay an egg.
-We use the symbol “⊂” to denote proper inclusion.
 Note that the maximum doesn't always exist.
 If f is not an epimorphism, then it factors through g.
 Maybe I should add some sentences without translations too. It's a very quick way to improve the rating of your language.
@@ -41732,7 +41682,6 @@ Adherents of various religions live in Belarus.
 Shu, you're eating too much. You'll get fat!
 Apparently the wound itself only needs a few stitches.
 Uninstall method: Chuck the whole folder into the recycle bin.
-A spectre is haunting Europe — the spectre of communism.
 That won't work!
 Summer is over.
 For man, there is no beast more scary than man.
@@ -42292,7 +42241,6 @@ I can't speak English at all.
 Black coats are in fashion this winter.
 Rather than getting depressed, I'd probably feel hatred towards her.
 Caesar is not above grammarians.
-Putin said that terrorists should be ‘soaked in the john’.
 She's violent right now. It'd be better to avoid her.
 I don't understand why Germany won the Eurovision.
 Spiders like to build spiderwebs.
@@ -42319,7 +42267,6 @@ Can I use a credit card?
 It's October the third.
 Math has been used to calculate how would the Universe formation had been just before and after the Big Bang.
 The students receive a 15,000 euro scholarship for their return trip and daily expenses.
-“The Satanic Verses” by Salman Rushdie is a real masterpiece of modern literature.
 She likes Russian pop.
 Life is not convex.
 He knows little about that animal.
@@ -42497,7 +42444,6 @@ Why is it you can write a letter in English this well, but can't speak it?
 If you came, that would be great.
 You might not find it.
 If you have time, let's go shopping.
-Concerning this matter... I really don’t know.
 Treat the men well and the ore will come.
 She gave an oral report to her boss.
 Is it really wise for marketing folks to satisfy people's desire for instant gratification?
@@ -42790,7 +42736,6 @@ What's that there?
 That's the hotel.
 Is the embassy here to the right?
 Yes, it's here to the right.
-Excuse me, where is the café?
 There, straight ahead.
 The bank is there too, isn't it?
 I'd like to have some cigars.
@@ -43013,7 +42958,6 @@ There are four fountains with statues of Neptune, his wife Amphitrite, Diana and
 The clock on the Lviv Town Hall was first installed in the year 1404.
 Hartman Witwer was a famous Lviv-based sculptor.
 I had never heard about Lviv before.
-This cemetery even has its own site, and there is a page “News” on it! Can you fancy news from the graveyard?!
 Come here, little girl, sit down!
 Please, madam, help yourself!
 Mrs. Ionescu, I'd like to ask you something.
@@ -43085,10 +43029,8 @@ Killing is forbidden; every murderer is punished, unless he has killed accompani
 We sometimes say: "Common sense is quite uncommon."
 My being male and white also removed huge obstacles that a majority of Americans then faced.
 The lengthy peace hid the early signs of an explosion.
-Tithe was one of the pillars of the French Ancien Régime.
 Those who haven't lived in the eighteenth century before the Revolution do not know the sweetness of life.
 Maybe later.
-Let’s go now. Otherwise, we'll be late.
 If you won ten million dollars in a lottery, what would you do with that money?
 And then?
 What else?
@@ -43118,7 +43060,6 @@ At Papa South, you can eat delicious homestyle food.
 In real combat, you must not forget that hesitation is a very dangerous thing.
 Rich mineral deposits have been discovered recently in Afghanistan.
 Many authentic nobles did not have a nobiliary particle in their names.
-One of the characteristics of the Ancien Régime is that almost everybody had privileges, except peasants.
 Generally speaking, nobles were only very slightly affected by taxes.
 I'm not as happy now.
 I hope that your classroom had air conditioning.
@@ -43200,7 +43141,6 @@ What's amazing about sports fans is the intensity of the rage they can feel towa
 My language is not on the list!
 Close the window before going to sleep.
 The third power of 3 is 27.
-My wife is a native of Ürümqi.
 We have two kids.
 I should like to see the trees from which you picked these apples.
 He probably got tired of waiting and fell asleep.
@@ -43252,7 +43192,6 @@ I'm thinking of going.
 We'll buy one car for each.
 Do you have something that you want to say to me?
 One of the students didn't come today.
-Please say ‘yes’!
 What's the date today?
 God willing...
 It never rains but it pours.
@@ -43299,7 +43238,6 @@ Life is too short to learn German.
 I can speak Esperanto like a native.
 Good luck on the exam!
 I don't understand what you are saying.
-That's correct. In Japanese, ウエートレス corresponds both to the English "waitress" and "weightless". However, "waitress" is the more usual meaning.
 We plan to climb that mountain.
 That boy isn't as mischievous as we thought he would be.
 If you hear hoofbeats, don't look for zebras.
@@ -43346,7 +43284,6 @@ She is beautiful.
 Fear cannot be without hope nor hope without fear.
 A free man thinks of death least of all things; and his wisdom is a meditation not of death but of life.
 In truth, a man who renders everyone their due because he fears the gallows, acts under the sway and compulsion of others, and cannot be called just. But a man who does the same from a knowledge of the true reason for laws and their necessity, acts from a firm purpose and of his own accord, and is therefore properly called just.
-Reflect upon your present blessings — of which every man has many — not on your past misfortunes, of which all men have some.
 We are not interested in the possibilities of defeat; they do not exist.
 It is, I think, an indisputable fact that Americans are, as Americans, the most self-conscious people in the world, and the most addicted to the belief that the other nations of the earth are in a conspiracy to undervalue them.
 Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.
@@ -43386,7 +43323,6 @@ He has set off for America.
 The salts and minerals found in these mountains are quite diverse.
 The women really gave it their utmost.
 A great warrior radiates strength. He doesn't have to fight to the death.
-It’s a quarter past eight.
 Yesterday's board meeting was a big success.
 The telephone is just a wonderful device.
 All three of us are students.
@@ -43468,7 +43404,6 @@ No justice or freedom is possible when money always takes the crown.
 Only in philosophy can you use a circular argument and get praised for it.
 They who dream by day are cognizant of many things which escape those who dream only by night.
 If you wish to forget anything on the spot, make a note that this thing is to be remembered.
-A strong argument for the religion of Christ is this — that offences against Charity are about the only ones which men on their death-beds can be made, not to understand, but to feel, as crime.
 The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?
 In reading some books we occupy ourselves chiefly with the thoughts of the author; in perusing others, exclusively with our own.
 I have spread my dreams beneath your feet; Tread softly because you tread on my dreams.
@@ -43557,7 +43492,6 @@ There remained no more than 20 people in the village.
 No nation was ever so virtuous as each believes itself, and none was ever so wicked as each believes the other.
 It is preoccupation with possession, more than anything else, that prevents men from living freely and nobly.
 To save the world requires faith and courage: faith in reason, and courage to proclaim what reason shows to be true.
-We all have a tendency to think that the world must conform to our prejudices. The opposite view involves some effort of thought, and most people would die sooner than think — in fact they do so.
 The good life is one inspired by love and guided by knowledge.
 I say quite deliberately that the Christian religion, as organized in its churches, has been and still is the principal enemy of moral progress in the world.
 I found one day in school a boy of medium size ill-treating a smaller boy. I expostulated, but he replied: "The bigs hit me, so I hit the babies; that's fair." In these words he epitomized the history of the human race.
@@ -43583,8 +43517,6 @@ Every advance in civilization has been denounced as unnatural while it was recen
 In America everybody is of opinion that he has no social superiors, since all men are equal, but he does not admit that he has no social inferiors.
 Aristotle maintained that women have fewer teeth than men; although he was twice married, it never occurred to him to verify this statement by examining his wives' mouths.
 This is one of those views which are so absurd that only very learned men could possibly adopt them.
-War does not determine who is right — only who is left.
-Russell's books should be bound in two colours, those dealing with mathematical logic in red — and all students of philosophy should read them; those dealing with ethics and politics in blue — and no one should be allowed to read them.
 You're Germans, aren't you?
 You want to watch a French movie, don't you?
 When I was working for a public school, I had ten-fifteen students in a class.
@@ -43721,7 +43653,6 @@ Ann is a sucker for chocolate.
 Ann loves chocolate more than anything.
 Ann is partial to chocolate.
 The coastal ecosystem of British Columbia is rapidly declining.
-Evening come, since you were slightly tired, you wished to sit in front of a new Café located on the corner of a new boulevard, still full of gravel and already showing its unfinished splendors.
 He who seeks a flawless horse or flawless wife, may rest assured that even if his work he did forsake, nor bed nor stable would he ever fill.
 English is never wrong when it is beautiful.
 The miner asked the lamp spirit for a happy life.
@@ -43786,7 +43717,6 @@ We reason deeply, when we forcibly feel.
 It is the preservation of the species, not of individuals, which appears to be the design of Deity throughout the whole of nature.
 Situation seems to be the mould in which men's characters are formed.
 An ardent affection for the human race makes enthusiastic characters eager to produce alteration in laws and governments prematurely.
-You know I am not born to tread in the beaten track — the peculiar bent of my nature pushes me on.
 No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks.
 Virtue can only flourish amongst equals.
 Every political good carried to the extreme must be productive of evil.
@@ -43824,7 +43754,6 @@ He holds great influence with the Association of Medical Sciences.
 We can learn a lot about a society by looking at its driving culture.
 I sincerely hope for his happiness.
 Any teacher that can be replaced by a machine should be.
-The Hegelian philosophy is the last magnificent attempt to restore Christianity, which was lost and wrecked, through philosophy and, indeed, to restore Christianity—as is generally done in the modern era—by identifying it with the negation of Christianity.
 But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.
 I went to the cinema with my brother.
 When the farmer drops dead off the tractor, then at the edge of the forest, there must be a reactor.
@@ -43843,7 +43772,6 @@ The long habit of living indisposeth us for dying.
 We all labour against our own cure; for death is the cure of all disease.
 The heart of man is the place the devil dwells in; I feel sometimes a hell within myself.
 Death is one of two things. Either it is annihilation, and the dead have no consciousness of anything; or, as we are told, it is really a change: a migration of the soul from this place to another.
-When we come to die, we shall be alone. From all our worldly possessions we shall be about to part. Worldly friends — the friends drawn to us by our position, our wealth, or our social qualities, — will leave us as we enter the dark valley. From those bound to us by stronger ties — our kindred, our loved ones, children, brothers, sisters, and from those not less dear to us who have been made our friends because they and we are the friends of the same Saviour, — from them also we must part. Yet not all will leave us. There is One who "sticketh closer than a brother" — One who having loved His own which are in the world loves them to the end.
 The Bible, as a revelation from God, was not designed to give us all the information we might desire, nor to solve all the questions about which the human soul is perplexed, but to impart enough to be a safe guide to the haven of eternal rest.
 There is no piety in the world which is not the result of cultivation, and which cannot be increased by the degree of care and attention bestowed upon it.
 When life has been well spent; when there is a conscience without reproach; when there is faith in the Saviour; when there is a well-founded hope of heaven, there can be nothing that should disquiet us.
@@ -43903,7 +43831,6 @@ Men should keep out of the kitchen.
 The number of muffins that you'll receive will be inversely proportional to the number of times you talk on IRC.
 Do you think that chest hair is sexy?
 I've had my hair removed permanently, so my skin is smooth.
-What's radical today may be cliché tomorrow.
 I'm really tired and want to go to bed early.
 At last we meet! I've waited so long for this day!
 He spent a few months wandering around Europe.
@@ -43967,9 +43894,7 @@ There's no such word as "can't".
 French people don't think of anything as impossible.
 There is nothing that the gods may not do.
 Trang's party was as fun as a funeral wake.
-Former Olympic fencing champion Pál Schmitt has been elected President of Hungary.
 Wise men talk because they have something to say; fools, because they have to say something.
-The hour of departure has arrived, and we go our ways — I to die, and you to live. Which is better God only knows.
 Only the dead have seen the end of war.
 Real happiness comes cheap; if it's expensive, it's not of a good type.
 I'm afraid it won't work.
@@ -43980,7 +43905,6 @@ Trang's party was like a wake.
 Korean mental hospitals have been compared to concentration camps. Patients are said to be treated like animals who are subjected to violence and maltreatment rather than therapy.
 Argleton is a town in West Lancashire, England which exists only on Google maps.
 Necessity knows no law.
-“Yandex” search engine started supporting Tatar language too.
 We shall leave tomorrow, weather permitting.
 We shall leave in the morning, weather permitting.
 My past self is another person.
@@ -44519,7 +44443,6 @@ Half our life is spent trying to find something to do with the time we have rush
 We are the first nation to starve to death in a storehouse that's overfilled with everything we want.
 There is one rule that works in every calamity. Be it pestilence, war, or famine, the rich get richer and poor get poorer. The poor even help arrange it.
 The only time people dislike gossip is when you gossip about them.
-Personally, I have always felt the best doctor in the world is the veterinarian. He can't ask his patients what is the matter — he's got to just know.
 An ignorant person is one who doesn't know what you have just found out.
 We are here just for a spell and then pass on. So get a few laughs and do the best you can. Live your life so that whenever you lose it, you are ahead.
 Buy land. They ain't making any more of the stuff.
@@ -44540,7 +44463,6 @@ You can come in.
 Fuck you all to hell!
 Only individuals with an aberrant temperament can in the long run retain their self-esteem in the face of the disesteem of their fellows.
 Switzerland hardened its immigration policy.
-Many a gentleman of the old school has been provoked to remark regretfully upon the under-bred manners and bearing of even the better classes in the modern industrial communities; and the decay of the ceremonial code—or as it is otherwise called, the vulgarisation of life—among the industrial classes proper has become one of the chief enormities of latter-day civilisation in the eyes of all persons of delicate sensibilities.
 Manners maketh man.
 When I braced myself and said, "I'm pregnant" he said "Are you saying it's mine?"
 Even so, you are a human.
@@ -44719,7 +44641,6 @@ How did dinner go yesterday?
 Did Jane have fun at the concert last night?
 This book belongs to Tony.
 When did you start learning German?
-What's the word for that in Māori?
 He doesn't speak English, and even less French.
 I threw up.
 It rained a lot last year.
@@ -45381,7 +45302,6 @@ When Chokichi thought listlessly about this winter, and the similar winter befor
 Any sufficiently advanced technology is indistinguishable from magic.
 In the name of God, The most Gracious, The most Merciful.
 Lao Gan Ma and I have a love-hate relationship.
-"Blood and Sand" is the title of a novel by Blasco Ináñez.
 "Open your mouth" said the dentist.
 Thirty days has September, April, June and November.
 40 Euros for a scarf? Don't you have anything cheaper?
@@ -45482,7 +45402,6 @@ Bring the bill, please.
 Buses run every ten minutes.
 Buy it, it's very cheap.
 By registered letter?
-Calderón's plays are very interesting.
 Call me when you are ready to go.
 Call me!
 Can I email from here?
@@ -45603,7 +45522,6 @@ Do you have this in a bigger size?
 Do you have this shirt in black?
 Do you have tuna fish?
 Do you know a good dentist?
-Do you know Professor López, by any chance?
 Do you know the dialling code?
 Do you like rain?
 Do you like snow?
@@ -45776,7 +45694,6 @@ He likes to cook.
 He likes to swim.
 He looked out of the window.
 He married a girl much younger than he.
-He needs a medication but doesn’t want it.
 He needs a ladder.
 He needs a towel.
 He needs an umbrella.
@@ -45797,7 +45714,6 @@ He suddenly appeared after a three-year absence.
 He takes a group of students to Spain every summer.
 He threw me out of the house.
 He used to like hot.
-He wants a cake but doesn’t need it.
 He wants red glasses.
 He wants to buy a pearl necklace for his wife.
 He was blinded in an accident.
@@ -45832,7 +45748,6 @@ Hello, Grandfather.
 Hello, what's your name?
 Hello! Good morning!
 Help!
-Her fiancé gave her a very big ring.
 Her socks are gray.
 Her sweater is purple.
 Here is a prescription for some tablets.
@@ -46420,7 +46335,6 @@ I think I lost my wallet.
 I think Malbork castle is wonderful.
 I think someone is knocking at the door.
 "When will you wash your car?" "Sometime this week, I think."
-I think that Juan likes María.
 I think we get off at the next stop.
 I think you have made a mistake.
 I use the internet to do business.
@@ -46586,7 +46500,6 @@ I can't prevent myself from thinking.
 We are all Americans.
 Barcelona is the capital city of Catalonia and the second largest city in Spain.
 Japan is the only nation to have been hit by nuclear bombs.
-I won’t mislead you, I won’t betray you, I won't shirk!
 Left-wing communism is an infantile disorder.
 I'm telling the youth: partying is life! And so is your face!
 I may be plump, but I'm vigorous.
@@ -46990,7 +46903,6 @@ Prostitution, gambling, the use of narcotic substances, drunkenness, disorder, a
 According to him, she is not coming.
 Jim raised his hand.
 Every day, my brother borrows a new book from the library.
-Andrej Chadanovič is a major figure in the Belarusian poetry.
 She has few friends.
 I could answer his question.
 Mr. Crouch, what are you doing?
@@ -47411,7 +47323,6 @@ He laughed for no reason.
 He speaks as if he were rich.
 These cities have similar traffic rules.
 The school year begins on the 10th of April.
-I opened the box — it was empty.
 The students are on vacation.
 She does not like green peppers.
 We said "Thanks for the meal" to the cook.
@@ -47997,7 +47908,6 @@ Our visitors are at the door.
 Our visitors are sitting in the living room.
 Our work never ends.
 Ow, the coffee is very hot!
-Pablo and María were here.
 She bought some paper that she could use for writing letters.
 Pardon me, do you speak English?
 Patricia approached the house.
@@ -48086,8 +47996,6 @@ Please, I ask that you stay calm.
 Please, I ask that you be calm.
 You don't realize how lucky you are.
 Ah, if all of us could speak all languages!
-There is no such thing as a naïve fox, nor a man without faults.
-A naïve fox does not exist. Likewise, there is no such thing as a man without faults.
 Oh crap, it's past the consume-by date. That's why you threw up!
 You can download the instruction manual for the heat exchanger here.
 "You can know anything instantly ... if you Google it." "Google?"
@@ -48228,7 +48136,6 @@ It's fun to learn a foreign language.
 English is a hard language to learn.
 The whole world speaks English.
 English has a lot of idiomatic expressions to offer.
-Your mom speaks six languages — that's nuts.
 This shows that English isn't just for the British anymore.
 The Norman victory over England had a big impact on the English language.
 French is his mother tongue.
@@ -48269,12 +48176,10 @@ English is not my first language.
 This book is intended for students who do not speak Japanese as a native language.
 You don't live in a country; you live in a language. Your homeland, that's that and nothing else.
 We don't live in countries, we live in our languages. That is your home, there and nowhere else.
-We guarantee the lowest price in language academies in the province of Québec.
 Most Swiss citizens speak two or three languages.
 Sadako wanted to say more, but her lips just didn't want to move anymore.
 Sadako wanted to add more, but her mouth just didn't want to open enough to make the words anymore.
 The bird's cry broke the silence of the woods.
-With the first election of a woman into the seat of chancellor, the feminine complement of the word, "chancelière," was chosen as the Word of the Year in 2005 by the Academy of German Language.
 My puppy died, and I'm terribly upset.
 The bullet train came roaring past.
 With the first election of a woman into the seat of Chancellorship, the word "Bundeskanzlerin," as a feminine noun for the title, was voted Word of the Year in 2005 by the Academy of German Language.
@@ -48663,7 +48568,6 @@ The plastic chair costs four libras.
 The plastic chair is cheap.
 The police took the criminal away to the police station.
 The post has to be collected.
-The Prado has the best paintings by Velázquez and Goya.
 The Prado Museum is closed because today is Monday.
 The present government has many problems.
 The price is too high.
@@ -49514,7 +49418,6 @@ I would like to leave this town and never come back.
 Hi, how are you?
 No body.
 He is so gay.
-I grew up on watching Pokémon.
 That team has a strong lineup.
 We don't have a lot of trouble.
 There's a telephone in my room.
@@ -49603,7 +49506,6 @@ You cannot demand of someone something that is impossible for them to do.
 Please use the information below for your payment.
 Life is a flame that death extinguishes.
 In order to have an idea of our current projects, we invite you to visit [url].
-You have added a comment, not a translation. To add a translation, click on the «あ→а» icon above the sentence.
 Do you really want to put your life in her hands?
 You should go to the dentist and have that tooth pulled out.
 Don't ramble.
@@ -49746,7 +49648,6 @@ This room is not suitable for sleeping.
 Please wait for thirty minutes.
 The bus will arrive at the station in fifteen minutes.
 Not all browsers are secure.
-Bogdan Tanjević will resign because of colon cancer.
 Guus Hiddink is Dutch.
 People under 18 cannot marry.
 In my opinion, German is the best language in the world.
@@ -49853,7 +49754,6 @@ Our health is our most precious possession.
 Look how fast he runs!
 Hindus and Muslims are all brothers.
 Wake me up at seven.
-Gladly pass the souls of the righteous to the golden seat of Ahura Mazda, to the golden seat of the Amesha-Spentas, to the Garô-nmânem, the abode of Ahura Mazda, the abode of the Amesha-Spentas, the abode of all the other holy beings.
 Google fnord loves you.
 Using Esperanto with him, I feel that we are both at the same level, at least from a lingual point of view.
 You can also find many books in various formats at Project Gutenberg.
@@ -49906,7 +49806,6 @@ Tell me what you need and I'll tell you how to get along without it.
 Justice is what love looks like in public.
 Today, we are going to unravel the mystery of the English subjunctive.
 I think he won't accept the proposal.
-René's fingers are caught in the door.
 Scott first changed a watch for a book, then the book for money.
 If you want to read this page later, just know that you can access it from the "Help" link at the very bottom of the website.
 The U.N. has condemned the Somalia suicide bombing that took the lives of at least 33 people on Tuesday, including six members of Parliament
@@ -49998,3 +49897,103 @@ He had only one hundred yen with him.
 I'm tired of living this kind of life.
 Today is Independence Day.
 India's Independence Day is celebrated on the fifteenth of August.
+Republic Day is celebrated on the twenty-sixth of January.
+The power went out.
+On the fifteenth of August, thousands of people fly kites.
+He's in a bad state.
+This is the monsoon season.
+If he's fluent in English, I'll hire him.
+When I asked him for change, he gave it to me.
+He spent all the money that his friend had lent him.
+She didn't have any money, so she couldn't go with me.
+It's been a long night.
+Monkey Bingo is the exciting new way to play bingo.
+Just one look at the amusing dispenser, colorful animal tiles, two-sided bingo cards, and transparent monkey chips and you know you're in for some serious fun.
+The strong, gusty wind strived to strip the leaves off the trees.
+One year has twelve months.
+He has a lot of money.
+I always think of my father when I look at this picture.
+Kinshasa is the capital city of the Democratic Republic of Congo.
+I wanted to know what our general stance is on adding machine translations?
+If I could be that guy instead of me.
+The next morning, Dima got out of the dumpster, but only to realize that all of his clothes now smelled like garbage.
+Eugene will get the Ig Noble prize for his contribution to literature.
+I'll phone you.
+She poured a cup of tea for me.
+Regardless what you may do, the outcome will still be the same.
+We plunged into the cave opening on our boat and continued on.
+It doesn't suit my tastes.
+They finished a journey of 80 miles.
+Where's the nearest train station?
+It's my policy to break it off with men who ask for money.
+I am counting on you to give the opening address.
+On Monday, the Pierson Publishing House will launch an ambitious advertising compaign for Real Life, a highly anticipated new novel from Korea.
+A cat is not a person!
+He's not a scientist, but he is our friend.
+Are they friends?
+I would like to buy some aspirin.
+He introduced his sister to me.
+He introduced her sister to me.
+Can I see the wine list?
+I would like some fish.
+What fruit juices do you have?
+I appreciated your help.
+Trang is as pretty as Dorenda.
+Please replace the empty ink cartridge in the printer.
+My right shoulder hurts.
+My knee is bleeding.
+Fear not because there is nothing to fear.
+Everyone can make a difference in their own lives and thereby collectively make the world a better place for themselves and others around them.
+Everyone knows on one level or another what is right and what is wrong; some pretend they don't.
+I hear something.
+I really want to know.
+Muppets will be muppets.
+When it was put that clearly, I was at a loss for a response.
+Yes, that happens from time to time.
+In her youth, my mother was very beautiful.
+Tatoeba: Where attention to detail is sacred, and punishment is swift.
+There are no shortcuts to the top, only to the bottom.
+How about this red hat?
+Her bike is better than mine.
+Where is his house?
+Where is her house?
+Remember the days of the old schoolyards.
+Hypothetically a person can live a perfect life without sinning.
+The result now follows from proposition 1.3.
+The module has only countably many direct summands up to isomorphism.
+Note that this theorem does not assume the existence of such an object.
+Can you prove the existence of garbagemen?
+The lesson is English.
+The lesson is science.
+Don't make noise!
+Please don't run in the classroom.
+An integer is natural iff it is greater or equal to 0.
+Please go to the playground to play.
+Please obey the school rules.
+An integer is natural if and only if it is greater or equal to 0.
+Please explain why you can't come.
+You can go if you want.
+For that reason, he lost his job.
+An integer is natural iff it is greater than or equal to 0.
+The lake is very deep.
+A straight line is a trivial example of a curve.
+If you ask a mathematician if he is an adult or a minor, don't be surprised if he answers "yes".
+"Nonlinear" does NOT mean "nonconvex".
+She was so kind as to take me to the hospital.
+Who the hell are you?
+What the fuck?
+He looked deeply into his crystal ball and predicted my future.
+I thought she was cute.
+I was in the bath when the phone rang.
+I knew you'd come.
+I have to stay in bed all day.
+Sumo wrestling is a traditional Japanese sport.
+I respect her selflessness.
+I respect his selflessness.
+We want to check and correct in priority sentences that do not belong to anyone.
+Where is my book?
+He occasionally reads detective novels.
+These two cities have the same traffic rules.
+I would gladly translate this, but I don't speak Dutch.
+Our eyes take time to adjust to the dark.
+I'm curious about the things that I'm interested in.

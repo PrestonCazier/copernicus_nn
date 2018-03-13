@@ -1,14 +1,3 @@
-I can truly say that baby is ugly.
-That baby will have slept five hours by noon.
-Look at that red building.
-That red tie doesn't go with your suit. Why don't you wear the green one?
-That red dress becomes her.
-That red sweater looks good on you.
-That blue-white shining star is Sirius.
-The young man was extremely money hungry.
-Please look at the girl who wore the blue clothes.
-That blue one is also mine.
-That student is Tom.
 That politician is full of ambition.
 That politician is well versed in internal and external conditions.
 The politician receives on Wednesdays.
@@ -5463,9 +5452,7 @@ Avoid opening the window; I have no great desire to feel air currents on my back
 Sport is good for your health.
 Sometimes critics don't know what they criticise.
 Spaniards have two surnames.
-Raúl can't have fun without his friends.
 Rosa Montero is an extraordinary woman.
-Rubén is the father of three children.
 Spain has been a democracy since 1975.
 Do you have difficulty understanding what women or small children say to you?
 I have not only that to do.
@@ -5495,7 +5482,6 @@ Cover the potatoes with cold water and bring to the boil.
 I'm going downtown.
 Real women have curves.
 The record was sent to the ministry.
-The temperature of the human body hovers around 37°C.
 I went for a walk to get some air.
 Mathematics is like the logic of physics.
 Flowers are so fragile and so beautiful, that you can't speak about them without poetry or metaphors.
@@ -10082,7 +10068,6 @@ She will be coming to see me this afternoon.
 My father is free this afternoon.
 Many happy returns of the day! Happy birthday!
 Do you have any tickets for today's performance?
-Today's minimum temperature was 3 °C.
 So much for today's work.
 We have finished the work for today.
 I owe what I am today to my father.
@@ -33169,7 +33154,6 @@ A thorough investigation is now in progress.
 There isn't time to explain in detail.
 Let me know the details.
 The investigation revealed him to be a spy.
-For further details, call Gisèle.
 I didn't go into details.
 Apply to the office for further details.
 For particulars, apply to the college.
@@ -35476,7 +35460,6 @@ I would like some more water.
 I'd like some more water.
 The chemical formula for water is H-O-H.
 We never know the worth of water till the well is dry.
-The chemical formula for water is H₂O.
 Water freezes at 0 degrees Centigrade.
 I can see some small fish swimming about in the water.
 Standing pools gather filth.
@@ -37379,7 +37362,6 @@ Our teacher made us clean the room.
 The teacher, waving his hand, called to me.
 The teacher told his pupils not to forget that lesson.
 The teacher will call us when he's ready.
-Our teacher said that water boils at 100ºC.
 The teacher went on talking for two hours.
 I guess our teacher is over fifty years old.
 The teacher pointed out your mistakes.
@@ -40823,7 +40805,6 @@ None of them is alive.
 No one loves war.
 Everybody tends to be lazy.
 It's not something anyone would be ashamed of.
-No one has ever gone into heaven except the one who came from heaven – the Son of man.
 Nobody answered the telephone.
 Nobody doubts his fitness for the position.
 Nobody bowed to him.
@@ -42018,7 +41999,6 @@ When he left the place, it was in an utter mess.
 The investigator left no stone unturned in his search for evidence. When he left the place, it was in an utter mess.
 The inspector arrived at the school late on Monday morning.
 A research organization investigated the effect.
-The surveyor could also advise the promoters which route could be most easily—and therefore most cheaply—constructed.
 Investigators are running a probe into what caused the crash.
 How long do I have to wait to pick up the medicine?
 How's it going?
@@ -42729,7 +42709,6 @@ One of the qualities of steel is hardness.
 Steel is a key industry.
 Steel output set a record for two consecutive years.
 A railroad was constructed in this town.
-A new means of communication was developed — the railway.
 It's dangerous to walk on railway lines.
 What is it that determines the route a railway takes?
 The railroad fare for children is half of the adult fare.
@@ -46210,8 +46189,6 @@ A white ship came into view.
 White doves are pretty birds.
 The woman who wore the white clothes was out to a party.
 The lady dressed in white is a famous actress.
-The girl dressed in white is his fiancée.
-The girl who is dressed in white is my fiancée.
 Keep away from the unlicensed taxis.
 The color white is a symbol of purity.
 White paint will brighten the room.
@@ -46501,7 +46478,6 @@ It was because he was injured that he decided to return to America.
 It is definite that he will go to America.
 I have not heard from him since he left for America.
 Have you heard from him since he left for America?
-He had not gone through all that hard training for nothing – he won first prize.
 If he did not watch so much television, he would have more time for study.
 He was clever to leave so early.
 It is strange that he should be put up at such a cheap hotel.
@@ -49998,3 +49974,26 @@ His essay was concise and to the point.
 His essay was full of original ideas.
 I cannot but accept his invitation.
 His negative attitude rendered all my efforts useless.
+I made her acquaintance through his introduction.
+His portrait was mounted in the fancy frame.
+His testimony stands on facts.
+His witness is approximate to the truth.
+The object of his admiration shows the kind of person that he would like to be.
+He is contemptuous of his boss's narrow mind.
+His boss has a good opinion of his knowledge of computers.
+We caught sight of his boat.
+His car collided with a train.
+The train he was on could no longer be seen.
+His train arrives at five this evening.
+His train arrived at Tokyo Station.
+His joke made us all laugh.
+His joke set the company off into a fit of laughter.
+His jokes amused me.
+His jokes made us laugh.
+His joke eased the tension in the room.
+His joke has been done to death.
+At his joke, they all burst into laughter.
+His joke made all the class burst into laughter.
+His joke set everyone laughing.
+His joke borders on insult.
+They held their sides with laughter at his joke.

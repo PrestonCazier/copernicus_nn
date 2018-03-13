@@ -1,104 +1,3 @@
-Republic Day is celebrated on the twenty-sixth of January.
-The power went out.
-On the fifteenth of August, thousands of people fly kites.
-The Indian flag is called the tricolour because it has stripes of three colours – saffron, white and green.
-He's in a bad state.
-This is the monsoon season.
-If he's fluent in English, I'll hire him.
-When I asked him for change, he gave it to me.
-He spent all the money that his friend had lent him.
-She didn't have any money, so she couldn't go with me.
-It's been a long night.
-Monkey Bingo is the exciting new way to play bingo.
-Just one look at the amusing dispenser, colorful animal tiles, two-sided bingo cards, and transparent monkey chips and you know you're in for some serious fun.
-The strong, gusty wind strived to strip the leaves off the trees.
-One year has twelve months.
-He has a lot of money.
-I always think of my father when I look at this picture.
-Kinshasa is the capital city of the Democratic Republic of Congo.
-I wanted to know what our general stance is on adding machine translations?
-If I could be that guy instead of me.
-The next morning, Dima got out of the dumpster, but only to realize that all of his clothes now smelled like garbage.
-Eugene will get the Ig Noble prize for his contribution to literature.
-I'll phone you.
-She poured a cup of tea for me.
-Regardless what you may do, the outcome will still be the same.
-We plunged into the cave opening on our boat and continued on.
-It doesn't suit my tastes.
-They finished a journey of 80 miles.
-Where's the nearest train station?
-It's my policy to break it off with men who ask for money.
-I am counting on you to give the opening address.
-On Monday, the Pierson Publishing House will launch an ambitious advertising compaign for Real Life, a highly anticipated new novel from Korea.
-A cat is not a person!
-He's not a scientist, but he is our friend.
-Are they friends?
-I would like to buy some aspirin.
-He introduced his sister to me.
-He introduced her sister to me.
-Can I see the wine list?
-I would like some fish.
-What fruit juices do you have?
-I appreciated your help.
-Trang is as pretty as Dorenda.
-Please replace the empty ink cartridge in the printer.
-My right shoulder hurts.
-My knee is bleeding.
-Fear not because there is nothing to fear.
-Everyone can make a difference in their own lives and thereby collectively make the world a better place for themselves and others around them.
-Everyone knows on one level or another what is right and what is wrong; some pretend they don't.
-I hear something.
-I really want to know.
-Muppets will be muppets.
-When it was put that clearly, I was at a loss for a response.
-Yes, that happens from time to time.
-In her youth, my mother was very beautiful.
-Tatoeba: Where attention to detail is sacred, and punishment is swift.
-There are no shortcuts to the top, only to the bottom.
-How about this red hat?
-Her bike is better than mine.
-Where is his house?
-Where is her house?
-Remember the days of the old schoolyards.
-Hypothetically a person can live a perfect life without sinning.
-The result now follows from proposition 1.3.
-The module has only countably many direct summands up to isomorphism.
-Note that this theorem does not assume the existence of such an object.
-Can you prove the existence of garbagemen?
-The lesson is English.
-The lesson is science.
-Don't make noise!
-Please don't run in the classroom.
-An integer is natural iff it is greater or equal to 0.
-Please go to the playground to play.
-Please obey the school rules.
-An integer is natural if and only if it is greater or equal to 0.
-Please explain why you can't come.
-You can go if you want.
-For that reason, he lost his job.
-An integer is natural iff it is greater than or equal to 0.
-The lake is very deep.
-A straight line is a trivial example of a curve.
-If you ask a mathematician if he is an adult or a minor, don't be surprised if he answers "yes".
-"Nonlinear" does NOT mean "nonconvex".
-She was so kind as to take me to the hospital.
-Who the hell are you?
-What the fuck?
-He looked deeply into his crystal ball and predicted my future.
-I thought she was cute.
-I was in the bath when the phone rang.
-I knew you'd come.
-I have to stay in bed all day.
-Sumo wrestling is a traditional Japanese sport.
-I respect her selflessness.
-I respect his selflessness.
-We want to check and correct in priority sentences that do not belong to anyone.
-Where is my book?
-He occasionally reads detective novels.
-These two cities have the same traffic rules.
-I would gladly translate this, but I don't speak Dutch.
-Our eyes take time to adjust to the dark.
-I'm curious about the things that I'm interested in.
 Mr. White went to Canada.
 I don't speak Swedish.
 I don't speak German.
@@ -139,7 +38,6 @@ I can't finish the job in such a short time.
 And thus he failed the exam.
 Jobs are hard to come by these days.
 She capitalised on her father's connections in getting her present job.
-What do you need a 2000°C furnace for?
 The Great Dane is a breed of domestic dog known for its giant size.
 Please do not answer this fraudulent e-mail and certainly do not click on the links in the e-mail.
 As agreed, please find enclosed the updated contract.
@@ -221,7 +119,6 @@ Are you drinking ouzo or pastis?
 Ripe papaya smells like vomit.
 The tilde is used in math to denote equivalence.
 In modern computer systems, umlaut and diaeresis are represented identically.
-An ångström is smaller than a nanometer.
 A schwa represents a neutral vowel.
 I went out of my way to visit my friend, but he wasn't at home.
 Keep your snarky comments to yourself.
@@ -254,7 +151,6 @@ My mother made me a sweater.
 Mom, can I go swimming?
 Mama, is it okay if I go swimming?
 Mommy, may I go swimming?
-Yesterday's maximum temperature was 37ºC.
 His room is always a tip.
 Respect yourself and you will be respected.
 Come sit with us.
@@ -621,7 +517,6 @@ Who spread these rumours?
 I forgot his name.
 Last week I gained back five pounds.
 You can trust him.
-The fittest survive. What is meant by the fittest? Not the strongest; not the cleverest— Weakness and stupidity everywhere survive. There is no way of determining fitness except in that a thing does survive. "Fitness," then, is only another name for "survival." Darwinism: That survivors survive.
 We used to be neighbours.
 The Ukrainian language is very melodious.
 It's raining outside.
@@ -722,7 +617,6 @@ That mountain is easy to climb.
 The grass is always greener on the other side of the fence.
 Second semester has ended.
 I'd rather die than do it!
-It warms your heart when, while listening to a song in a (seemingly!) foreign language — Slovak, Macedonian, or Slovenian — you hear words that you have known since your childhood and even understand whole phrases.
 "You have expensive taste!" the shopkeeper exclaimed. "Are you sure you don't want to look through our cheaper variants first?"
 The teacher is angry, so please do not make noise in the classroom!
 There is no other way to understand the sentence.
@@ -1744,7 +1638,6 @@ Sorry, I couldn't help it.
 She almost said "I don't know".
 She tried to get a tent, but she couldn't find the one she wanted.
 Please translate sentence for sentence in Tatoeba.
-The Turkish coup d'état occurred on September 12, 1980.
 Mr T (19 years old) avoided conviction for murder, but was found guilty of grievous bodily harm for having intentionally caused wounds.
 That's crazy.
 I saw Jessie standing there.
@@ -1816,7 +1709,6 @@ But when I tried to turn the shower faucet, this black bubbly liquid came out.
 The separate names used for female nurses "kangofu" and male nurses "kangoshi", were unified in 2002 into "kangoshi".
 The government has now abandoned its plans to privatize parts of the health service.
 If you want.
-Esperanto, Ido, Interlingua, Klingon, Lojban, Na'vi and Volapük are constructed languages.
 Zamenhof, creator of the constructed language Esperanto, was an ophthalmologist.
 Zamenhof, the creator of Esperanto, was an ophthalmologist.
 The only thing one never regrets are one's mistakes.
@@ -1877,7 +1769,6 @@ He had wished her happy holidays.
 He made no response.
 I started to cry.
 Violence is the last refuge of incompetence.
-Vatican City with its 0.44 km² is the world's smallest state.
 He's my most interesting friend.
 Please explain why it is that you can't come.
 You shouldn't have come so soon.
@@ -2057,7 +1948,6 @@ The cat is not human.
 His little sister is fuckable.
 Buy Belarusian!
 Dogs aren't people. First of all, remember that.
-The exposition “Buy Belarusian” was advertised using spam.
 It's coming up to Christmas here and all the shops are like "Buy! Buy! Buy!"
 In my opinion, Twitter is a waste of time.
 Jack Dorsey hates me.
@@ -2071,7 +1961,6 @@ Mark Zuckerberg is atheist, not theist.
 Facebook, Twitter, YouTube and Blogger are threatening our life.
 Google is a liar.
 I haven't visited the headquarters of Twitter.
-Coup d'états can threaten the politics.
 I'd like to turn some photos of mine into a calendar. How should I go about it?
 The owner of Playfish is Electronic Arts.
 Tatoeba Project is our virtual home.
@@ -2096,7 +1985,6 @@ How long will you stay in Japan?
 Until when will you stay in Japan?
 How long will you be in Japan?
 Are you Japanese?
-A bottle of rosé, please.
 This book was very interesting.
 There are almost no books.
 That book was interesting.
@@ -2191,7 +2079,6 @@ The film began at 2.
 Ask me something easier.
 It rains a lot in Okinawa.
 Why is there a Miss Italy but no Mister Italy?
-I'm listening to Björk's latest song.
 Could you pass the salt?
 What was the hotel called? I can't remember.
 This book is mine.
@@ -2454,7 +2341,6 @@ My most interesting friend is Jessie.
 During the intermission, Takashi and Harumi had a drink at the theater bar.
 I like wxWidgets because, unlike most other toolkits, it has a function named Centre(), not Center().
 jEdit macros are written in BeanShell.
-The high speed, high comfort electric train Minsk—Brest will depart in five minutes from the fourth track at the second platform.
 I don't understand why they moved the soft sign in the Ukrainian alphabet; it seemed much more logical for me when it came at the end.
 Markdown is a markup language, but a very readable one.
 Give me one millet dumpling, please.
@@ -2542,7 +2428,6 @@ Yea, that's all it is.
 She has a cat. This cat is white.
 I didn't have the heart to eat the cake she made me.
 Spain has won the 2010 FIFA World Cup and the national team logo gains the first star.
-The only goal of the final match was scored by Andrés Iniesta.
 Carlos Queiroz was fired by the Portuguese Football Federation.
 Cristiano Ronaldo is a football player.
 The holy book of Muslims is the Qur'an.
@@ -2675,7 +2560,6 @@ The canteen is underused, but always dirty and neglected.
 The food at the canteen isn't very good, and the menu contains mostly unhealthy foods, too salted or sweetened.
 There are only a few consequences of closing the canteen.
 Students have not cheap places where to buy food.
-The café nearer to the school is closed at lunch hours.
 I have nothing to do today.
 The proposal is accepted.
 We should discuss about it face to face with the director.
@@ -3010,7 +2894,6 @@ Please bring us two cups of tea and one cup of coffee.
 About how many English words do you know?
 We're going dancing tonight.
 That's the best news I've heard in a long time.
-Anna knows the first thousand decimal places of π by heart.
 He climbed the stairs.
 I get along with my younger brother.
 He has little money.
@@ -3519,7 +3402,6 @@ Together or separately?
 That'll be three euros.
 Please stick this label to your baggage.
 The Iranian nuclear program has just been attacked by malware.
-They shall no longer say: ‘The parents have eaten sour grapes, and the children’s teeth are set on edge.’
 Malware? This word will be a hit. It could become the word of the decade and, why not, of the century.
 That's the building where Dad works.
 Nobody answered the phone.
@@ -4051,7 +3933,6 @@ What a pain! It's almost 7p.m. and I still haven't finished the chemistry for to
 I can only gape at such perfection.
 Their meeting was inevitable.
 Christopher Columbus wasn't an explorer because he loved the sea. He was an explorer because he hated Spanish jails.
-As π is transcendental, the quadrature of a circle - a classical problem in geometry - is impossible.
 His crew members often complained of Christopher Columbus's hogging of their vessel's Wifi connection to play online games, but he denied these accusations with indignation, claiming that he was researching faraway lands that they had yet to discover.
 In Germany, there's a superstition that if you light a cigarette off a candle, a sailor will die at sea.
 That blow on the head knocked him out cold.
@@ -4072,7 +3953,6 @@ This here sentence consists of seven words.
 Either one of you has to go there.
 As a means to pass the time on his long journeys, Christopher Columbus once made a sentence with an infinite number of words.
 Measure thrice, cut once.
-Interlinguistics deals with communication across language barriers, and explores how planned languages like Esperanto and Volapük are used in these situations.
 I'm disturbing you.
 "I see," Dima sighed. "Sorry for the confusion, then. Enjoy your Fanta, and have a good day."
 You don't necessarily have to go there.
@@ -4266,7 +4146,6 @@ The Miss Universe contestant tripped on her gown but got up again gracefully and
 Pharamp wants Trang all for herself.
 Christopher Columbus once stared at Medusa, and Medusa turned to stone.
 Wounds heal as time passes.
-Lech Wałęsa jumped over the shipyard fence in 1980.
 Irish folklore has it that there is a pot of gold at the end of every rainbow.
 It's difficult to breathe when humidity is high.
 The ship of fools was a popular allegory in medieval art and literature.
@@ -4521,11 +4400,9 @@ The watch is slow.
 The clock is slow.
 Christopher Columbus disliked Spanish brothels, as he found them dirty and too expensive. Instead, he would go out to sea, get lured in - on purpose - by the Siren's song, and then have a rocking good time.
 Spread your legs apart.
-The Swiss keyboard doesn't have a ß.
 Nobody had ever heard of it.
 Italian is my mother tongue.
 It's a direct flight from Tokyo to London.
-In 1980 the Ontario Censor Board banned the film "The Tin Drum," adapted from the Günter Grass novel, but the media found this silly, and so the Canadian Broadcasting Corporation (CBC) showed the offending scene that night from coast to coast on the national news.
 You don't know how much I love you.
 We don't have the same values.
 We don't share the same values.
@@ -4725,7 +4602,6 @@ Good people can be found anywhere.
 The bread dough we made in home economics class turned out as salt dough.
 My new class starts today.
 My teeth are totally healthy and free of problems.
-You aren't quite right about that — let me explain.
 He is the same famous actor who recently won an award.
 I am not sure whether I will be able to come with you.
 I can't help but laugh when I think about that.
@@ -4737,7 +4613,6 @@ Hurry, or you won't get to the movie theater in time!
 We really need a man like you here.
 What time was it when you entered the building?
 Is there a large flower shop there?
-Please don't play here — she is trying to get to sleep!
 He threw everything out of the boat.
 The lake is certainly swimmable, but there's no point to swimming in it.
 Nobody can hear you there.
@@ -4843,7 +4718,6 @@ Come swing with me.
 Come swim with me.
 I won't go in.
 Aren't they Englishmen?
-Shinichirō Watanabe once considered making an anime about Christopher Columbus, but came to the conclusion that not even anime was expressive enough to properly portray the surreal greatness of Columbus's exploits.
 "Dima?!" Al-Sayib was so shocked that he dropped his Fanta on his computer, thereby ruining his noob hunt. "Dima?! Is that really you?!"
 He's going to get fired.
 You're ten times heavier than I am.
@@ -4967,7 +4841,6 @@ Blow me down!
 David Beckham is English.
 The smell of macaroni and cheese makes me nauseous.
 The death penalty is final and irreversible.
-How do you write "Eyjafjallajökull"?
 I've been given permission to inspect this equipment.
 Why do physicists converge? Because they're monotonous and narrow.
 A liter of milk contains about thirty grams of protein.
@@ -5005,8 +4878,6 @@ The mother fell into deep thought.
 "Just where are you, Dima?!" Al-Sayib asked, getting a towel to wipe the spilled Fanta.
 Some translators changed Alice's name to Sonya or Anya, even though Alisa is a widespread Russian name.
 I'm a policeman.
-Rubleŭskaja created very believable images of such historical figures as Francysk Skaryna, Franc Savič, Barbara Radzivił et al.
-It doesn’t look like a hokku: you need more syllables.
 I want to draw your attention toward last quarter's results which are very encouraging.
 Most of the time, he doesn't get to sleep before two or even three o'clock in the morning.
 Tomorrow will be the first time I take the plane, incredible, no?
@@ -5268,7 +5139,6 @@ I gave my dad a tambourine as a gift.
 "I see," said the blind man, as he picked up his hammer and saw.
 She wore her hair in plaits.
 The English language is undoubtedly the easiest and at the same time the most efficient means of international communication.
-I just had a look at your blog— it looks interesting.
 "International TV?" Dima asked. "What are you talking about, Al-Sayib?"
 He passed away yesterday.
 He deceased yesterday.
@@ -5333,7 +5203,6 @@ Typhoon Megi makes landfall in the Philippines.
 If you want to marry me you need to get on your knees and give me a ring.
 A flush is a poker hand where all five cards are of the same suit.
 Flash photography is not permitted beyond this point.
-The verb “to be” has an irregular conjugation in all languages.
 In elementary school, I was a prodigy and I was mostly the first or second best student in my class.
 Klava is bidding farewell to her husband.
 Klava oversimplifies everything.
@@ -5351,7 +5220,6 @@ Klava envied Lyusya.
 Klava forgives her husband.
 You shall answer for this, Ibragim!
 Lyusya can't be reached by phone.
-Lyusya is a very naïve and credulous girl.
 Because of Ibragim, Lyusya lost her appetite.
 Lyusya decided to give up on everything and leave for Siberia.
 The old lady busied herself on her vegetable garden.
@@ -5479,7 +5347,6 @@ Nice suit.
 Help me send out these two letters, all right?
 I hate Mondays.
 My brother is away on a construction job.
-We need Nāhuatl speakers! Only Nāhuatl speakers can be sacrificed to Huitzilopōchtli!
 A woman wrote 30 books about how to become happy, and then committed suicide.
 When will you finish your assignment?
 Optimism is merely a lack of information.
@@ -5750,7 +5617,6 @@ The Sahara Desert is almost as large as Europe.
 Here's looking at you, kid.
 These are my sister's magazines.
 Having misconceptions of what mathematics is is even more ordinary than not knowing how to spell my name.
-Esperanto word "Koran" doesn’t come from Arabic, does it?
 I looked around and noticed that it was the only car on the road.
 Drink wet cement and get really stoned.
 I want you only when you're not there.
@@ -5973,8 +5839,6 @@ If I had it all to do over again, I wouldn't change a thing.
 How old would you be if you didn't know how old you are?
 This shot will help numb the pain.
 I heard something new today.
-The Swiss keyboard doesn't have the letter ß.
-The letter ß does not exist on a Swiss keyboard.
 I don't like raw cut edges.
 The tunic has a raw cut hem.
 The game is not worth the candle.
@@ -6019,7 +5883,6 @@ He tricked out his car with the most ridiculous-looking spoilers and other acces
 Incredibly, one of the students stood up and mooned the dean right in the middle of his speech.
 This place gives me a really bad vibe.
 Is there life before death?
-I wonder whether Angelica Agurbash could imagine Niaklajeŭ would run for president when she sang a song with his lyrics.
 I'm sharing my flat with my brother.
 I definitely told you that!
 He is just no match.
@@ -6177,7 +6040,6 @@ Not every child likes apples.
 I categorically refused.
 I recall feeling so good at that time.
 I took a bus so I wouldn't be late for my appointment.
-The Hungarian word for "Bundt Cake" is "kuglóf".
 For many people, drug dealers and corporate attorneys are the dregs of society.
 The escaped convict is armed and dangerous.
 You can make a computer-to-computer call on the internet for free!
@@ -6248,7 +6110,6 @@ How can I get to the stadium?
 My boyfriend looks like your girlfriend.
 The Statue of Liberty is located in New York.
 There were hundreds of people milling about in the streets.
-No, I'm not Byron, I’m different.
 Get in the car, babe. We're driving to Madagascar.
 As I found out later, the man who showed up on my doorstep asking for help was speaking Quechua.
 He spun her around, took her in his arms, dipped her back, and gave her a big Hollywood kiss.
@@ -6702,7 +6563,6 @@ What do you want to do today?
 Checkmate!
 We are familiar with this song.
 I will speak with you tomorrow.
-Eat shit — millions of flies cannot be wrong.
 He has a pain in his side.
 Yeah, I felt bad when we broke up, but I don't lose any sleep over it.
 She's made up her mind and refuses to be talked out of it.
@@ -6757,7 +6617,6 @@ Nobody knows as many stories as the god of sleep.
 It saddens me to hear you say that.
 He doesn't know it yet, but he's already dead.
 My tailor is rich.
-Today is November 10, we are commemorating the great leader Atatürk.
 It's taken him a year, but I think he's finally come to grips with the death of his wife.
 That twenty-kilometer run really wiped me out.
 Greek and Latin are useful languages. That's why I study them.
@@ -6894,7 +6753,6 @@ Next time, I'll do it myself.
 I am a man; no human is strange to me.
 Your fine, curly hair looks as appetizing as glass noodles.
 Just like here.
-"Whenever I get thirsty, wake me up." — "How can I tell when you're thirsty?" — "It's whenever you wake me up."
 I dare not probe too deeply, lest I uncover the awful truth!
 Looking at your eyes, I thought you must have been smoking crack, but then I realized you were an anime character.
 I wonder how I can distinguish a coldly smiling smiley from an honestly smiling one.
@@ -7017,7 +6875,6 @@ It is very simple.
 Everything happened very quickly and it was all very strange.
 She was tempted to call his bluff, hardly believing that he would carry out his threat.
 I cannot look at you when I speak to you.
-There is no danger in this you needn’t worry.
 We've just received intelligence that the enemy is waiting in ambush two miles down the road.
 I know that this is the first time this has happened to you.
 Don't call us, we'll call you.
@@ -7028,7 +6885,6 @@ It's an intriguing theory, but I don't see how it can be tested.
 A moldy loaf of bread lay on the table.
 Everyone's eyes were fixed on the screens.
 In the room, all was silent.
-The planet Arèmo X3 is almost twice the size of planet Earth, and as you can see on the screen, quite similar to your world.
 Nothing had moved.
 I could have sworn something moved.
 I was horrified by what I saw.
@@ -7039,7 +6895,6 @@ Everything was completely black.
 I could not understand what prevented me from moving.
 I couldn't do that either.
 I am sorry to have made you wait.
-Don’t apologise, I understand perfectly.
 Again, a thousand apologies.
 I'm going to ask you to go and change.
 I'll show you where.
@@ -7089,7 +6944,6 @@ I am going to introduce you to the rest of the crew.
 Cows give milk.
 There was a striking resemblance between them.
 I might like to follow her lead.
-I couldn’t say I'd dined in fine style.
 I experienced a sense of well-being and was neither hungry nor thirsty.
 Perhaps you would have preferred a French dish.
 She spoke rapidly.
@@ -7711,7 +7565,6 @@ We'll show you the way.
 I could never have imagined such a sensation.
 It was so exhilarating.
 I felt light as a feather.
-I couldn’t even feel wind whipping my face.
 The ocean stretched as far as the eye could see.
 In my excitement, I wasn't aware of time.
 I was literally stunned by what I saw.
@@ -7805,7 +7658,6 @@ We should call the doctor.
 We should cancel the hike.
 I have always wanted to become a teacher, but it didn't happen.
 She left the company after 20 years.
-On June 21st, 1974, José had breakfast with Liliana for the last time.
 For the rest of his life he'd remember every single detail of that morning.
 Would you like some scrambled egg?
 May I have your signature here, please?
@@ -7848,8 +7700,6 @@ May I give you some advice?
 This is the word I found in the dictionary.
 We didn't talk yesterday.
 That book is small.
-The Esperanto alphabet has 28 letters: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
-The Esperanto alphabet consists of 28 letters: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
 Do you speak Turkish?
 We thought that the message was true.
 I don't speak Hebrew.
@@ -8027,7 +7877,6 @@ A triathlon is a forbidding test of endurance.
 Enough already!
 A bright red ladybug landed on my fingertip.
 I had a bespoke suit made.
-Ruritania summoned Balquiria's chargé d'affaires to protest against the violations of human rights in the latter's country.
 At this rate, Japan will make an exhibition of itself before the world.
 Chop the pickled cabbage finely.
 Time must take its course.
@@ -8048,7 +7897,6 @@ What does a Dutchman do after winning the World Cup? He turns the playstation of
 Mother had a large lung hemorrhage and died.
 Breakfast TV presenters tend to be unbearably perky.
 The company has branches in 12 European countries.
-Zürich is considered to be a major financial hub.
 Will you switch seats with me?
 It wouldn't have been able to have been done.
 After we had sex, I fell asleep with my head lying on her stomach.
@@ -8062,7 +7910,6 @@ He read English Literature at Oxford University.
 I'm ever so sorry!
 The average Westerner, in his sleek complacency, will see in the tea ceremony but another instance of the thousand and one oddities which constitute the quaintness and childishness of the East to him.
 Samuel Johnson draws his own portrait as "a hardened and shameless tea drinker, who for twenty years diluted his meals with only the infusion of the fascinating plant; who with tea amused the evening, with tea solaced the midnight, and with tea welcomed the morning."
-Translation is always a treason, and as a Ming author observes, can at its best be only the reverse side of a brocade,—all the threads are there, but not the subtlety of colour or design.
 "We tried to get together, like, at least once a week." "And who all do you play with?"
 "I want my dark elf to be blue." "OK... That one's purple. You'll be purple for this week."
 Don't disappoint me.
@@ -8142,7 +7989,6 @@ I think this lamp has a short because the light comes on only if I jiggle the co
 She's so cheap that she uses tea bags three times before she throws them away.
 The senator was censured by the congressional ethics committee.
 A drop of mustard fell and stained my tie during lunch.
-The world famous Hungarian painter Mihály Munkácsy's Christ Trilogy includes the paintings entitled "Christ before Pilate", "Golgotha" and "Ecce Homo".
 Two Iranian professors of physics were assassinated.
 I thought that he would come.
 I hate you very much.
@@ -8344,7 +8190,6 @@ It's already 7 o'clock.
 Sorry, I was dining and I didn't see the message.
 I need a website to create some lists.
 I want to overcome the yesterday's number of sentences!
-Yesterday night I went to the Festa dell'Unità.
 Is it good news?
 Too many people have serious issues with Italian language.
 Too many people have serious problems with Italian language.
@@ -8934,7 +8779,6 @@ At eight o'clock I will be ready for work.
 The alarm sounded.
 Using Tatoeba, you learn languages.
 Winds from the sea are humid.
-CO₂ has a lot to do with the so-called greenhouse effect.
 This horror movie is really scary. I couldn't sleep after I watched it.
 This medicine has no harmful side-effects.
 I think we should wait another half an hour.
@@ -8977,7 +8821,6 @@ Girls are losing their virginity earlier and earlier.
 For some strange reason I talk to me dogs with an Irish accent.
 I'll never forget to meet you.
 A prisoner is more obsessed with the idea of escaping than his warden by the idea of watching over him. Thus, a prisoner will always manage to escape.
-When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed; so everyone charged straight in, and they took the city. They devoted the city to the LORD and destroyed with the sword every living thing in it—men and women, young and old, cattle, sheep and donkeys.
 I work in a bank.
 Prosody semantics is related to pragmatics.
 He's in desperate need of the money.
@@ -8992,7 +8835,6 @@ Sometimes he seems very distant.
 This singer's genre of music is electronic.
 The man combs his dog with a brush.
 In this album all the sounds that you hear are really elaborate computer voices.
-I have decided to write ten sentences in Spanish each day. I'm sure that Rocío will be very happy to correct them.
 Spirit, are you there?
 I sent it yesterday; you should receive it tomorrow.
 If they are as enthusiastic as shy, I don't find it difficult to believe that they are the most enthusiastic people in the world.
@@ -9131,7 +8973,6 @@ You're crazy!
 I need to practice a little more.
 Walk every day.
 The World Football Championship will take place in Kazan.
-A ‘chek-chek’ festival took place in Latvia.
 She finally fell asleep.
 He's been teaching for 20 years.
 I couldn't understand him at all. What about you?
@@ -9463,7 +9304,6 @@ Looks aren't everything.
 If looks could kill, I'd be dead by now.
 I would like to become a famous soccer player.
 I would like to travel around the world.
-The best player of all times was Pelé.
 Tatoeba has no "Log Out" button.
 People from China play another kind of chess.
 Democracy exists where there is nobody so rich to buy another and nobody so poor to be supplied.
@@ -9586,7 +9426,6 @@ These events transpired while the senator was still in office.
 The children were left to fend for themselves.
 The catapult hurled the boulder over the castle walls.
 I'll monitor your progress from my computer.
-To buy my computer, I had to pay €100.
 No! Did he really say that? You can't be serious!
 The wreckage is scattered over a large area.
 I can't prove it, but I'm sure he was murdered.
@@ -9835,7 +9674,6 @@ I'm from Colombia.
 Arthur is one of the students that redid their year.
 Existence is a meaningless concept.
 Sysko, will you fix the Uzbek transliteration tomorrow?
-"ASCII quotes" are a substitute character for the “real” quotes that vary from language to language, and the advent of Unicode have rendered ASCII quotes obsolete.
 Someday, you'll wake up and find yourself dead.
 Taro, the supper is ready!
 I'd like to see her back.
@@ -9889,7 +9727,6 @@ Buying books would be a good thing if one could also buy the time to read them i
 Money is human happiness in the abstract: he, then, who is no longer capable of enjoying human happiness in the concrete devotes his heart entirely to money.
 We can come to look upon the deaths of our enemies with as much regret as we feel for those of our friends, namely, when we miss their existence as witnesses to our success.
 Only a male intellect clouded by the sexual drive could call the stunted, narrow-shouldered, broad-hipped and short-legged sex the fair sex.
-In our monogamous part of the world, to marry means to halve one’s rights and double one's duties.
 The animal lacks both anxiety and hope because its consciousness is restricted to what is clearly evident and thus to the present moment: the animal is the present incarnate.
 Men are by nature merely indifferent to one another; but women are by nature enemies.
 Intellect is invisible to the man who has none.
@@ -13158,8 +12995,6 @@ Anyhow it will be a good idea to hurry up.
 Hey Pandark, how did you became so famous that Pharamp started writing sentences about you?
 Jonathan Swift would defend me.
 Oleg is happy that someone loves him.
-My roommates have already explained to me who Björk is.
-My neighbours have already explained to me who Björk is.
 I discovered the truth.
 We were obliged to abandon our plan.
 She remarried when she was in her mid-forties.
@@ -13297,8 +13132,6 @@ Too much of a good thing is wonderful!
 So all you need is good cheese and a jar of black cherry jam.
 Guess what they got! A bowler hat for him and leather boots for her!
 You'll never take me alive!
-There is no such thing, at this stage of the world’s history in America, as an independent press. You know it and I know it. There is not one of you who dare write your honest opinions, and if you did, you know beforehand that it would never appear in print. I am paid weekly for keeping my honest opinions out of the paper I am connected with. Others of you are paid similar salaries for similar things, and any of you who would be foolish as to write honest opinions would be out on the streets looking for another job. If I allowed my honest opinions to appear in one issue of my papers, before twenty-four hours my occupation would be gone. The business of the journalist is to destroy the truth, to lie outright, to pervert, to vilify, to fawn at the feet of Mammon, and to sell his country and his race for his daily bread. You know it and I know it, and what folly is this toasting an independent press? We are the jumping jacks, they pull the strings and we dance. Our talents, our possibilities and our lives are all the property of other men. We are intellectual prostitutes.
-There is no such thing, at this stage of the world’s history in America, as an independent press.
 The business of the journalist is to destroy the truth, to lie outright, to pervert, to vilify, to fawn at the feet of Mammon, and to sell his country and his race for his daily bread.
 If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 It's exactly what I wanted.
@@ -13320,7 +13153,6 @@ Those who have a long hair own a hairdrier.
 Can I have a cup of tea?
 Above all, don't buy anything from him: he's a blithering swindler.
 She was born lucky.
-People that don't put a circumflex accent on "râler" piss me off.
 Don't you get bored when you're alone?
 Have you anything to declare?
 Please open your suitcase.
@@ -13492,7 +13324,6 @@ Is this gift Laura's?
 I'll stay home today.
 How can things be perfect?
 I needed time to convince her.
-I'm laughing at his naïveté.
 The university's endowment grew 10% in the last year alone.
 He's enamored of the idea of becoming a rock star.
 He doesn't want to be encumbered with the responsibility of caring for children.
@@ -13724,7 +13555,6 @@ He can do anything he sets his mind to.
 I'm open to suggestions.
 Who do you live with?
 Do not fear the unexpected, but be prepared for it.
-I‘m ironing my handkerchiefs.
 You disappear.
 My bike is stolen.
 She talked incredibly for two hours.
@@ -13965,11 +13795,9 @@ Tatoeba is a language dictionary.
 You can search words, and get translations. But it's not exactly a typical dictionary.
 It's all about sentences. Not words.
 You can search sentences containing a certain word and get translations for these sentences.
-Why sentences? …you may ask. Well, because sentences are more interesting.
 Sentences bring context to the words. Sentences have personalities. They can be funny, smart, silly, insightful, touching, hurtful.
 Sentences can teach us a lot. And a lot more than just words.
 So we love sentences. But, even more, we love languages.
-And what we really want is to have many sentences in many — and any — languages.
 This is why Tatoeba is multilingual. But not that kind of multilingual. Not the kind where languages are simply being paired up together, and where some pairs are left behind.
 Tatoeba is really multilingual. All the languages are interconnected.
 If an Icelandic sentence has a translation in English, and the English sentence has a translation in Swahili, then indirectly, this will provide a Swahili translation for the Icelandic sentence.
@@ -13991,7 +13819,6 @@ This means you can reuse them freely for a textbook, for an application, for a r
 So that's Tatoeba.
 But that's not the whole picture. Tatoeba is not just an open, collaborative, multilingual dictionary of sentences. It's part of an ecosystem that we want to build.
 We want to bring language tools to the next level. We want to see innovation in the language learning landscape. And this cannot happen without open language resources which cannot be built without a community which cannot contribute without efficient platforms.
-So ultimately, with Tatoeba we are only building the foundations… to make the Web a better place for language learning.
 That's awesome, right?
 It's a hard question.
 This is the most beautiful ostrich I've ever seen.
@@ -14031,8 +13858,6 @@ Can you wrap it up for me? It's a gift.
 The only way to lose weight is to create a caloric deficit by burning more calories than you eat.
 I went to Italy for the second time in 1980.
 Ladies and gentlemen, please notify the people to stop contributing to global warming and use nature-friendly equipment.
-The symbol used for the Israeli Shekel is "₪".
-Vietnam's currency is the đồng. Its symbol is "₫".
 The German word "Scheibenwischer" means "windshield wiper".
 Stir the soup.
 I am south of the north.
@@ -14117,14 +13942,6 @@ He is heroic.
 Our sister bought some eggplants, potatoes, zucchinis and Chinese cabbage at the market.
 I used to stay up late.
 I used to stay up long into the night.
-Unit of resistance is ohm and its symbol is same with the capital letter Omega in Greek alphabet. It's "Ω".
-The former Argentine currency was Austral. Its symbol was "₳".
-Won is used in both North Korea and South Korea. Its symbol is "₩".
-The cedi is Ghana's current currency. Its symbol is "₵".
-France's currency was the franc, and its symbol was ₣. While it is no longer used in France, francs are still in use in some former French colonies such as Guinea.
-The former Italian currency was the lira and its symbol was "₤". It's not related to the Turkish lira.
-In several European countries, the current currency is the euro. Its symbol is €. One euro is worth about two Turkish lira.
-I've inserted 2 DM and 75 ₰ to my piggy bank.
 Daily exercise is essential for your health.
 Dwarf tossing is not an olympic sport.
 Management has even cut back on toilet paper since the crisis.
@@ -14207,7 +14024,6 @@ It may never be known how we silly Anglophones got "baloney" out of "bologna."
 Conformity is the jailer of freedom and the enemy of growth.
 There is a cult of ignorance in the United States, and there always has been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge."
 Never let your sense of morals prevent you from doing what is right.
-I find it amazing that in the Slavic languages the word “sweet” originally meant “salty”!
 Nero did not actually fiddle while Rome burned.
 Yumi went there alone.
 I'm worried about you.
@@ -14380,7 +14196,6 @@ Jill of the Jungle could transform into a phoenix, a frog, or a fish. The fish a
 He is near forty.
 Whenever the school bell rang, Ivan would stare into space and drool. Several failed exorcisms later, his parents realized that he was the reincarnation of one of Pavlov's dogs.
 Which food do you think tastes best?
-The letter "ß" is one of the few things Switzerland is not neutral about.
 Count to thirty.
 It takes time.
 Even drunken celebrity tweets look better in 24-point Georgia.
@@ -14463,7 +14278,6 @@ Metaphors are much more tenacious than facts.
 Why are there beings at all, and why not rather nothing?
 Making itself intelligible is suicide for philosophy.
 The most thought-provoking thing in our thought-provoking time is that we are still not thinking.
-From our human experience and history, at least as far as I am informed, I know that everything essential and great has only emerged when human beings had a home and were rooted in a tradition. Today’s literature is, for instance, largely destructive.
 Death is the possibility of the absolute impossibility of Dasein.
 In order to remain silent Dasein must have something to say.
 Hegel's philosophy is so odd that no one would have expected him to be able to get sane men to accept it, but he did. He set it out with so much obscurity that people thought it must be profound.
@@ -14479,7 +14293,6 @@ The official designs of the Government, especially its designs in connection wit
 How can we tell the dancer from the dance?
 A sadist is always at the same time a masochist.
 The great question that has never been answered, and which I have not yet been able to answer, despite my thirty years of research into the feminine soul, is "What does a woman want?"
-It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
 It is always possible to bind together a considerable number of people in love, so long as there are other people left over to receive manifestations of their aggressiveness.
 The aim of all life is death.
 Hail, milord.
@@ -14494,7 +14307,6 @@ Many people in these parts have fallen on hard times.
 I'm sure his chemistry teacher would have failed him had they survived the tragic explosion.
 Comedy always includes a little tragedy. That's why there are sad clowns.
 I'm too cheap to play anything but homebrew PC games.
-A cute kitten can make a giggling mess even out of the most severe übermensch.
 Her ceaseless caterwauling alarmed every dog within a 500-foot radius.
 The seaside resort was so touristy that it actually stood up and walked to Vegas.
 His face betrayed his sheer puzzlement.
@@ -14632,7 +14444,6 @@ I once read an interesting anthology of poetry generated by a computer program i
 This is as good as it gets, kids.
 Buckle up, sit down, shut up and hold on.
 The Oxford comma is awkward, unnecessary, and cannot be carried over to languages other than English.
-The New Yorker attempts to reïnstate the English diaresis in words like "coöperation," "zoölogical," and "reëntry"—an odd thing to reinstate in this day and age, and hardly in cooperation with most zoology.
 White tigers are not albinos. If they were, they would have no stripes whatsoever.
 Ah, screw it.
 Ellipses have so much to hide....
@@ -14797,7 +14608,6 @@ We rarely hear, it has been said, of the combinations of masters, though frequen
 No society can surely be flourishing and happy, of which the greater part of the members are poor and miserable. It is but equity, besides, that they who feed, cloath and lodge the whole body of the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, cloathed and lodged.
 The violence and injustice of the rulers of mankind is an ancient evil, for which, I am afraid, the nature human affairs can scarce admit a remedy.
 Our seamen have always been famous for a matchless alacrity and intrepidity in time of danger; this has saved many a British ship, when other seamen would have run below deck, and left the ship to the mercy of the waves, or, perhaps, of a more cruel enemy, a pirate.
-The poorest man may in his cottage bid defiance to all the forces of the Crown. It may be frail — its roof may shake — the wind may blow through it — the storm may enter — the rain may enter — but the King of England cannot enter — all his force dares not cross the threshold of the ruined tenement!
 Fraud and deceit abound in these days more than in former times.
 Law is the safest helmet.
 The house of every one is to him as his castle and fortress, as well for his defence against injury and violence as for his repose.
@@ -14817,7 +14627,6 @@ The first and the simplest emotion which we discover in the human mind is Curios
 No passion so effectually robs the mind of all its powers of acting and reasoning as fear.
 When bad men combine, the good must associate; else they will fall one by one, an unpitied sacrifice in a contemptible struggle.
 All who have ever written on government are unanimous, that among a people generally corrupt, liberty cannot long exist.
-There is but one law for all, namely, that law which governs all law, the law of our Creator, the law of humanity, justice, equity — the law of nature, and of nations.
 Superstition is the religion of feeble minds.
 He's got a boy-next-door look about him.
 When leaving from the gulf of Otranto, we were thirty; but when arriving in Cadiz, we were ten.
@@ -14872,7 +14681,6 @@ Your eyes are like pools of eyes.
 A body of researchers funded by Frito-Lay are attempting to compile a list of bite-size snack foods through which the body and blood of Christ can transubstantiate.
 To the chagrin of young job seekers the world over, McDonald's now requires a bachelor's in philosophy for its cashiers.
 In this family, jokes are not laughed at but rejoined with other jokes.
-Jimmy was intensely jealous of the dots in Zoë's name.
 "I Love You" is the title of more songs than anyone can sing in her lifetime.
 From the coffee table photo book to the bathroom factoid anthology to the bedside escapist novel, American literature is designed to match the furniture.
 Crowd sourcing varies from person to person.
@@ -14963,7 +14771,6 @@ I've been really busy with my graduation dissertation recently.
 Please give my regards to your family.
 Many Americans insist that immigrants speak English, but wouldn't a true language purist insist on Old English, wynns, thorns, edhs and all?
 I haven't the foggiest.
-Nietzsche spoke of "Übermenschen," not "Übermänner," so your supermen and overmen can go sit on a fencepost.
 Why do you have to do it?
 Do you think it'll work?
 And you, how's it going?
@@ -15020,7 +14827,6 @@ I told William, but he didn't believe me.
 Like all dogs, he'll chase a rabbit if he sees one.
 Everyone has a right to say what he thinks.
 The property must have been nearly a thousand acres all told.
-I'm telling you – that's how it happened.
 I can't tell you how sorry I am.
 She threatened to tell on me.
 You promised you wouldn't tell.
@@ -15160,7 +14966,6 @@ Her coloring book lay limp, jagged with angular pink scribbles.
 Single dads are becoming more and more vocal in the U.S.
 The rationale behind certain New Age treatments can be dangerously wrong.
 Much of the riots' coverage was taken from the cell phones of passersby, saving local news outlets valuable film which they would later use for banal "human" "interest" "stories."
-There exists a beautiful, colorful species of turkey in the Yucatán Peninsula called the "ocellated turkey," or "el pavo ocelado."
 The departmental heads, lost in petty argument, could not reach a cohesive decision.
 Death before dishonor!
 Don't be disrespectful to your mother!
@@ -15185,7 +14990,6 @@ He disregards his wife every time she asks to cuddle.
 Henry populated his model train set with little plastic animals from the dollar store.
 Astonish your friends by teaching your dog to do backflips!
 I'm totally boned!
-Franz boned the fish fillets, then sautéed them in butter, garlic, and lemon juice.
 His sexist slur was broadcasted across the country.
 How many more Christmases must we go hungry?
 The United States boast some of the world's cleanest food.
@@ -15203,7 +15007,6 @@ I always laugh at funerals.
 It's better to stay in her mother's good graces.
 We used to play over by that grassy knoll.
 I find that I get the best flavor by grinding fresh peppercorns.
-He grinds on chicks all the time—well, he tries to. God almighty, does he try.
 Lupe grinds the piloncillo into a fine powder.
 Tim's uncle was a machine gunner on a helicopter in Vietnam.
 Those little yogurts may be guiltless, but do they really taste like key lime pie?
@@ -15237,7 +15040,6 @@ This is a support group for widows.
 She decorated her notebook with gum wrappers so the cover was all shiny.
 What are the zeros of this parabola?
 Half the pain of chest waxing is in the anticipation.
-Unfortunately for his résumé, he has no taste for volunteering.
 Visualization, a favorite tool of the psychologist, cannot solve all problems, but many so-called positive thinkers seem to think that it can.
 She was visibly afraid to be here.
 This violates about a million penal codes and every holy book there is.
@@ -15337,7 +15139,6 @@ Don't threaten me.
 I don't want to go to bed.
 Quit picking your scabs. I don't care how good it feels.
 A clove cigarette miasma made navigating the pub like swimming underwater.
-Of course Jon Stewart is America's most trusted anchor now—even our real news is a farce!
 He made a farcical attempt to save face during the fallout of his sex scandal.
 Are there infixes in English? Abso-fucking-lutely!
 Estonia has its own national anthem.
@@ -15416,7 +15217,6 @@ Jim has never been abroad.
 Have you bought any new clothes lately?
 I didn't envision him as a Klingon speaker; his forehead was too smooth.
 Open the door for love.
-They said something to the effect of ‘I’m going in the same direction so, I’ll call a taxi and then why don’t you ride with me?’
 Do we already have that text?
 He is living abroad at the moment.
 She is always losing her handkerchief.
@@ -15463,13 +15263,9 @@ Pull the bobbin, and the latch will go up.
 Drink water only when you are thirsty; drinking 8 glasses a day is only a myth.
 It is a term used to describe the warming of the earth due to increasing amounts of carbon dioxide in the atmosphere.
 Why are there disappointments in human life?
-Usually they are all brought about by one’s own misdeeds and nothing more. For me, however, this is not the case; I am a man of great feeling, who values his word, and is straightforward and unrestrained, but these qualities have become the causes of problems for me.
-How much more so for my father, the honourable Mr Jia, who is generous and chivalrous, anxious to help those in difficulty, deals with people’s problems, and helps people marry off their daughters and raise their sons; examples of these cannot be counted on one’s fingers. He spends money like dirt, much of it for other people.
 When there were unexpected expenses in the household of me and my wife, we could not avoid pawning our belongings.
 At first, we could make ends meet, but as it continued we became unable to cover our expenses.
-As the proverb goes, “To manage a household and maintain relationships, you cannot do without money.”
 Initially this gave rise to gossip among petty people, and it gradually provoked criticism from members of our family.
-“A woman without talent – that’s virtue” - true words from the ancients of a thousand-years ago.
 The greatest wisdom has no shape; the greatest vessel is the latest to be completed; the greatest music has the most tenuous notes.
 I'm tired of translating.
 He made me his own assistant.
@@ -15514,7 +15310,6 @@ You are always very concise and very much to the point.
 Other people are always off the point.
 Virtual memory is a memory management technique developed for multitasking kernels.
 Almost all implementations of virtual memory divide the virtual address space of an application program into pages; a page is a block of contiguous virtual memory addresses.
-Pages are usually at least 4 KiB (4×1024 bytes) in size, and systems with large virtual address ranges or large amounts of real memory generally use larger page sizes.
 By 1969 the debate over virtual memory for commercial computers was over. An IBM research team led by David Sayre showed that their virtual memory overlay system consistently worked better than the best manually controlled systems.
 Some systems, such as Burroughs B5500, do not use paging to implement virtual memory. Instead, they use segmentation, that divide virtual address spaces into variable-length segments. A virtual address consists of a segment number and an offset within the segment.
 I took a walk in the mountains.
@@ -15548,7 +15343,6 @@ I forgot who said that.
 Kill me with words!
 They grew frustrated.
 It will grow old.
-The Displacement of the idea that facts and evidence matter, by the idea that everything boils down to subjective interests and perspectives is — second only to American political campaigns — the most prominent and pernicious manifestation of anti-intellectualism in our time.
 If every user added twenty a day to Tatoeba, it might be possible to reach one million sentences by Christmas.
 He left me waiting for an hour.
 Go out and breathe some fresh air instead of watching TV.
@@ -15706,7 +15500,6 @@ Parts of the world that are already hot enough might become unbearably so.
 Did it come with leads?
 Did it come with cables?
 Did it come with cords?
-Hot weather doesn’t just mean that people feel a little unhappy.
 Thanks for inviting me.
 Is this the first time you have tasted it?
 It means a huge increase in the use of air conditioning which uses energy, which costs money and creates pollution.
@@ -15751,8 +15544,6 @@ With its distinctive Chinese features, the qipao enjoys growing popularity in th
 She also bought the dictionary.
 Sysko has plans to buy Microsoft.
 Which shoes are too small?
-She often speaks with her fiancé.
-She frequently speaks with her fiancé.
 Yesterday I went to Denizli and I saw a rooster near the coop.
 I ate potato flavoured village bread in my hometown, Bolu.
 Old birds sing, young birds twitter.
@@ -15777,10 +15568,8 @@ What language is spoken in Egypt?
 This is my horse.
 He is my husband's best friend.
 People call her Yotchan.
-"ẽ" is a letter in the Guarani alphabet.
 The champion of Eredivisie will be Ajax.
 Kocaeli, especially Gebze, are industrial areas.
-We write Çorum "Ĉorum" in Esperanto.
 The founder of Facebook, Mark Zuckerberg, is almost a casanova.
 Don't mention rope in the home of a hanged man.
 Even a blind squirrel finds an acorn sometimes.
@@ -15948,7 +15737,6 @@ The pier took a real beating from the hurricane.
 Protesters were picketing outside the company's headquarters.
 It is often not the costliest and most lifelike toy that wins the child's love.
 When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up.
-Humans are amphibians — half spirit and half animal.... As spirits they belong to the eternal world, but as animals they inhabit time.
 Much of the modern resistance to chastity comes from men's belief that they "own" their bodies.
 100 per cent of us die, and the percentage cannot be increased.
 We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea. We are far too easily pleased.
@@ -15956,7 +15744,6 @@ If I find in myself a desire which no experience in this world can satisfy, the 
 I fancy that most people who think at all have done a great deal of their thinking in the first fourteen years.
 The hardness of God is kinder than the softness of men, and His compulsion is our liberation.
 All that is not eternal is eternally out of date.
-What harm would it do, if a man told a good strong lie for the sake of the good and for the Christian church … a lie out of necessity, a useful lie, a helpful lie, such lies would not be against God, he would accept them.
 I cannot forbid a person to marry several wives, for it does not contradict Scripture.
 But it is specially evil that the young maiden folk are exceedingly bold of speech and bearing, and curse like troopers, to say nothing of their shameful words and scandalous coarse sayings, which one always hears and learns from another.
 Reason is the greatest enemy that faith has: it never comes to the aid of spiritual things, but--more frequently than not --struggles against the divine Word, treating with contempt all that emanates from God.
@@ -16173,15 +15960,9 @@ If he were happy, he would play much better.
 If she were happy, she would play much better.
 If he had insulted me, I would have given him a shove.
 I also think that if the Spanish hadn't discovered Latin America, others would have done it shortly after they did.
-Although I was the eldest son in the family, I was the third child in the sequence, so everyone from superiors to inferiors called Yun “third lady.”
-After a while, they suddenly started calling her “third wife”; at first it was a joke, but it went on to become a habit, to the extent that seniors and juniors, old and young all used “third wife” as her name. Was this the pivotal moment for disagreement in the family?
 In 1777, I followed my father to the government offices at Haining to work for him.
-Yun would enclose little notes in letters from home. My father said “Since your wife is capable with brush and ink, she can write your mother's letters from home for her.”
 Later, it happened that there was some gossip at home, and my mother suspected that she had written something improper; after that she would not have her letters written for her.
-My father saw that the letters were not in Yun’s handwriting, and asked me “Is your wife ill?”
 I immediately wrote a letter to ask her, but she did not reply.
-After a while, my father got angry and said “It seems your wife will not stoop to being a substitute writer!”
-It was not until I returned and sought it out that I knew the truth of the misunderstanding; I wanted to put things right appropriately, but Yun hurriedly stopped me, saying “I would rather suffer blame from your father than lose the fondness of your mother.”
 In the end, we did not confess.
 The ancient and the modern, the past and the future are all one.
 She always speaks English.
@@ -16200,12 +15981,10 @@ I am glad that everything has finished this way.
 I asked him why he was sad.
 There we are!
 What don't you like?
-Is it strange for you that even I’m a man?
 What has he done today?
 What has she done today?
 What have they done today?
 Even we are people.
-Even though we resist this by all means — it is a fact.
 Tatoeba now contains five hundred fifty-five Klingon sentences.
 His success went to his head.
 He has squandered every opportunity I've given him.
@@ -16249,7 +16028,6 @@ This sentence will be translated.
 You take everything too literally.
 The girl said she was going shopping with her mother, ignoring what she was told.
 Two families live in the house.
-There is but One who is absolutely by and through himself, — namely, God; and God is not the mere dead conception to which we have thus given utterance, but he is in himself pure Life.
 The higher classes constitute the mind of the single large whole of humanity; the lower classes constitute its limbs; the former are the thinking and designing part, the latter the executive part.
 I'd prefer to die rather than give up.
 The fool is happy.
@@ -16300,7 +16078,6 @@ He is not the sharpest knife in the drawer.
 He is not the sharpest tool in the shed.
 He is not the brightest light in the harbour.
 Any jackass can kick down a barn, but it takes a carpenter to build one.
-Helgi and Hayrünnisa were married.
 The reason our hair is brown is that it enabled our monkey ancestors to hide amongst the coconuts.
 Our son was killed in the war.
 The reason I prefer to go to Japan is that the people in Japan are hardworking and have honest personalities.
@@ -16567,7 +16344,6 @@ I was hired.
 Brad doesn't know as many people here as me.
 Show more details.
 Although he was weak when he was a baby, now he is very strong.
-Correspondance conducted in Volapük.
 The knife belongs to the gardener.
 The trip is longer than I expected.
 The hunter shoots stags and hares.
@@ -16840,7 +16616,6 @@ He emigrated to Australia.
 When did you immigrate to our country?
 I broke both my legs riding a bicycle.
 Pasta is called pasta because it's the Italian word for "dough" from which it is made.
-Whenever I translate something from English into Spanish, I prefer to use the familiar "tú" instead of the formal "usted".
 One should also study history from the viewpoint of the vanquished.
 If I were to make a potato tortilla, I would buy two dozen eggs.
 If I had to study, I would stay at home every day.
@@ -17363,7 +17138,6 @@ Why didn't you help him in your turn?
 My old English teacher is certainly rolling in her grave right now.
 Shopping around has become a burden to him.
 He has two cats.
-Your five o’clock shadow is hurting the environment.
 Should I go to college?
 He telephoned her when he arrived at the station.
 Akira uses the same dictionary that her father used as a student.
@@ -17655,7 +17429,6 @@ In the south of China, the situation is different.
 With a warm and wet climate, Guangzhou has fresh flowers all year round.
 We will get to Tokyo before it gets dark.
 From then on, flower fairs were held in Guangzhou during the Spring Festival every year.
-There is an old saying there: “No flower fairs, no Spring Festival.”
 Fritz admits he often plays truant.
 He was very scared when he saw that large snake.
 He is very kind, just like you.
@@ -17773,8 +17546,6 @@ He is much better than you.
 My house is north of the library.
 I can't tell the difference between them.
 I know him, but I don't know his name.
-It’s not heavy, but light.
-He’s shivering because of the cold.
 The picture is hanging on the wall.
 He hung it on the wall.
 You must do it.
@@ -17810,7 +17581,6 @@ May it not happen!
 Do you know anything about his family?
 He is the person whom I saw yesterday.
 I really know what he said.
-Don’t forget where you put it.
 Tell me how long that boy has been sitting there.
 Many websites prohibit misleading usernames that imply an official role on the website such as "admin," "administrator," "webmaster," "system operator," "sysop," or "moderator."
 I don't have enough money yet.
@@ -18031,7 +17801,6 @@ Pedro doesn't have a sister.
 Juan doesn't have a brother.
 Lucia doesn't have a brother.
 Ana doesn't have a sister.
-López has four brothers.
 Juanito has four sisters.
 Dolores has four sisters.
 Maria has four brothers.
@@ -18132,8 +17901,6 @@ I'm living in a small town.
 I want to live in a town.
 I want to live in a small town.
 I want to live in a big city.
-Maria, Marcelina and father José are going to town.
-María, Marcelina and father José want to go to town.
 I will go when they come back here.
 If you want, I will come back here.
 When you speak fast, I can understand.
@@ -18420,7 +18187,6 @@ He is crazy about jazz.
 The death of one man is a tragedy, the death of millions is a statistic.
 I like Ozodbek's songs.
 I've quit using French with you.
-The local name of Nepali is "नेपाली".
 I'm drunk, but I can still speak German.
 The local name of Tsez is "cezyas mec".
 If you had told me the truth, I would not be angry now.
@@ -18496,7 +18262,6 @@ I think I'm going to stay here.
 I think I'm gonna stay here.
 I can't.
 Oh, come on! You gotta at least spend the night. We haven't seen you for so long.
-The stages of psychosexual development—oral, anal, phallic, latent, and genital—turn out to be one big Freudian slip, betraying severe anal retention on the part of the taxonomist.
 Are you drunk enough to speak German once again?
 Christopher Columbus's secret love letters to Queen Isabella - undiscovered for centuries - have been rumored to rival, if not surpass, the Kama Sutra.
 When the landlord's away, the tenants will play.
@@ -18644,18 +18409,13 @@ What has your friend been doing recently?
 I like to do oil painting, but I don't intend to make that my lifelong occupation.
 This is definitely the best way.
 I made twenty blurry shots to have one almost correct!
-Why is it important to know about a company’s culture?
 Businesses often have a list of 5-10 'mission statements' featured in their brochures, on their websites or hanging in their office detailing the values they hold as a form of communication to their employees, their clients and the public.
 If you are a potential employee then you should be aware of what the company stands for and how it treats its employees before attending an interview.
 If you need to use the services of a company, you may be interested to know what standards they work towards before choosing to work with them.
 The guitarist threw himself into the crowd.
 You may not agree with some of their major policies and this could affect your working relationship.
-For some companies their treatment of their employees or clients at any given time could affect their share prices and so inevitably have a great influence on the company’s success or failure.
-To better understand what a company’s culture is you should consider the following points and see how the company deals with them.
 Many on-line companies need to have a new approach to business to survive.
-One of the major Internet search engines states that ‘Fast is better than slow’.
 This shows they have listened to the needs of their clients.
-They also have ‘You can be serious without a suit’ as one of their key beliefs.
 This implies a fun and relaxed working atmosphere where team achievement is highly valued, communication is extremely important and traditional 3-hour meetings have been replaced by informal chats in the queue for coffee.
 Gotta go.
 The nail that sticks out gets hammered down.
@@ -18744,11 +18504,9 @@ I don't like spring.
 Does she know your telephone number?
 There is no use in making excuses.
 Science is still not capable of solving all of life's problems.
-Angels have harps, devils have bodhráns.
 He was a brave sentry.
 Nazi comparisons are inappropriate in every situation.
 She said that she's living in Osaka.
-April is in my mistress’ face, and July in her eyes hath place; Within her bosom is September, but in her heart a cold December.
 A car is a machine for turning fuel into obesity.
 Jesus Christ converted to Buddhism.
 His loneliness was as deep as the blue of the ocean around his dugout canoe.
@@ -18829,7 +18587,6 @@ Xiaoli often loses sleep because his neighbours are always arguing loudly.
 He feels at home.
 This is the best restaurant known to me.
 This is the best restaurant I know of.
-Contemporaries said about him: “No one before has ever navigated like Columbus does, and no one ever will.”
 The world is blue, and so are you.
 An earthquake, 8.9 on the Richter scale, hits Japan and causes a massive tsunami.
 Tsunamis swept through rice fields and flooded the towns.
@@ -18851,7 +18608,6 @@ Currently, it is a situation in which transport links in the metropolitan area h
 It is expected that the tsunami surge will be ten meters or less.
 A lot of buildings collapsed in Japan due to the earthquake yesterday.
 It's just like a nightmare.
-Woe to those who presume that they are destined to ‘enlighten’ others, not themselves!
 The thief was caught red handed.
 Mom was busy with her sewing.
 A tiger is a very ferocious kind of animal.
@@ -18880,7 +18636,6 @@ I'm resting.
 I'm eating lunch.
 I study art history.
 I'm studying art history.
-The bus stops at Hótel Ísland.
 The bus stops at Hotel Iceland.
 Which guitar is yours?
 Paul is more vigorous than Marc.
@@ -18933,7 +18688,6 @@ To one of the head psychologists, the depression criteria didn't quite character
 Is this kid autistic or does he have ADHD? His behavior is hard to characterize either way.
 Drunken fights and more drunken sex characterize their excuse for a relationship.
 If you had to characterize your wife in three words, which ones would you pick?
-Mikhail choked down another shot—all too characteristically.
 In a characteristically awkward move, Regis patted his guest on the arm.
 The fun thing about crowdsourcing is letting other people do the work for us.
 God help your mortal soul.
@@ -18947,7 +18701,6 @@ In the past it was thought the world was flat.
 My grandfather was given a gold watch when he retired.
 I was told by my teacher to hand my homework by Friday.
 The two boys were stopped and searched by the police.
-Last year’s champion was expected to win Wimbledon.
 It is said the house is haunted.
 When the sun of culture sets, the dwarfs too look like giants.
 Do abbots mow hay? Abbots never mow hay. Abbots pray!
@@ -19118,7 +18871,6 @@ Is there a mistake in the telephone number?
 It is necessary to lose weight.
 It's better to drink in moderation.
 She looks happy, but deep down, she suffers.
-Patience is not my forté.
 Mr Yoshida was born in Yamagata prefecture, and graduated from Nihon University College of Art with a degree in oil painting.
 Those whose sins are forgiven are deemed to be sinless that they may find the way to heaven.
 Ikeda made several silly mistakes, and so he was told off by the department head.
@@ -19135,7 +18887,6 @@ Look, my pants are not as dirty as yours.
 All he thinks about is himself.
 Mary shut herself up in the room and closed all the windows.
 I've been living in Kassel for two years and still haven't been to Herkules.
-No, that's not right. You have to set α equal to β.
 I like to make the students work.
 Neither he nor she wants to do the dishes, and so the two of them decided to eat out.
 Teach me how it's done.
@@ -19534,7 +19285,6 @@ Do you go with us?
 Mr. Watson, come here, I want to see you.
 How to explain it?
 The boy stated that he would give a bouquet of roses to the girl that he liked, talk with her, and invite her to have a coffee.
-María looked at the starry sky, with a quarter moon that illuminated that autumn night.
 I feel fortunate to have known you.
 I would be bored if I had to count to five hundred twenty-four thousand three hundred seventy-two.
 I love video games.
@@ -20046,7 +19796,6 @@ They say they cannot compete with low-priced foreign products.
 They were low enough in cost so many Americans could buy them.
 It's because of you that I'm a cripple!
 Your CV has really impressed me.
-Your résumé has really impressed me.
 Young children cannot determine what is right and what is wrong.
 She can assess investments very accurately.
 Don't judge other people's traditional culture.
@@ -22108,7 +21857,6 @@ This is old news to me.
 His name is known to all.
 This morning it was very cold.
 The serpent tempted Eve.
-I can’t stand panties.
 Some of the roses in my garden are white, and others are red.
 With Renaissance, scholastic ideas gave place to positive ideas.
 Columbus's Law of Discovery states: If you discovered something BEFORE Christopher Columbus, then what you discovered does not exist.
@@ -22247,7 +21995,6 @@ The people hailed the victory.
 Use makes mastery.
 An hour has sixty minutes.
 Botafogo has won the Brazilian League Trophy.
-Here is ¥50,000. Please do not spend the money on unimportant things.
 I've believed in Kylie Minogue since June 12, 1998.
 We started to use Windows 3.1 in the beginning of 1994.
 The only missing feature of Windows for Workgroups 3.11 is Turkish keyboard layout.
@@ -22333,7 +22080,6 @@ Boris has a difficult time distinguishing good wines from bad, especially after 
 Clovis, the constantly jumping wino, has prominent quadriceps and fantastic glutes.
 He's so dreamy!
 He was a soldier during the war.
-It's all Greek to me, but to the Esperantist it's Volapük.
 Don't cast pearls before swine.
 Don't cast bacon before oysters.
 How's it going, pumpkin?
@@ -22352,7 +22098,6 @@ This is the first sentence in the New_Tat_List. And it will be the last.
 Please take me away from here!
 Please buy me the new Shakira CD.
 I don't like your friends at all.
-Julián was mistaken?
 Repeat your name!
 He moved to Madrid to take the reins of his father's business.
 Pick up your briefcase.
@@ -22533,7 +22278,6 @@ Where did you buy your book bag?
 Where did you buy your schoolbag?
 Where did you buy your satchel?
 I was interested in him because his paintings really impressed me.
-Remember that a person’s name is to that person the sweetest and most important sound in any language.
 The global economy is spiraling downwards.
 Kori walked downwards as much as she could and ended up five stories below ground level.
 Hooray! We have another dreamy, starry-eyed idealist to disenfranchise and oppress!
@@ -22877,7 +22621,6 @@ I waited for her for a really long time.
 You should have warned him sooner.
 Aeschylus is not beholden to the rules of North and Hillard.
 There was a rap at the door.
-There's no way I’m taking the rap for his mistakes.
 A strange figure suddenly came through the door.
 I'd just come in the door when the phone rang.
 Anne got out the door as quickly as she could when she saw him there.
@@ -23085,7 +22828,6 @@ The law, in its majestic equality, forbids the rich as well as the poor to sleep
 Who can find a virtuous woman? for her price is far above rubies.
 A wife of noble character who can find? She is worth far more than rubies.
 If it were not for women being admitted into our order, my teachings would have lasted 1000 years, now they will not last 500.
-The Crèvecœur is a rare breed of French chicken.
 One for all, and all for one, this is our motto.
 When he saw that there was nothing more to see, he took his bike and rode home.
 Oh yes, we love the computer voice!
@@ -23118,7 +22860,6 @@ Danger makes dumb.
 Danger makes mute.
 Propose to me conditions that are better than the ones I have now, and I'll work with you.
 We're going to have to remove your wisdom teeth. Right now.
-Now I have two fiancées.
 I'm there for you.
 I'm here for you.
 Tatoeba: Where nothing ruins a passionate night of sentence-making like a poorly placed comma or, even worse, a careless typo.
@@ -23236,12 +22977,9 @@ Jennifer is very disappointed about the concert being cancelled. She really had 
 If you think your team can win against our team, you've got another thing coming!
 It goes without saying that Tom is in love with Kathy.
 That's OK, we can go Dutch tonight.
-It’s my pleasure to come to UTE-HCM.
 It's my pleasure to come to your university.
 Please lead me to Ho Chi Minh Open University!
 Please drive us to TECO (in HITC building Cau Giay Dist.)
-I’m so glad to visit VNU.
-It’s my pleasure to come to VNU.
 His aunt's apple pie was delicious, so he had a second helping.
 Inhabitants were not permitted to enter the area.
 Schalke are playing Inter Milan tonight.
@@ -23323,11 +23061,9 @@ Mr. Bennet's property consisted almost entirely in an estate of two thousand a y
 He was a tall, heavy-looking young man of five-and-twenty. His air was grave and stately, and his manners were very formal.
 Any problem that can be resolved with money isn't a problem, but the problem is that I'm poor.
 The garden in which stands my humble abode is separated only by a lane from Rosings Park, her ladyship's residence.
-We start class at 9am, but he came as early as 8 o’clock.
 She was only 18 when she graduated from university.
 One of our players scored a goal just five minutes after the match started.
 I have often observed how little young ladies are interested by books of a serious stamp, though written solely for their benefit. It amazes me, I confess; for, certainly, there can be nothing so advantageous to them as instruction.
-We start class at nine o'clock, but he didn’t come until quarter past.
 Last night my daughter didn't come home until half past one.
 He didn't get a driving licence until he was twenty-eight.
 At the end of the day, it's just food.
@@ -23547,7 +23283,6 @@ Because she was out of the country, she used Skype frequently.
 She used Skype frequently because she was overseas.
 Because she was overseas, she often phoned via Skype.
 You never get my jokes.
-In the next four years, €15,000,000,000 must be saved.
 The Roman legions withdrew in 410 A.D..
 The pidgin has no native speakers.
 A few Roman words crept into British usage.
@@ -23589,20 +23324,13 @@ A quarterly growth of 1.2% means an annual growth rate of 4.8%.
 Four legs good, two legs bad.
 Yesterday I bought two steamed buns.
 After you get to the traffic lights, turn right.
-Tomorrow I’ll go out with friends after having lunch.
 I ate three pieces of cake.
 I only slept for three hours.
-If you’ve only slept for three hours, you certainly won’t do well in the exam.
 Keep the time, observe the hours of the universe, not of the cars.
-Once you’ve done your homework for an hour, you can watch TV.
 All men are children, and of one family. The same tale sends them all to bed, and wakes them in the morning.
 The weather is cold now.
 All this worldly wisdom was once the unamiable heresy of some wise man.
-I don’t smoke any more.
-She’s a doctor now.
 He can drive a car now.
-You’ve had eleven bottles of beer!
-He’s been asleep for ten hours now.
 No definition of poetry is adequate unless it be poetry itself.
 We do not live for idle amusement.
 I've only been online for ten minutes.
@@ -23794,7 +23522,6 @@ Heligoland is located in the German Bight.
 Fate has turned in my favour.
 Yuriko is planning to move into the furniture business.
 His disjointed term paper earned him a grade of 63%. Of course, he was not very logical himself.
-Long exposure to both pick-up artists and feminists gave Étienne a disjointed approach to women.
 He organized the university's butterfly collection so meticulously that it is now fully machine-searchable.
 Why doesn't the list of languages include Maltese?
 Macedonia and Bulgaria are not friends.
@@ -24141,7 +23868,6 @@ This part of the tune needs some real skill. It took me ages to learn how to pla
 Why are people always called Tom in random sentences?
 Did you know that, in French, one doesn't hear the difference between "the symmetry" and "the asymmetry"?
 Courgettes are green.
-Aren’t they going to the ceilidh in the town?
 The new house is near the fast burn.
 There is green grass on the field.
 The floor was wet with water.
@@ -24171,14 +23897,10 @@ I think that there is water under the table.
 The boat was under sail.
 There was a seal in the water and on the shore.
 This letter is to the old woman.
-Aren’t they on the sea during the night?
 The story about the girl was in the news.
 There was an interesting story in the letter to the boy.
 The black dog on the grass was exposed to the sun.
-Weren’t they a long time in the town?
-There’s a new long fishing rod in the shop.
 The lass is at the window, because the sun is very hot today.
-Scottish Gaelic is very interesting, isn’t it?
 She was in bed during the morning reading a book.
 The sun was warm in the morning, but it's cold at this moment.
 Will it be Saturday tomorrow?
@@ -24550,7 +24272,6 @@ They awarded her a gold metal for her achievement.
 His father left him the house in his will.
 I try all things, I achieve what I can.
 Who in the rainbow can draw the line where the violet tint ends and the orange tint begins?
-Life’s a voyage that’s homeward bound.
 Truth is in things, and not in words.
 Truth uncompromisingly told will always have its jagged edges.
 I love to sail forbidden seas, and land on barbarous coasts.
@@ -24609,7 +24330,6 @@ If there were no air, people could not live for even ten minutes.
 Her story turned out to be true.
 If there was no air, people could not live for even ten minutes.
 If there was no air, man could not live for even ten minutes.
-"Menéame" turns out to mean "wiggle me."
 God wants it.
 His remark was not intended to be a factual statement.
 My father will prepare a tasty meal for me tomorrow.
@@ -24756,7 +24476,6 @@ The world belongs to the courageous.
 The world belongs to the violent.
 He has helped the poor throughout his life.
 What can I do to make you pay attention to me?
-"Ostrich!"—and everyone stuck their heads under the table.
 What time does she get up?
 You can watch television after dinner.
 I am the law!
@@ -24764,7 +24483,6 @@ They implemented a communication policy so as to promote their new concept.
 The penalty was missed.
 Eat fresh, eat French.
 A maid is made to clean your house.
-"If my kid couldn't speak Shanghainese, I’d slap him silly." the man said.
 Without you I am nothing.
 I'm sorry that I hurt you; forgive me.
 Banned books are books to which free access is not permitted.
@@ -24908,7 +24626,6 @@ Whereas Spain has the Royal Spanish Academy, the United States has Urban Diction
 You'll see the difference.
 Jed works as a cattle feeder, but he has designs on the whole ranch.
 Svetlana was a little too merciful with the feeder mice down at the pet store. The snakes nearly starved!
-Scottish Gaelic will be the 89ᵗʰ language on Tatoeba.
 I am standing here, face to face with nothing.
 Every mistake made me stronger.
 If you are here, it means you care.
@@ -25052,7 +24769,6 @@ Can you add a full stop at the end of your sentence, please?
 Why did you fail on the entrance examination?
 Why did you fail the entrance examination?
 I was the only child to enroll in college.
-José showed himself to be a person of bad character.
 The city was founded in 573.
 The president announced that the United States would put a satellite into orbit.
 Blood is the fluid responsible for the circulation of nutrients.
@@ -25069,7 +24785,6 @@ His face was pale and his clothing humble.
 Mom, do you still remember how to do it?
 Today I am very happy with my pregnancy.
 He needed more time to complete the task.
-These birds don’t fly well but they are excellent runners.
 The Allies made a very unconvincing attempt to help the Russians.
 Lunar eclipses can be total or partial.
 I like that dress a lot, can I try it on?
@@ -25313,7 +25028,6 @@ Which is the most venomous snake in the world?
 The inland taipan, a snake found in Australia, is the most venomous snake in the world.
 And lead us not into temptation, but deliver us from evil.
 Which snake is the fastest in the world?
-The world is divided into people who do things and people who get the credit. Try, if you can, to belong to the first class. There’s far less competition.
 Who was Mona Lisa?
 The Mona Lisa is probably the most famous painting ever created.
 The Mona Lisa was painted by Leonardo da Vinci.
@@ -25343,10 +25057,6 @@ The old harp was stored in the basement.
 I want to visit the ruins of Machu Picchu.
 What was he arrested for this time?
 I live at 337 Augusta Street.
-Luís Coelho Street intersects Augusta Street.
-Mr. García is very nice.
-I saw Professor Gómez yesterday.
-Good afternoon, Professor Pérez.
 I liked "Rebel Without a Cause" very much.
 Are you Andalousian?
 This bed is cold.
@@ -25355,7 +25065,6 @@ Did you hear Hillary's speech?
 I had a class with Mrs. Tortello.
 I will request references about you.
 The Brazilian army got ready for the attack.
-The Garcías have not arrived yet.
 The Morales are in the living room.
 Dad, here's the coffee.
 Mom, come with me to the store.
@@ -25384,44 +25093,34 @@ Prague is very beautiful.
 Excuse me, I'm a foreigner and I don't understand Czech all that well.
 But I understand you quite well.
 How long have you been in Czechoslovakia, Mr. Reindle?
-Hello. I'm Jarmila Kučerová. I'm glad to meet you.
 Just a second, please, here is my wife, I'll introduce her to you. Jarmila, this is Mr. Reindle from the American Embassy.
 Good afternoon. You are our new neighbor, if I'm not mistaken?
 I'm a foreigner and I don't know Czech very well. Please, speak slowly.
 A foreigner? And where are you from?
-I'm Josef Patočka and I work at the Ministry of Foreign Affairs.
 If you need anything, ring my bell any time. I'll be glad to help you.
 I am not Czech.
 You are our new neighbor.
 Who is there?
-There is the neighbor Patočka.
 This is the American Embassy.
-Go straight, then take the second street to the left and turn immediately again to the right. That will be Karlova Street and then you should keep going straight across Charles Bridge to Mostecka Street and on to Malostranské Square.
 Give tea.
 I taste of salt.
-Now you are in Old Town, so it will be best to go by foot across Charles Bridge and then along Mostecká Street to Malostranské Square.
 Good afternoon. Excuse me, I'm looking for the Loreta.
 The man that I see is very tall.
 Did you read the book that won the prize?
 I'll give a copy to anyone who asks for it.
 I live in the house my father built.
-I’ll give you that article.
 I'll give you the article I wrote on that matter.
 He cut it with the knife that he received as a present from his brother.
-They bought a house last year in the place where we’re going on vacation.
 The woman who lives next door is working for the Civil Service now.
 There's a man at the door who wants to talk to you.
-He saw an old friend last week whom he hadn’t seen in years.
 I thought I saw someone there.
 Colm is the person I thought I saw.
 He's doing something there.
 It's a new book.
 Close your eyes and count to ten.
 I like the picture that I see there.
-Cáit makes the food that I prefer.
 The priest who speaks French will be here next week.
 He remained silent during the meeting.
-Máire married the man who got first prize.
 This is not what was asked.
 Peige is the person who will finish the work.
 I don't understand the questions that the teacher asks.
@@ -25475,7 +25174,6 @@ We are walking in the park.
 Mari works for a large firm.
 I go into the city every day.
 I will be working all day tomorrow.
-Next week I’m going to the Balaton.
 I'll do my homework later.
 I go into the store, and who do I see? An American friend, who immediately begins to tell me what has been going on with him since we last met.
 Lajos said that he wants to live in Szeged.
@@ -25516,14 +25214,8 @@ As soon as I have written the letter I will rush to the post office.
 In general, wolves do not attack people.
 Close the door, please!
 Don't leave!
-Don’t eat that apricot!
-Don’t anyone bother me!
 Do it!
 Walk slowly!
-Don’t open the window!
-Let’s eat already!
-Let’s go to the movies!
-Let’s not get up early tomorrow!
 Let him stay home if he wants!
 Let me buy this car!
 Should I tell them the truth?
@@ -25533,7 +25225,6 @@ Could he, he would open 8 days a week.
 The cottage industry is in good health.
 I bought a car in Derry yesterday.
 It's a car that I bought in Derry yesterday.
-It’s in Derry that I bought a car yesterday.
 I'l wear the blue dress.
 It's your children who were late.
 We'll be leaving tomorrow.
@@ -25541,13 +25232,10 @@ I bought the car.
 I was talking to my family.
 She is making dinner.
 He broke the window.
-You’ll fall!
 So be it!
 The fact is, he broke the window.
-You’re really going to fall!
 What he said was that he was satisfied.
 What you saw was a dolphin.
-The one who did it was Éamonn.
 What they did was break the window.
 What I'll do is clean the room.
 Will you really come?
@@ -25563,14 +25251,9 @@ I'm sure yours doesn't quite compare mine.
 What are we talking about, seriously?
 He put the right words at the right time.
 What I want now is ice cream.
-You’ll break your neck!
 My brother is a professor.
 I met Mattias in Spain.
-It's tomorrow that you’re leaving, isn’t it?
-Bríd has the money.
 It wasn't me that ate the last piece of cake.
-We'll leave at eight o’clock.
-I saw Eibhlín at the library, not Sorcha.
 That is the house that I stay in.
 That is the woman they stay with.
 Those are the children you'll be giving the book to.
@@ -25582,13 +25265,11 @@ Is that the woman who knows the answer?
 That's the man whose wife died.
 That's the woman whose son is sick.
 That's the house I stayed in.
-That’s the woman they stayed with.
 Those are the children you gave the book to.
 Those are the people whose car I repaired.
 That's the house they were living in.
 Excuse me, I didn't catch your name.
 That's the woman I got a message from.
-The car is Brian’s.
 Which house do you stay in?
 Where is your brother?
 Which woman do you stay with?
@@ -25700,7 +25381,6 @@ It's no crime to steal from a thief.
 The police watch over the city during the night.
 On Sunday we were on the beach flying a kite.
 The firefighters could not put out the fire at the industrial plant.
-Inverted exclamation and question marks were invented by the Real Academia Española to make ASCII look racist.
 His teeth are white like a pearl.
 I like vanilla ice cream very much.
 Men are like bears: the uglier they are, the more handsome.
@@ -25776,7 +25456,6 @@ They say it's hot here.
 They get up early in this house.
 There will be card-playing tonight.
 One must go home.
-Máire was injured in an accident.
 No one else was injured.
 The glass got broken.
 The question was answered.
@@ -25795,17 +25474,12 @@ We need more.
 More is needed.
 I succeeded in the work.
 The work was successful.
-Séamas Mhicí Sheáin died last year.
 It seems to me that they will be late.
-Caitríona was born in 1985.
-One won’t hear much music in that pub.
 Her father died.
 He was drowned.
-You’ll be killed!
 They cut back more every year.
 One should not say bad words.
 Was nothing done about that?
-You’ll be given the report when it is written.
 This car is a pile of rubbish.
 Cats hate water.
 I beseech you, in the bowels of Christ, think it possible you may be mistaken.
@@ -25828,13 +25502,11 @@ This relationship between Portugal and the United States is still maintained tod
 In the old man's store, they worked day and night.
 To tell the truth, I've only crossed the border once.
 I wrote that book.
-She didn't have the courage to talk about her husband’s death.
 The first thing you have to do is take a bath.
 For a while you will stay here with us.
 The boss owes several months' salary to the construction workers.
 The prisoners would have to go through yet one more hardship.
 She wanted to know if what I discovered was true!
-This way, it’s hard.
 Not everything can be the way we want, Teresa.
 In December of that year, a new Constitution was adopted.
 Most of them are invisible without the help of a microscope.
@@ -25858,13 +25530,11 @@ But say, "O my Lord! advance me in knowledge."
 Bairbre is careful.
 She did the work carefully.
 The car is slow.
-You’re driving slowly.
 She spoke impolitely.
 They rarely go there.
 I'll do the work tomorrow.
 Put the bags over there.
 The adopted girl is from Panama.
-We’ve had snow for the past month.
 He arrived at midnight.
 She went to England a year ago.
 They're inside.
@@ -25876,18 +25546,15 @@ The situation worsened.
 I'll see you tonight.
 She did it carefully.
 This game is sick! I've been a fan of the company for...ever.
-Hello. My name is José Silva. What's your name?
 I speak a little Spanish.
 Juan's shirt is as elegant as mine.
 What did you say? Please repeat it.
 I would like to change my American dollars to euros please.
 Excuse me, where's the American Embassy?
-I don’t feel well. Where is the office of the nearest doctor?
 Could you please help me? I've lost an important document.
 How much do these black pants and red shirts cost?
 I need a spoon, a fork, and a knife. Thank you.
 Mariana is going home now with Susana's mother.
-Estévez is the man from Chile.
 Mario is an Italian citizen.
 You use a pen in a university.
 We have to wake up.
@@ -25896,7 +25563,6 @@ Francine and I loved each other very much.
 I beg you to give me a little water.
 The girl doesn't know how to do it.
 Perhaps you want fifteen cheeses.
-Mr. Robert wants the honor of seeing Estévez.
 It is true that Rosa had a glass of wine.
 Mrs. Ana explains the sixth test.
 The blue fox is in the zoo.
@@ -25940,7 +25606,6 @@ Filiberto has fled to Acapulco.
 The basement of his house is constantly inundated with inexplicable water leaks.
 His love for indigenous Mexican art became his downfall.
 The oldest woman in the village was the one who picked his name at birth.
-Esteban is a man of superhuman height—almost a giant!
 If a stranger on the street slapped me in the face, I'd hit him back hard.
 If a stranger on the street slapped me in the face, I'd kill him without warning.
 If the boy gets sleepy, don't leave him in front of the television. Take him to bed early and read him a story.
@@ -26003,7 +25668,6 @@ Tomorrow will be another day.
 Republicans and Democrats, Christians, Atheists, Muslims and all other faiths, Americans and Immigrants, everyone was united in grief for the devastation of 9/11.
 Someone important to society has passed away.
 Do you like to drive?
-Juan was Costa Rican, whilst Pierre and Jack came from Réunion and South Africa respectively.
 With heads respectfully bowed, they carried the coffin up the steps and into the small chapel.
 The man in the doorway was not an easy customer, the kind of guy all the waitresses hoped that someone else would serve.
 As the boat sailed on westwards, the captain looked back at how far they had come, and felt a tear prick the corner of his eye.
@@ -26013,7 +25677,6 @@ You're a penny-pincher.
 This chick is like a shrimp: I like everything about her but her head.
 He sat there dead in the bathtub.
 I've tried Controls, but they seem a little tighter to me than Durexes.
-This decision changed Nepal’s history for it introduced democracy.
 He had to leave the city, so he moved to Berlin.
 Everything was going to end and begin again.
 Cairo is the biggest city in Africa.
@@ -26021,7 +25684,6 @@ She speaks Portuguese.
 Brazil is a young country without a commitment to the past.
 Another form of art which was highly developed by them was sculpture.
 Even today, his theory remains practically irrefutable.
-If it weren’t for the problem with the sewers, we would already have built the house.
 In Europe it is difficult, yet possible, to find a job.
 The sacrifice was seen as a way of sanctifying the act.
 The Socialist Party only got 18% of the votes.
@@ -26065,7 +25727,6 @@ The languages spoken in Cape Verde are Portuguese and creoles.
 He married twice and had more than 20 children.
 After a certain point, everything became a little more difficult.
 Go get her medicine and a glass of water.
-I don’t want to live in a country that doesn't want to defend my rights.
 A thousand pardons for coming into your house so late.
 The problem is worse.
 Can you show me the list of prices?
@@ -26350,7 +26011,6 @@ He studies hard every day.
 Do they know it well?
 They don't know it well.
 Light travels at about 186,000 miles per second.
-Water freezes at 0º C.
 She usually comes here on Tuesdays.
 He waters the garden once a week.
 My friend and I often go to the movies.
@@ -26556,7 +26216,6 @@ There are children playing ball.
 There are statues in the park.
 There is a girl reading under a tree.
 There are two boats on the lake.
-I was in São Paulo in February.
 There are two motorcycles at the gate of the park.
 There is a little boy walking with his dog.
 The cat was sick last week.
@@ -26577,7 +26236,6 @@ Cecilia wasn't a teacher.
 The birds were hungry.
 She used to be my girlfriend.
 You were late yesterday.
-James and I were in Ribeirão Preto last month. It's a city in São Paulo, Brazil.
 The boys bring their books every day.
 She brushes her hair in the morning.
 They play ball in the park every afternoon.
@@ -26757,7 +26415,6 @@ If people really landed on the moon half a century ago, why haven't they done it
 Carla, the singer, has a great voice.
 The view is so beautiful!
 Who's singing with him now?
-The team is playing at Maracanã stadium.
 If the weather is beautiful, if it is ugly, it is my habit to go at 5 in the evening to walk at Palais-Royal.
 Hundreds of fans are waiting for the singer.
 Santa Claus is dropping from the sky!
@@ -27772,8 +27429,6 @@ Isn't that skirt too short?
 That skirt's too short, isn't it?
 Wow, that looks tasty.
 Wow! That looks delicious.
-The number pi is approximately equal to 3.14 or 22/7. Its symbol is "π".
-You can make sounds by combining letters in Modern Greek. For example you can use μπ to make the sound "b", ντ to make the sound "d", γκ to make the sound "g" and τζ to make the sound "dj".
 She likes red bayberries.
 She likes Chinese bayberries.
 Your face looks pale. Are you OK? Maybe it would be better if you went to the hospital, don't you think?
@@ -27974,7 +27629,6 @@ No matter how experienced is the woman, a pure young man will be able to enjoy a
 What's drinking? A mere pause from thinking!
 I drink when I have occasion, and sometimes when I have no occasion.
 A man who doesn't drink is not, in my opinion, fully a man.
-Deep-seated preferences cannot be argued about — you cannot argue a man into liking a glass of beer...
 The sway of alcohol over mankind is unquestionably due to its power to stimulate the mystical faculties of human nature.
 When the wine goes in, strange things come out.
 The joke loses everything when the joker laughs himself.
@@ -28153,26 +27807,20 @@ It is easier to write a bad poem than to understand a good one.
 How often do you eat fish?
 We all speak English.
 I found this book interesting from start to finish.
-I’m in a terrible mood today because I don’t have enough money.
 Vladivostok is a city in Russia.
 Do you like cats or dogs better?
-I don’t believe that black cats cause bad luck.
-I don’t understand this poem.
 I would like to go to America one day.
 I am so hungry that I could eat a cow.
 Who's coming with me?
 He attempted suicide.
 I would like to eat.
-I’m learning Chinese in Beijing.
 This website is more addicting than Facebook, and infinitely more useful.
-I’ll call them tomorrow when I return home.
 I told him to send me one more ticket.
 I don't want to be lame, I want to be cool!!
 And why do you ask?
 Thanks for the explanation.
 I don't know what to do any more.
 What options do I have left?
-I can’t do any better.
 I understand your language.
 Crack two eggs into a bowl, then whisk them together with some milk.
 Add the dry ingredients and stir until the mixture becomes a dough.
@@ -28190,7 +27838,6 @@ Let's do it at our own pace without hurrying.
 Lately, I have been busy so I have not studied at all.
 Brush your teeth properly before going to bed.
 Have you ever heard the saying: "Lying leads to thieving?"
-I can’t come because I got sick.
 I like them, foreign languages.
 I like foreign languages.
 The view from the summit is very nice.
@@ -28214,18 +27861,15 @@ An apple sits on the table.
 I shut up.
 It's hard to quit smoking.
 Get up.
-I’ve started learning Esperanto.
 That's my final answer.
 The rain stopped just long enough for me to dash into the cafe without getting wet.
 Can I eat this orange?
 I should be studying English, but I want to watch a movie.
 The wintry weather lasted long into April the year before last.
 She said that a good gin and tonic is like summertime in a glass, and it struck me as being too true.
-You’re hard to clean up after!
 Add the sugar and vanilla to the cream and beat vigorously until the cream thickens.
 Instead of interacting with each other, each of the family members turned their attention to their mobile devices, engrossing themselves in their own entertainments.
 Can I use a netbook while standing in a crowded train?
-The film “Helvetica” is not so much about one particular typeface as it is about the last fifty years in Western graphic design.
 What hat do you like?
 Recently, there have been signs that the economy is picking up steam.
 If you don't clean your room, you won't even have a place to stand, don't you think?
@@ -28591,7 +28235,6 @@ Where are the plates?
 Is there salt left?
 He went his way, I go my way.
 This is a flamethrower. It throws flames.
-Bráulio was tired of translating sentences and went to bed.
 To my surprise, he was good at singing.
 To our surprise, he was good at singing.
 Surprisingly, he was good at singing.
@@ -28826,9 +28469,7 @@ Dry wood burns well.
 There's not a joy the world can give like that it takes away.
 There was a laughing devil in his sneer.
 Forgive me my nonsense as I also forgive the nonsense of those who think they talk sense.
-Earth’s the right place for love: I don’t know where it’s likely to go better.
 Happiness makes up in height for what it lacks in length.
-In three words I can sum up everything I've learned about life — It goes on.
 It is nevertheless a good sentence.
 It's a good sentence, anyway.
 There is no foreign land; it is the traveller only that is foreign.
@@ -28846,7 +28487,6 @@ Most of our pocket wisdom is conceived for the use of mediocre people, to discou
 Old and young, we are all on our last cruise.
 The time would fail me if I were to recite all the big names in history whose exploits are perfectly irrational and even shocking to the business mind.
 Shelley was a young fool; so are these cocksparrow revolutionaries. But it is better to be a fool than to be dead.
-For God’s sake give me the young man who has brains enough to make a fool of himself!
 To equip a dull, respectable person with wings would be but to make a parody of an angel.
 Age may have one side, but assuredly Youth has the other. There is nothing more certain than that both are right, except perhaps that both are wrong.
 Books are good enough in their own way, but they are a mighty bloodless substitute for life.
@@ -28854,11 +28494,9 @@ Perpetual devotion to what a man calls his business, is only to be sustained by 
 There is no duty we so much underrate as the duty of being happy.
 A happy man or woman is a better thing to find than a five-pound note.
 To travel hopefully is a better thing than to arrive.
-Many's the long night I've dreamed of cheese — toasted mostly.
 Bright is the ring of words when the right man rings them.
 In real life, help is given out of friendship, or it is not valued; it is received from the hand of friendship, or it is resented.
 Gentleness and cheerfulness, these come before all morality; they are the perfect duties.
-Here lies one who meant well, tried a little, failed much: — surely that may be his epitaph of which he need not be ashamed.
 What's your favorite activity?
 What's your favorite alcoholic beverage?
 What's your favorite alcoholic drink?
@@ -29180,7 +28818,6 @@ The sound of a kiss is not so loud as that of a cannon, but its echo lasts a dea
 We are all tattooed in our cradles with the beliefs of our tribe; the record may seem superficial, but it is indelible.
 Sin has many tools, but a lie is the handle which fits them all.
 Put not your trust in money, but put your money in trust.
-To reach the port of heaven, we must sail sometimes with the wind and sometimes against it— but we must sail, and not drift, nor lie at anchor.
 I'm not paranoid, they really follow me!
 Chinese strategists are said to be go players, whereas Western ones have the reputation of being chess players.
 In Esperanto, nouns end with "o". Plurals are formed with the addition of "j".
@@ -29192,7 +28829,6 @@ One must be absolutely modern.
 Don't be such a pompous ass!
 Tell them I've had a wonderful life.
 Thales said there was no difference between life and death. "Why, then," said some one to him, "do not you die?" "Because," said he, "it does make no difference."
-When Thales was asked what was difficult, he said, "To know one’s self." And what was easy, "To advise another."
 Chilo advised not to speak evil of the dead.
 Socrates said, "Those who want fewest things are nearest to the gods."
 There is a written and an unwritten law. The one by which we regulate our constitutions in our cities is the written law; that which arises from customs is the unwritten law.
@@ -29205,7 +28841,6 @@ When asked what learning was the most necessary, he said, "Not to unlearn what y
 Diogenes would frequently praise those who were about to marry, and yet did not marry.
 "Bury me on my face," said Diogenes; and when he was asked why, he replied, "Because in a little while everything will be turned upside down."
 The amount will go up in the case of recidivism.
-Plato having defined man to be a two-legged animal without feathers, Diogenes plucked a cock and brought it into the Academy, and said, "This is Plato’s man." On which account this addition was made to the definition,—"With broad flat nails."
 A man once asked Diogenes what was the proper time for supper, and he made answer, "If you are a rich man, whenever you please; and if you are a poor man, whenever you can."
 When asked what wine he liked to drink, he replied, "That which belongs to another."
 Asked from what country he came, he replied, "I am a citizen of the world."
@@ -29287,7 +28922,6 @@ The basis of our government being the opinion of the people, the very first obje
 There is a time for many words, and there is also a time for sleep.
 To even mention all the things the bird must constantly keep in mind in order to fly securely through the air would take a considerable part of the evening... The bird has learned this art of equilibrium, and learned it so thoroughly that its skill is not apparent to our sight. We only learn to appreciate it when we try to imitate it.
 For we must consider that we shall be a city upon a hill.
-Please find enclosed my resumé.
 The Higgs boson has been called the God particle.
 What's your favorite spectator sport?
 She left with her friends.
@@ -29682,9 +29316,6 @@ Making a clean separation between the "useful" and the "useless" is about as str
 Everything is alright.
 There's no place like home.
 All men are mortal. Socrates was mortal. Therefore, all men are Socrates.
-Australians all let us rejoice for we are young and free. We’ve golden soil and wealth for toil. Our home is girt by sea.
-Our land abounds in nature’s gifts, Of beauty rich and rare; In history’s page let every stage, Advance Australia Fair!
-In joyful strains then let us sing: “Advance Australia Fair!”
 Do you have a temperature?
 I eat Chinese food once in a blue moon.
 He is lying.
@@ -30029,10 +29660,8 @@ The French are wiser than they seem, and the Spaniards seem wiser than they are.
 The degree of civilization in a society can be judged by entering its prisons.
 It is not as a child that I believe and confess Jesus Christ. My hosanna is born of a furnace of doubt.
 If you want to be respected by others the great thing is to respect yourself. Only by that, only by self-respect will you compel others to respect you.
-I am a sick man… I am a spiteful man. I am an unpleasant man. I think my liver is diseased.
 Taking a new step, uttering a new word, is what people fear most.
 Nothing in this world is harder than speaking the truth, nothing easier than flattery.
-Accept suffering and achieve atonement through it — that is what you must do.
 Lack of originality, everywhere, all over the world, from time immemorial, has always been considered the foremost quality and the recommendation of the active, efficient and practical man...
 Inventors and geniuses have almost always been looked on as no better than fools at the beginning of their career, and very frequently at the end of it also.
 The prince says that the world will be saved by beauty! And I maintain that the reason he has such playful ideas is that he is in love.
@@ -30057,22 +29686,18 @@ Astronomy is perhaps the science whose discoveries owe least to chance, in which
 Erudition can produce foliage without bearing fruit.
 Even truth needs to be clad in new garments if it is to appeal to a new age.
 When a book and a head collide and a hollow sound is heard, must it always have come from the book?
-We are obliged to regard many of our original minds as crazy — at least until we have become as clever as they are.
 A handful of soldiers is always better than a mouthful of arguments.
 Nothing can contribute more to peace of soul than the lack of any opinion whatsoever.
 If you are going to build something in the air it is always better to build castles than houses of cards.
 Even impartiality is partial.
 Much reading has brought upon us a learned barbarism.
-It is almost impossible to bear the torch of truth through a crowd without singeing somebody’s beard.
 There are very many people who read simply to prevent themselves from thinking.
 The human tendency to regard little things as important has produced very many great things.
 We accumulate our opinions at an age when our understanding is at its weakest.
 The most dangerous untruths are truths moderately distorted.
 He who is enamored of himself will at least have the advantage of being inconvenienced by few rivals.
-He who is in love with himself has at least this advantage — he won't encounter many rivals.
 The most perfect ape cannot draw an ape; only man can do that; but, likewise, only man regards the ability to do this as a sign of superiority.
 Nothing makes one old so quickly as the ever-present thought that one is growing older.
-Man loves company — even if it is only that of a small burning candle.
 There were honest people long before there were Christians and there are, God be praised, still honest people where there are no Christians.
 The death of a talented man saddens me, as the world needs them more than heaven does.
 We're of an age.
@@ -30108,10 +29733,7 @@ Ania and Piotr are twelve.
 I am married to a Polish woman.
 She blushed bright red.
 I will marry a beautiful Estonian woman.
-My wife's name is Lidia Zarębowa.
 We have got two daughters and two sons.
-My elder daughter is Magdalena Zarębówna.
-My elder son is Lech Zaręba.
 My wife Lidia is a beautiful, clever woman.
 Lidia has blonde straight hair.
 Lidia, can you cook some food to Magdalena, Ania, Piotr and Lech?
@@ -30120,7 +29742,6 @@ He is enrolled at that university.
 Felicja is married to a handsome man called Lazarz.
 He is a cruel person.
 Felicja's children think that their father Lazarz is more handsome than Justin Bieber.
-Children of Łazarz think their mother Felicja is the most beautiful woman in the world.
 Also Felicja has blonde straight hair.
 I love both Lidia and Felicja.
 Felicja's mother is a Polish of Romanian origin.
@@ -30144,28 +29765,16 @@ Lately I try for health reasons to go to bed early and to wake up early.
 That, what she said, sounds strange.
 Magdalena is very polite to me.
 Anastazja is the classmate of Ania.
-Radosław, Marek and Maciej like playing games on the PlayStation 2.
-Kalina is the girlfriend of Bronisław.
-Bronisław is eighteen years old.
 Felicja enjoys watching TV.
-Jolanta is a very beautiful teenager girl from Bronisław's university.
-Wienczysława is the most beautiful brunette in the workplace.
 How great Getter Jaani is!
 I want to marry Martyna.
-Martyna is a native of Wrocław.
-Magdalena is a native of Łódź.
-Ania is a native of Kraków.
 Felicja is a native of Katowice.
 Neither Ania nor Magdalena love Justin Bieber.
 Polish girls didn't want Justin Bieber to come to Poland.
-Libusza lives in Poznań.
-Ania lives in Gdańsk.
 Magdalena is studying at the Lodz Japanese School.
 "I wonder what this is," said Tony.
-There's a Turkish student at Magdalena's school. His name is Reşit.
 Ania is a lovely girl.
 My child can't say "kikugobo." It always comes out as "kikubogo."
-I live in Białystok.
 The capital of Poland is Warsaw.
 There are many products imported from Poland to Turkey.
 Do you really think it's bad?
@@ -30186,14 +29795,11 @@ I reflected on my happy school days.
 I often recall my happy childhood memories.
 Eating ice cream always puts me in a happy mood.
 We were drenched but very happy.
-Timuçin is a native of Yozgat.
-Timuçin flew from Yozgat to Warszawa with Ryan Air.
 Magdalena looks very cute to me.
 I'm really glad I ran into you.
 Ania looks very cute to me.
 Magdalena and Lech are preparing for their Polish exams.
 My birthday is June 12. Magdalena was born on the same day and year as me.
-Timuçin learns Polish.
 Poland is a big country.
 Poland was one of the first countries to recognize the Republic of Turkey.
 She is bubbling over with happiness.
@@ -30247,7 +29853,6 @@ There have been complaints saying that users waited for a long time before recei
 There is the risk of losing users and incomes.
 There is always the risk of losing all the data on your hard disk.
 Tom was risking losing his job by talking to his boss that way.
-Tímea is a Hungarian living in Poland.
 The competitor twice jumped the gun.
 We prefer to stay here.
 What is important for you?
@@ -30526,7 +30131,6 @@ For me it is not yet known.
 I teach English to someone.
 Listen here!
 You have no taste.
-He had never forgiven Adélaïde for not having those heavy breasts, those wide buttocks that are a credit to families.
 He had more than enough money.
 I heard an awesome story yesterday.
 My mother made some new clothes.
@@ -30556,7 +30160,6 @@ Daniel got a good job.
 They affirmed their innocence.
 The frog and I took turns guessing what the secret recipe was.
 The great secret of power is never to will to do more than you can accomplish.
-The spirit of truth and the spirit of freedom — these are the pillars of society.
 "How long will it take?" "About two weeks."
 You are what you like.
 He was unconscious for three days.
@@ -30625,7 +30228,6 @@ It's an in-joke.
 My girlfriend missed the last train to the world's end, and that's quite a problem.
 I'm also taking this train.
 He lives, relying only on his own strength.
-We’ve all heard of outdated laws that remain on the books from earlier times, many of which are good for a few laughs.
 I watched the film named "The Demon's Sacrifice" with my girlfriend yesterday. She was very afraid.
 It's not clear whether the cucumber infected the people, or if the people infected the cucumber.
 Please say the alphabet in reverse.
@@ -30880,7 +30482,6 @@ What examples of behaviour would you consider typically masculine?
 Choose a spokesperson for every group.
 How do the situations shown in the film illustrate possible differences and areas of possible cultural conflict between our culture and the American one?
 Have you found a partner by now?
-You’d better start considering doing your project work by yourself!
 Have you chosen a topic?
 Ask your teacher and he will assign you one.
 I'm going to do a trick with only four cards.
@@ -30946,8 +30547,6 @@ They compared it with the old car.
 Is she gone?
 Aiming at a fair selection, the test's subject will be the same for all of you scientists of the world: write a scientific publication in English!
 Please, forgive me.
-A diet Coke in Ukraine costs ₴2.
-If you want to go to Israel, you need many shekels. Water costs only 0,50 ₪.
 I forgot my email address.
 I've forgotten my email address.
 Problem solved!
@@ -30962,8 +30561,6 @@ On what business did you come here?
 Let me have a taste.
 The weather is almost always hot.
 The weather here has its own unique characteristics.
-I have to translate our company’s website into the local language, which is English.
-It was difficult for a girl with her face and figure to make it across the dance floor without bumping, by only the purest of accidents, into one roué or another.
 The sign for siblings in Japanese sign language could well be misunderstood by many Americans with disastrous consequences.
 Someone is waiting for you downstairs.
 What was said?
@@ -31439,7 +31036,6 @@ You recovered quickly.
 I went to Paris.
 The conversation moved on to other topics.
 Maja Keuc is a good singer.
-I love Evelina Sašenko.
 Do you speak Albanian?
 Do you speak Macedonian?
 Do you speak Swahili?
@@ -31495,10 +31091,6 @@ I'm flabbergasted to know the word "flabbergasted".
 The gardener had tulips of various kinds.
 Regrettably, he lacks the financial wherewithal to run a presidential campaign.
 We got along almost ten years but she agreed.
-São Paulo is the richest state in South America.
-São Paulo is Brazil's most modern city.
-People born in São Paulo state are called Paulistas.
-Juliana told me you're from São Paulo.
 I discovered a very nice place today.
 Alex said that the rooms are very comfortable.
 Elizabeth Taylor was incredibly beautiful.
@@ -34078,7 +33670,6 @@ Are you happy now?
 We slowly putrefy.
 Droplets are falling on my laptop computer.
 What happened on that memorable day?
-The fine grammar points behind the izāfa have mystified the world to this day.
 The train station will be closed from tomorrow.
 Do you think that Steve Jobs would have been as successful as he has been if his last name were "Joobs" instead?
 She's not from here. She was born out of country.
@@ -34179,8 +33770,6 @@ Stop kvetching!
 Her face turned pale.
 It's probably OK.
 When can we see each other again?
-The term ‘milonguero style tango’ was coined in the early 1990s to describe the style of dancing tango that was prevalent in the milongas of downtown Buenos Aires in the 1950s.
-Emphasizing its postural lean characteristic, the term ‘tango apilado’ has often been used as a synonym for 'tango milonguero'.
 I like to use frameworks when I program because they save me time on repetitive tasks.
 He would be a very sad man, seeing his dream come to naught.
 The lost boy was identified by his clothes.
@@ -34346,7 +33935,6 @@ What happens in your country?
 It's stuffy in here.
 Could you drop me off at the library?
 I'd like to phone the parents.
-When did starship captains develop the habit of … talking like … this?
 Despite his achievements, he is very humble and doesn't boast about them.
 The weather service has issued a severe weather warning.
 The Met Office has issued a severe weather warning.
@@ -34951,7 +34539,6 @@ When speaking in Japan, it may seem like you're not listening if you do not resp
 Education is the path to happiness, peace, righteousness, and success.
 What you eat, or what kind of life you live, are decided by you alone.
 She got away from us by walking slowly.
-The wind that often blows in Provence is called the “Mistral”.
 His knowledge of geography is insufficient.
 Everybody lies.
 There are big stones on the ground.
@@ -35168,7 +34755,6 @@ Where can I download action movies for free?
 I'm planning my next vacation. Maybe I'll go to Disneyland with my family and friends. How much should I save for it?
 I was miffed at her attitude.
 There's been a power cut.
-There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know.
 Meet you there on Sunday morning. Can't wait for it.
 Five plus two equals seven.
 I want to go to Korea.
@@ -35332,7 +34918,6 @@ My throat hurts and my body feels heavy. It looks like I've caught a cold someho
 At times of poor health, getting plenty of sleep is the best medicine.
 I'm absolutely burnt out.
 The Swiss Franc is soaring.
-Geppei – that’s one of the Chinese candy.
 I've entered the appropriate settings on the washing machine.
 Could not find the right menu option in the ATM.
 Shizuoka, one of Japan's prefectures, faces the Pacific Ocean.
@@ -35341,7 +34926,6 @@ I went to eat at a Chinese restaurant in Yokohama.
 Chinatown is in Yamashitacho of Naka-ku.
 You can only drink water from the water dispenser.
 Today we went to the shopping mall. I was very bored.
-Yokohama is located in eastern Kanagawa prefecture, and it’s the capital of this prefecture as well, which is situated in southern Kanto region.
 Naka is one of the 18 administrative districts that compose Yokohama prefecture.
 Yamashita is a street in Naka district which is in Yokohama town of Kanagawa prefecture.
 The choreography is quite simple.
@@ -42168,7 +41752,6 @@ He is going to New York next week.
 Grabbing him by the shoulders, she shook him and yelled, "Snap out of it!"
 Once upon a time, there was a chicken with a crispbread.
 I like it when you talk dirty to me!
-On request, we will send you the programme for a token fee of €1 plus shipping.
 I wish leprechauns could do my work.
 I hope nobody minds my being straggly and unkempt at five in the morning.
 I like the color blue.
@@ -42245,9 +41828,7 @@ If, between pride and love, one chooses pride, can it then have been love?
 How can I solve this problem?
 I can't find the hand net.
 Karthik is a boy. He is a good boy.
-Contemporary Persian poems haven’t been known in west world as well as ancient ones.
 Although many European researchers have studied ancient Persian literature in the nineteenth century, the new world is not paying attention to our contemporary literature.
-The great contemporary poet who established a new style of poem was “Nima Youshij.”
 What the fuck is wrong with you?
 I'm a cheese connoisseur.
 He's had a liberal upbringing.
@@ -42924,7 +42505,6 @@ Close the fucking door!
 At what age did you have your first girlfriend?
 How old were you when you had your first girlfriend?
 How are you not sleeping?
-The problem with online newspapers is that you can't make paper maché out of them.
 I'm not a Nazi!
 I think it's time I moved to a smaller apartment.
 I'm going there now.
@@ -43023,7 +42603,6 @@ Stick it to the Man!
 The Man is keeping me down.
 Big Brother is watching you.
 I spoke from the heart.
-I'm sorry, without an I.D. you cannot receive a remittance。
 You were just in the wrong place at the wrong time.
 She doesn't have any enemies at all.
 Land of liberty, land of the future, I salute you!
@@ -43278,7 +42857,6 @@ He denied it immediately.
 Summer begins early in my country.
 She begged him to stay with her, but he left home as quickly as he could.
 He always exaggerates his own abilities and others often believe him.
-I will set up my alarm o’clock in case I arrive at work late in the morning.
 All of her songs became hits.
 The man left the restaurant without paying his bill.
 The man left the restaurant without paying.
@@ -43505,7 +43083,6 @@ You're a racist.
 This is my mom.
 Those who use the most idiomatic expressions are most often the ones who say the fewest original things.
 He fits the description in the newspaper.
-North Korea’s reclusive leader visits Russia for talks on energy.
 The sumptuous residence of a government official was pillaged.
 In bad weather, one can easily catch a cold.
 The suffix "um" doesn't have a definite meaning, and, for that reason, one must learn the (very few) words with "um" as simple words. For example: plenumi, kolumo, manumo.
@@ -43839,7 +43416,6 @@ Nothing is more paralyzing than the fear of changes.
 I agree with his idea.
 Does globalisation mean the disappearance of local sluts?
 The size of the universe is unimaginable.
-Oṃ - the gem is in the lotus - hūṃ
 Yesterday I washed my hair. Today I'll cut it.
 Like it or not, you must do it.
 Do you want dry cleaning or regular wash?
@@ -44128,7 +43704,6 @@ Money rules the world.
 What is better than sentences to get acquainted?
 "How dare you exile me at the end of this sentence?" asked Tom.
 Mary, having exiled Tom, was promoted to the beginning of each sentence.
-“Tom!” “Mary!”
 The world without anime would be like a washing machine without Internet-access.
 You see the words that I typed on the screen, but you don't see the tears that I shed over the keyboard.
 Tom is utterly obsessed with food. No wonder Mary dumped him!
@@ -44169,7 +43744,6 @@ This is not something that anyone can do.
 Luck plays an important part in life.
 He thought of a great idea.
 Many people in the world complain that they don't have time to read.
-It's funny how Esperanto activists still engage in Volapük bashing even though Esperanto has outperformed Volapük to near-extinction over the course of a hundred years.
 Despite 100 years of missionary effort the number of native Esperanto speakers is still low enough to be able to know each of them by name.
 Bye, Sayoko!
 Leave that there.
@@ -44275,7 +43849,6 @@ He is everything but a gentleman.
 I have an older brother who lives in Kyoto.
 This makes me curious.
 I have not forgotten.
-Béla takes his son to school every day, because he is a mindful father.
 We have to make the most of the opportunity.
 At last, we arrived in California.
 You put me in a strange situation.
@@ -44735,7 +44308,6 @@ I'm disappointed in you.
 Until now, I've never been spoken to by a foreigner.
 Most car accidents happen because drivers aren't paying attention.
 I didn't know the performer, but eventually found out who she was.
-Nickel chrome !
 I was wondering.
 Let's go on.
 Your mail has been successfully sent.
@@ -44752,7 +44324,6 @@ We don't have a vacancy at the moment.
 We took the liberty of putting your candidacy on hold.
 For every ten m.p.h of speed you should allow one car-length of space between you and the car in front.
 He told his friends his secret.
-Now it is true that I believe this country is following a dangerous trend when it permits too great a degree of centralization of governmental functions. I oppose this — in some instances the fight is a rather desperate one. But to attain any success it is quite clear that the Federal government cannot avoid or escape responsibilities which the mass of the people firmly believe should be undertaken by it. The political processes of our country are such that if a rule of reason is not applied in this effort, we will lose everything — even to a possible and drastic change in the Constitution. This is what I mean by my constant insistence upon "moderation" in government.
 My place is with them now.
 A lot of people around here drive trucks.
 A lot of people around here like country music.
@@ -49218,7 +48789,6 @@ Who is talking to you about me?
 What are you talking to?
 You're what?
 Are you healthy?
-Yeah, I’ll go.
 John went to the store.
 You are my mother.
 You are my father.
@@ -49243,7 +48813,6 @@ That is a Chrysler car.
 Alice didn't walk to the market.
 Jones is not the first speaker.
 I went to the market.
-Jones isn’t the first speaker.
 Please support Lojban!
 This is three meters long.
 The market is big.
@@ -49261,7 +48830,6 @@ Goodbye, Bob and Nora.
 John, come to me!
 The Joneses go to the store.
 My name is John.
-I say, “I’m John”.
 I had sex with a Soviet-American woman.
 I said a complex tanru.
 I know that cntrational is interested in Lojban.
@@ -49660,7 +49228,6 @@ Where is the bus?
 How far is it to the next town?
 How many more must I count?
 I have a job interview at two o'clock tomorrow afternoon.
-My grandmother always said, "Don’t breathe and drink at the same time."
 It is not possible to not breathe and bathe at the same time.
 I will prosper.
 My pants are too short.
@@ -49998,3 +49565,435 @@ In Japanese folklore, bakeneko are cats with magical powers.
 I wonder why some people think black cats are unlucky.
 Some superstitious people in America believe that if a black cat crosses your path, you'll have bad luck.
 It's a perfect trap.
+I want to kill someone.
+I want to kill somebody.
+You got skills?
+He didn't want to antagonize her.
+We are in two.
+But I don't want to escape, I want to see Italy.
+The cat is black.
+The food is very bad.
+I think that cultural exchanges are important.
+Trans fats are bad for your health.
+I am nothing. I shall never be anything. I cannot wish to be anything. Aside from that, I have within me all the dreams of the world.
+Belief in miracles is popular.
+You can't teach a crab how to walk straight.
+From their enemies, wise men learn many things.
+Children should always mix their wine, with at least two-thirds water.
+While laughing is allowed, it is most dishonest to laugh out loud or to extend one's laughter beyond the limits of a just moderation; the Holy Ghost teaches us that it is the character of a madman to raise one's voice while laughing.
+Singing is an honest and pleasurable entertainment, but one must be careful to avoid singing or taking pleasure in listening to lewd songs.
+He who wishes to ride far spares his horse.
+I love you as a person and I hate your error.
+One is not born a woman, one becomes one.
+The server encountered a temporary error and could not complete your request.
+EPO can be used as a blood doping agent.
+Pierrot is crazy.
+Here's where the fun really begins.
+Here's where the fun begins.
+You can't fight City Hall.
+We will meet again someday.
+That should buy us some time.
+Give me a little more time.
+I'm on my way out.
+She can handle it.
+She is a virtuous woman.
+Could you write this sentence again? It's not clear.
+What did you mean by this sentence?
+Please repeat the last three words.
+I've been waiting for this moment.
+On what basis did the police arrest him?
+This has no relevance to my background.
+I'm going to enjoy this.
+I'm afraid I can't do that.
+He painted a dog.
+Fight like a man!
+Sometimes I forget to breathe.
+You guys get the best shots.
+My cat is wet.
+There is no escape.
+I can't shake him.
+We've only got one chance.
+We did it!
+It's over.
+You got it.
+What have you done?
+You blockhead!
+Open fire!
+It's finally over.
+We have to get away from here.
+We're still far away. I'll never make it.
+I can't believe this.
+I'm so hungry.
+He was my friend.
+Her child was snatched away from her.
+It is our destiny.
+It's our destiny.
+Let's see what you're made of.
+We're not done yet!
+Have you found the umbrella you said you had lost the other day?
+Did you find the umbrella you said you'd lost the other day?
+This is the person I talked about the other day.
+I can't go back.
+This is the person I spoke about the other day.
+Tom is the type of person who always demands that something be done rather than request that it be done.
+Tom is the type of person who likes to complain.
+Tom is the type of person who always has to have his own way.
+Tom is the type of person who goes out of his way to help other people.
+Tom is the type of person who always has to have the last word.
+Tom seems to enjoy provoking arguments.
+Tom seems to enjoy watching horror movies.
+Tom seems to enjoy being outdoors.
+We've got him by the balls.
+I want to be better.
+The Romans built a fleet of three hundred ships.
+Marcus was neither heard to confess nor able to deny.
+The brother wrote a letter to the sister.
+Wine is the milk of old men.
+The sheep in the field are eating grass.
+He's a teetotaller.
+If there be fear, it would cause failure.
+I can see what you mean.
+I've decided to cut back on eating in restaurants to only once a week in order to save some money.
+I feel so good!
+Energy will go wherever we direct it.
+Do not punish those without crime.
+I'm sick and tired of reading.
+Maybe they are happy.
+There is no water in the well.
+What a beautiful day!
+They are seeking a solution.
+Claudius, seeing a mighty man before him, saw things looked serious and understood that here he had not quite the same pre-eminence as at Rome, where no one was his equal.
+In a sexual relationship cheating on someone is if the person has sex with someone else.
+In a purely romantic relationship cheating would just be like having a boyfriend who considers himself in love with another girl and he goes and sees her and kisses her and cuddles with her and tells her he loves her.
+Isn't there a much better and shorter way of saying the same thing?
+This is called aesthetic attraction because it is thought to be similar to other aesthetic desires, such as the desire to keep listening to a good song or to keep looking at a beautiful sunset.
+Opinions are not facts.
+This is the watch that I'd lost.
+Tom thinks that Mary wears too much makeup.
+I used to watch this anime a lot when I was a kid, but I can't quite remember what happened to the hero in the final episode.
+Tom said that he'd never seen anything like this before.
+Tom told Mary that he didn't want to hear any more talk about aliens.
+Tom took his place at the table.
+Tom took his place at head of the table.
+Tom sat down at the table.
+We'd better hurry. I don't want to be late for the concert.
+Tourists on the French Riviera are being robbed by thieves who gas them as they sleep.
+How many died?
+See you tomorrow!
+I'm not an idiot.
+I don't know what to say...
+They are not coming today.
+I'm not stupid.
+I'm not as stupid as you think I am.
+This picture reminds me of when I was a student.
+Tom has written hundreds of songs.
+Tom hasn't taken a bath since three weeks ago.
+Tom hasn't been his usual self lately.
+Tom hasn't slept at all since the day before yesterday.
+Tom hates going to school.
+My wife has no libido since she got pregnant. What can I do?
+I'd like to introduce to you the gentleman I told you about the other day.
+If you want to succeed, you should work hard.
+Tom hates to work late on Friday.
+Tom hates it when it's hot.
+Tom hates it when it's cold.
+Tom hates it when it's snowing.
+Tom hates driving when it's foggy.
+Tom doesn't like people who manipulate others.
+Tom doesn't like speaking in public.
+Tom hated to bother Mary so late at night, but it was an emergency.
+Mary is Tom's oldest child from his third marriage.
+All things considered, my father's life was a happy one.
+Considering everything, my father's life was a happy one.
+How many people died?
+How many people do you think die from cancer every year?
+Do you know how many people died in yesterday's plane crash?
+I wonder how many horses died during the Civil War.
+Do you have any idea how many people died when the Titanic sunk?
+As far as I know, she hasn't left yet.
+Tom has 20/20 vision.
+Don't you have anything better to do with your time?
+It doesn't matter to me whether or not I make money doing this.
+It's been a long time since I last spoke French.
+It's been a long time since I've had a real vacation.
+It's been a long time since I've heard Tom play his baritone sax.
+It's been a long time since I've seen any dragonflies in this area.
+It's been a long time since I've seen you smile.
+It's been a long time since I've worn a tie.
+It's been a long time since I've written anything.
+Tom managed to cut himself while trying to open a bag of peanuts with his pocketknife.
+Tom asked his father if he could go to the movies.
+There is no reason why in a society which has reached the general level of wealth which ours has attained the first kind of security should not be guaranteed to all without endangering general freedom. (...) there can be no doubt that some minimum of food, shelter and clothing, sufficient to preserve health and the capacity to work, can be assured to everybody.
+I can't find him anywhere.
+That thought was momentary.
+In the year 1847, they declared their own independence.
+There are a lot of people in the park.
+There are too many people in the park.
+I am not curious.
+I am 4 years younger than him.
+Nice costume.
+His English is perfect.
+Her English is perfect.
+Its English version is perfect.
+That is not my fault.
+He's pushing fifty.
+His squeaky-clean image will probably get him elected.
+My son tripped and cut his forehead on the corner of the coffee table.
+Any song sung in French puts me in a sexy mood.
+That was awesome.
+Something wrong with that?
+I'll introduce you to the team.
+I just wanted you to accept me.
+What are you here for?
+We're smarter than that.
+I'll always love you.
+They're walking without shoes.
+Why are you mad?
+Nickel is a hard, bright silver metal.
+He's not my father.
+He's my father.
+He's your father.
+His new wife is about my age.
+I lied to my boyfriend about my age.
+I lied to my girlfriend about my age.
+Men are pigs.
+A woman without a man is like a fish without a bicycle.
+Women who seek to be equal with men lack ambition.
+Men and women need each other.
+Dumbass!
+I'll fill you in later.
+You're amazing.
+Times have changed.
+You saved my ass.
+I never thought it would be so easy.
+We are free!
+Tom is very popular.
+Someone saved my life.
+This isn't normal.
+This ain't normal.
+Check this out.
+The product is vacuum-sealed to keep it fresh.
+There's no time to waste.
+She went stark raving mad after learning of her brother's suicide.
+My father was a tree.
+The man in black fled across the desert and the gunslinger followed.
+You people are amazing.
+This is a priceless treasure to mankind.
+The president is fully aware of the situation.
+Contact her if you have any questions.
+Contact my assistant if you have any questions.
+School is fantastic!
+They feel closer than brothers.
+They were acting strangely.
+I don't know his real name.
+I don't know her real name.
+Here's a photo of her.
+I can see it in your eyes.
+What's that supposed to be, some kind of sick joke?
+You think this is all some kind of joke?
+I slept with my wife before we were married. Did you?
+I have two conditions.
+Jim is a musher.
+Catalina is from Argentina. She is Argentinian.
+Adolfo is from Bolivia. He is Bolivian.
+I'm ready to go.
+You better hide somewhere.
+Guilherme is from Brazil. He is Brazilian.
+Laura is from Brazil. She is Brazilian.
+Vicente is from Chile. He is Chilean.
+I'm relieved to hear that.
+Florencia is from Chile. She is Chilean.
+Diego is from Colombia. He is Colombian.
+Alejandra is from Colombia. She is Colombian.
+Alberto is from Costa Rica. He is Costa Rican.
+Adriana is from Costa Rica. She is Costa Rican.
+Eduardo is from Ecuador. He is Ecuadorian.
+Elena is from Ecuador. She is Ecuadorian.
+Marcus is from Nicaragua. He is Nicaraguan.
+Gabriela is from Nicaragua. She is Nicaraguan.
+Juan is from Paraguay. He is Paraguayan.
+Ana is from Paraguay. She is Paraguayan.
+Hector is from Peru. He is Peruvian.
+I thought I might be of some use.
+Irene is from Peru. She is Peruvian.
+Irene is from the Gulf of Mexico. She is a hurricane.
+Camila is from Uruguay. She is Uruguayan.
+Try to find it.
+Marta is from Venezuela. She is Venezuelan.
+You are abusing your authority.
+This is bad.
+We don't have time to debate.
+I'm here to save you.
+You're pretty good.
+You're a funny man.
+You're a funny guy.
+You're a funny girl.
+You're a funny gal.
+Sorry, I forgot.
+You go on without me.
+I don't need a lecture.
+You look just like him.
+This sounds fishy.
+Is he still alive?
+We'll talk about it later.
+I'll be a good girl.
+I changed my mind.
+See you there.
+To whom it may concern:
+Did you just realize that?
+You shall not pass.
+I will not let you pass.
+You may not pass, sir.
+We're working on a limited budget.
+Why didn't you tell us about this sooner?
+Why didn't you tell me about this sooner?
+I twisted my ankle.
+We naturally take pride in the old temples of our country.
+I'm such a fool.
+That's enough crying. Pull yourself together.
+Are you hurt?
+Down with it! It's really shameful.
+Summer has just begun.
+One has to put on a helmet to protect the head.
+Don't do it!
+There's nowhere to hide.
+If I think about an old lady from Osaka, the image of someone wearing clothes with an animal pattern comes to mind.
+Right now, I'm not using Mixi at all. I just play games on it sometimes.
+Even though I decided to hang the laundry outside because the sun was shining, just as I was hanging them, it started to rain.
+Some people see a conspiracy behind almost everything.
+My grandpa is good at shogi. His level is fourth dan, amateur.
+Sometimes it's better to just not say anything.
+That damn Kenji, because he was cheating on me with another woman, I slapped him as hard as I could. I've already broken up with him.
+My dad keeps on telling bad jokes like: "Are you tired of going to Akita?".
+My dad keeps on telling bad jokes like: "Are you fed up of going to Fedup's?".
+I'm getting a bad feeling.
+I go to cabarets two times a week, but I have no interest in after-hours.
+Why did you put the chicken in such a difficult place to get when you knew that I wanted to use it right away?
+My wife is from Algeria. She is Algerian.
+My husband is from Angola. He is Angolan.
+My mother is from Benin. She is Beninese.
+My father is from South Africa. He is South African.
+My cousin is from Egypt. He is Egyptian.
+My nephew is from Ethiopia. He is Ethiopian.
+My niece is from Libya. She is Libyan.
+My uncle is from Madagascar. He is Madagascan.
+My aunt is from Somalia. She is Somalian.
+It's not easy to speak a foreign language.
+Oranges have a lot of vitamin C.
+"This used to be such a friendly place." "Tell me about it."
+Is there a woman in your life?
+Is there a man in your life?
+I'm afraid of heights.
+You're incredible.
+See you in hell.
+It never occurred to me that he might be an escaped prisoner.
+Pa-aling is a controversial fishing method.
+He's got the bends.
+He and I are childhood friends.
+Spring is coming.
+Happy birthday, Shishir!
+Who is this guy?
+I don't want a bloody voucher. Just give me cash!
+We used to play musical chairs in elementary school.
+Is your dog mean?
+Tom is an excellent cricket player.
+Who paid you to add this sentence? You're trying to brainwash us!
+It's natural for family members to help each other.
+I will kill you.
+I froze the juice inside the PET bottle. This way, I'll be able to drink as much cold juice as I want at lunchtime.
+Don't die on me.
+I don't fear death.
+We'll never make it.
+When the tempura I make cools down, it immediately loses its crispiness and doesn't taste very good.
+I can't see him either.
+I'll pay you a visit sometime.
+I'll love you always.
+He won't leave us alone.
+That's pretty impressive.
+She has a thing for older men.
+There's someone I'd like you to meet.
+Ask her for advice.
+Ask him for advice.
+She's young enough to be your daughter.
+He got brushed aside.
+She got brushed aside.
+Hop in.
+She's drop-dead gorgeous.
+I'd hate to be in your shoes.
+Been a while, hasn't it?
+It's been a while, hasn't it?
+Why do you want to die?
+No chance in hell.
+You're sure there's no way?
+It's absolutely impossible.
+I'm right beside you.
+I have a favour to ask.
+I'm worried about him.
+I'll keep my mouth shut.
+She's completely crazy about him.
+Please find out where she is.
+Please find out where he is.
+That won't be a problem.
+I've taken care of it.
+We're on schedule.
+We're behind on schedule.
+I thought he was here.
+We were right.
+What's gotten into you?
+The virus is starting to mutate.
+Ironic, isn't it?
+Tell me one more thing.
+Take a look at this.
+I'll need to make some more tests.
+I'll need to run some more tests.
+I can't tell you yet.
+Where was he headed?
+I'm being watched.
+Avatars are no contributions, they're personal identities.
+You're surrounded.
+"Where was he headed?" "He was headed north."
+I shouldn't be laughing.
+I'm scared.
+My place is here.
+We'll begin shortly.
+Need a lift?
+The French like to make fun of Belgians.
+I'm such an idiot.
+Don't fall off!
+Go on ahead.
+Get us out of here.
+It's all part of the plan.
+We're working as fast as we can.
+For God's sake Bob, lighten up.
+That's a heartwarming scene.
+The sample is not pure enough.
+It's no use.
+He needs a dialysis.
+He saved my life.
+I didn't know you had a sister.
+I didn't know you had a brother.
+That's what got me into this line of work.
+How did you get into this line of work?
+She is wiser than I am.
+She's better at it than I am.
+He's better at it than I am.
+It shouldn't be like that.
+She'll be just fine.
+He'll be just fine.
+This is our last chance.
+Are you deaf?
+Get your ass in there.
+You're coming with me.
+Mullets are cool.
+What's your secret?
+What is wrong with you?
+What is wrong with him?
+What is wrong with her?
+What is wrong with that guy?
+Things are not that simple.
+You don't have to do this.
+Stay out of my way.
+You need to hurry.
+You're a strange bird.
+We appreciate your understanding.
+We appreciate your cooperation.

@@ -1,834 +1,3 @@
-Tom won't get in.
-Tom won't get involved.
-Tom won't give in.
-Tom won't give up.
-Tom won't help us.
-Tom won't know why.
-Tom won't like it.
-Tom won't like that.
-Tom won't need it.
-Tom won't stop crying.
-Tom won't stop fighting.
-Tom won't stop screaming.
-Tom won't understand this.
-Tom won't wait long.
-Nothing is true, everything is permitted.
-Tom broke the rules.
-Tom changed the subject.
-Tom clicked his fingers.
-Tom climbed the ladder.
-Tom couldn't stop crying.
-Tom didn't stop Mary.
-Tom doesn't need glasses.
-Tom hardly ever talks.
-Tom has abandoned me.
-Tom has accepted that.
-Tom has already gone.
-Tom has already left.
-Tom has already won.
-Tom has always survived.
-Tom has autographed it.
-Tom has become predictable.
-Tom has been acquitted.
-Tom has been arrested.
-Tom has been away.
-Tom has been beaten.
-Tom has been bitten.
-Tom has been brainwashed.
-Tom has been captured.
-Tom has been caught.
-Tom has been close.
-Tom has been crying.
-Tom has been detained.
-Tom has been dreaming.
-Tom has been drinking.
-Tom has been electrocuted.
-Tom has been great.
-Tom has been here.
-Tom has been hit.
-Tom has been hypnotized.
-Tom has been infected.
-Tom has been injured.
-Tom has been kidnapped.
-Tom has been killed.
-Tom has been listening.
-Tom has been murdered.
-Tom has been pretending.
-Tom has been reassigned.
-Tom has been released.
-Tom has been reorganizing.
-Tom has been sedated.
-Tom has been sick.
-Tom has been spotted.
-Tom has been stabbed.
-Tom has been studying.
-Tom has been thinking.
-Tom has been transferred.
-Tom has been trapped.
-Tom has been watching.
-Tom has been wonderful.
-Tom has been wounded.
-Tom has betrayed us.
-Tom has betrayed you.
-Tom has big plans.
-Tom has calmed down.
-Tom has caught on.
-Tom has chosen me.
-Tom has chosen you.
-Tom has clogged arteries.
-Tom has come alone.
-Tom has come back.
-Tom has come home.
-Tom has done everything.
-Tom has done it.
-Tom has done nothing.
-Tom has earned it.
-Tom has fallen overboard.
-Tom has forgiven me.
-Tom has found Mary.
-Tom has found something.
-Tom has gone away.
-Tom has gone below.
-Tom has gone insane.
-Tom has gone inside.
-Tom has gone missing.
-Tom has gone out.
-Tom has gone underground.
-Tom has gone upstairs.
-Tom has gotten closer.
-Tom has had enough.
-Tom has had it.
-Tom has hanged himself.
-Tom has just moved.
-Tom has killed again.
-Tom has killed before.
-Tom has lost everything.
-Tom has lost hope.
-Tom has lost interest.
-Tom has mentioned you.
-Tom has misjudged Mary.
-Tom has never bailed.
-Tom has no money.
-Tom has risked enough.
-Tom has run away.
-Tom has seen it.
-Tom has spotted us.
-Tom has swallowed it.
-Tom has to stay.
-Tom has tricked us.
-Tom holstered his pistol.
-Tom is a baby.
-Tom is a banker.
-Tom is a barbarian.
-Tom is a believer.
-Tom is a blabbermouth.
-Tom is a blond.
-Tom is a bookkeeper.
-Tom is a bookworm.
-Tom is a botanist.
-Tom is a bowler.
-Tom is a boxer.
-Tom is a bully.
-Tom is a busboy.
-Tom is a businessman.
-Tom is a cameraman.
-Tom is a candidate.
-Tom is a character.
-Tom is a chauffeur.
-Tom is a child.
-Tom is a civilian.
-Tom is a client.
-Tom is a collaborator.
-Tom is a conman.
-Tom is a consultant.
-Tom is a cook.
-Tom is a cop.
-Tom is a coward.
-Tom is a CPA.
-Tom is a cripple.
-Tom is a crook.
-Tom is a crusader.
-Tom is a dancer.
-Tom is a designer.
-Tom is a diabetic.
-Tom is a doctor.
-Tom is a drifter.
-Tom is a drunk.
-Tom is a drunkard.
-Tom is a dummy.
-Tom is a dwarf.
-Tom is a fan.
-Tom is a farmer.
-Tom is a felon.
-Tom is a fighter.
-Tom is a fool.
-Tom is a foreigner.
-Tom is a fraud.
-Tom is a freak.
-Tom is a friend.
-Tom is a genius.
-Tom is a giver.
-Tom is a goner.
-Tom is a graduate.
-Tom is a guard.
-Tom is a hairdresser.
-Tom is a hermit.
-Tom is a hick.
-Tom is a hoot.
-Tom is a humanitarian.
-Tom is a hunter.
-Tom is a journalist.
-Tom is a keeper.
-Tom is a kid.
-Tom is a killer.
-Tom is a lawyer.
-Tom is a leader.
-Tom is a lefty.
-Tom is a liar.
-Tom is a liberal.
-Tom is a lightweight.
-Tom is a loser.
-Tom is a lunatic.
-Tom is a lush.
-Tom is a madman.
-Tom is a magician.
-Tom is a master.
-Tom is a mechanic.
-Tom is a member.
-Tom is a memory.
-Tom is a menace.
-Tom is a mess.
-Tom is a monster.
-Tom is a murderer.
-Tom is a neighbor.
-Tom is a nut.
-Tom is a painter.
-Tom is a paramedic.
-Tom is a patriot.
-Tom is a peach.
-Tom is a pig.
-Tom is a pilot.
-Tom is a pitcher.
-Tom is a planner.
-Tom is a player.
-Tom is a poet.
-Tom is a politician.
-Tom is a prince.
-Tom is a problem.
-Tom is a professional.
-Tom is a professor.
-Tom is a programmer.
-Tom is a psychiatrist.
-Tom is a psychic.
-Tom is a psycho.
-Tom is a psychologist.
-Tom is a psychotherapist.
-Tom is a racist.
-Tom is a realist.
-Tom is a referee.
-Tom is a riot.
-Tom is a rookie.
-Tom is a runaway.
-Tom is a saint.
-Tom is a salesman.
-Tom is a schemer.
-Tom is a sculptor.
-Tom is a shark.
-Tom is a skeptic.
-Tom is a smoker.
-Tom is a soldier.
-Tom is a sophomore.
-Tom is a speechwriter.
-Tom is a spy.
-Tom is a stranger.
-Tom is a superstar.
-Tom is a surgeon.
-Tom is a survivor.
-Tom is a teenager.
-Tom is a terrorist.
-Tom is a troublemaker.
-Tom is a trucker.
-Tom is a vegetarian.
-Tom is a veterinarian.
-Tom is a waiter.
-Tom is a warrior.
-Tom is a widower.
-Tom is a witness.
-Tom is a worm.
-Tom is a wreck.
-Tom is a writer.
-Tom is a yodeler.
-Tom is about thirty.
-Tom is absolutely calm.
-Tom is absolutely right.
-Tom is absolutely terrified.
-Tom is acting nuts.
-Tom is acting strange.
-Tom is acting weird.
-Tom is after me.
-Tom is against it.
-Tom is all business.
-Tom is all done.
-Tom is all ears.
-Tom is all mine.
-Tom is all right.
-Tom is all talk.
-Tom is almost asleep.
-Tom is almost convinced.
-Tom is almost done.
-Tom is almost there.
-Tom is already dead.
-Tom is already here.
-Tom is already late.
-Tom is already standing.
-Tom is already up.
-Tom is also deaf.
-Tom is also intrigued.
-Tom is also nervous.
-Tom is also schizophrenic.
-Tom is always around.
-Tom is always bananas.
-Tom is always eating.
-Tom is always here.
-Tom is always lying.
-Tom is always nervous.
-Tom is always nice.
-Tom is always preoccupied.
-Tom is always right.
-Tom is always serious.
-Tom is always talking.
-Tom is always working.
-Tom is an actor.
-Tom is an adult.
-Tom is an alcoholic.
-Tom is an alumnus.
-Tom is an angel.
-Tom is an animal.
-Tom is an architect.
-Tom is an artist.
-Tom is an embarrassment.
-Tom is an employee.
-Tom is an engineer.
-Tom is an enigma.
-Tom is an entertainer.
-Tom is an environmentalist.
-Tom is an expert.
-Tom is an idiot.
-Tom is an imbecile.
-Tom is an imposter.
-Tom is an intern.
-Tom is an octogenarian.
-Tom is an ophthalmologist.
-Tom is an optimist.
-Tom is an outsider.
-Tom is arranging bail.
-Tom is asking permission.
-Tom is asking questions.
-Tom is at home.
-Tom is at lunch.
-Tom is at school.
-Tom is awfully calm.
-Tom is back again.
-Tom is back there.
-Tom is badly hurt.
-Tom is badly wounded.
-Tom is barely breathing.
-Tom is barely conscious.
-Tom is behind Mary.
-Tom is behind this.
-Tom is being cute.
-Tom is being deported.
-Tom is being difficult.
-Tom is being fired.
-Tom is being modest.
-Tom is being punished.
-Tom is being ridiculous.
-Tom is being selfish.
-Tom is being silly.
-Tom is being stubborn.
-Tom is being sued.
-Tom is being supportive.
-Tom is being unreasonable.
-Tom is being watched.
-Tom is blackmailing me.
-Tom is blaming Mary.
-Tom is bleeding internally.
-Tom is blissfully happy.
-Tom is breathing hard.
-Tom is breathing heavily.
-Tom is breathing normally.
-Tom is bummed out.
-Tom is calling Mary.
-Tom is calling you.
-Tom is calmer now.
-Tom is calming down.
-Tom is carrying Mary.
-Tom is changing clothes.
-Tom is checking ID's.
-Tom is chewing gum.
-Tom is clean now.
-Tom is clearly disappointed.
-Tom is clearly losing.
-Tom is clearly lost.
-Tom is clearly lying.
-Tom is clearly rattled.
-Tom is clearly upset.
-Tom is collecting things.
-Tom is coming around.
-Tom is coming here.
-Tom is coming home.
-Tom is coming in.
-Tom is coming over.
-Tom is coming to.
-Tom is coming today.
-Tom is completely confused.
-Tom is completely harmless.
-Tom is completely lost.
-Tom is completely reasonable.
-Tom is completely sober.
-Tom is completely unfazed.
-Tom is completely unreliable.
-Tom is completely wrong.
-Tom is conscious now.
-Tom is crying now.
-Tom is crying softly.
-Tom is curious now.
-Tom is dating Mary.
-Tom is dating someone.
-Tom is dead serious.
-Tom is deadly serious.
-Tom is dealing drugs.
-Tom is divorcing Mary.
-Tom is doing better.
-Tom is doing great.
-Tom is doing OK.
-Tom is doing something.
-Tom is donating blood.
-Tom is done arguing.
-Tom is done for.
-Tom is drinking champagne.
-Tom is eating cereal.
-Tom is eating cookies.
-Tom is eating oysters.
-Tom is expecting Mary.
-Tom is expecting me.
-Tom is expecting someone.
-Tom is expecting this.
-Tom is expecting you.
-Tom is extraordinarily selfish.
-Tom is extremely aggressive.
-Tom is extremely agitated.
-Tom is extremely dangerous.
-Tom is extremely discreet.
-Tom is extremely smashed.
-Tom is extremely violent.
-Tom is extremely weak.
-Tom is fading fast.
-Tom is fair game.
-Tom is fairly large.
-Tom is far away.
-Tom is fast asleep.
-Tom is feeling better.
-Tom is feeling claustrophobic.
-Tom is feeling conflicted.
-Tom is feeling trapped.
-Tom is finally asleep.
-Tom is fishing now.
-Tom is fitting in.
-Tom is following us.
-Tom is fooling himself.
-Tom is former CIA.
-Tom is former FBI.
-Tom is former NYPD.
-Tom is from accounting.
-Tom is from here.
-Tom is fully qualified.
-Tom is getting angry.
-Tom is getting antsy.
-Tom is getting anxious.
-Tom is getting away.
-Tom is getting bolder.
-Tom is getting close.
-Tom is getting closer.
-Tom is getting coffee.
-Tom is getting defensive.
-Tom is getting desperate.
-Tom is getting drunk.
-Tom is getting emotional.
-Tom is getting exasperated.
-Tom is getting excited.
-Tom is getting frantic.
-Tom is getting frustrated.
-Tom is getting help.
-Tom is getting impatient.
-Tom is getting loud.
-Tom is getting married.
-Tom is getting nearer.
-Tom is getting nothing.
-Tom is getting old.
-Tom is getting paranoid.
-Tom is getting ready.
-Tom is getting restless.
-Tom is getting results.
-Tom is getting rich.
-Tom is getting scared.
-Tom is getting serious.
-Tom is getting suspicious.
-Tom is getting tense.
-Tom is getting upset.
-Tom is getting wary.
-Tom is getting water.
-Tom is getting wet.
-Tom is getting woozy.
-Tom is getting worried.
-Tom is getting worse.
-Tom is giving up.
-Tom is going crazy.
-Tom is going east.
-Tom is going fishing.
-Tom is going home.
-Tom is going inside.
-Tom is going nuts.
-Tom is grading papers.
-Tom is gravely ill.
-Tom is grouse hunting.
-Tom is growing up.
-Tom is guarding Mary.
-Tom is hardly listening.
-Tom is hardly moving.
-Tom is having fun.
-Tom is heading home.
-Tom is heading out.
-Tom is heading west.
-Tom is heavily armed.
-Tom is here again.
-Tom is here now.
-Tom is here somewhere.
-Tom is hiding somewhere.
-Tom is holding out.
-Tom is holding something.
-Tom is hung over.
-Tom is hurting me.
-Tom is ignoring me.
-Tom is immensely powerful.
-Tom is in Australia.
-Tom is in bed.
-Tom is in Boston.
-Tom is in charge.
-Tom is in church.
-Tom is in class.
-Tom is in college.
-Tom is in control.
-Tom is in court.
-Tom is in cuffs.
-Tom is in custody.
-Tom is in danger.
-Tom is in denial.
-Tom is in detention.
-Tom is in front.
-Tom is in handcuffs.
-Tom is in heaven.
-Tom is in here.
-Tom is in hiding.
-Tom is in jail.
-Tom is in love.
-Tom is in luck.
-Tom is in mourning.
-Tom is in pain.
-Tom is in position.
-Tom is in recovery.
-Tom is in remission.
-Tom is in shock.
-Tom is in shorts.
-Tom is in there.
-Tom is in town.
-Tom is insanely jealous.
-Tom is interviewing Mary.
-Tom is jumping rope.
-Tom is just adorable.
-Tom is just angry.
-Tom is just careful.
-Tom is just confused.
-Tom is just exhausted.
-Tom is just fine.
-Tom is just jealous.
-Tom is just looking.
-Tom is just modest.
-Tom is just nervous.
-Tom is just outside.
-Tom is just scared.
-Tom is just shy.
-Tom is just upset.
-Tom is just visiting.
-Tom is kissing Mary.
-Tom is leaving home.
-Tom is leaving me.
-Tom is legally dead.
-Tom is like family.
-Tom is like me.
-Tom is like that.
-Tom is like them.
-Tom is limping now.
-Tom is listening intently.
-Tom is listening now.
-Tom is locked inside.
-Tom is looking around.
-Tom is looking good.
-Tom is looking ill.
-Tom is losing consciousness.
-Tom is losing control.
-Tom is losing it.
-Tom is losing Mary.
-Tom is lying asleep.
-Tom is making breakfast.
-Tom is Mary's agent.
-Tom is Mary's father.
-Tom is miles away.
-Tom is moving away.
-Tom is moving fast.
-Tom is moving in.
-Tom is moving on.
-Tom is my assistant.
-Tom is my baby.
-Tom is my bodyguard.
-Tom is my boss.
-Tom is my boy.
-Tom is my boyfriend.
-Tom is my brother.
-Tom is my copilot.
-Tom is my cousin.
-Tom is my dad.
-Tom is my date.
-Tom is my dentist.
-Tom is my destiny.
-Tom is my enemy.
-Tom is my ex.
-Tom is my father.
-Tom is my favorite.
-Tom is my idol.
-Tom is my inspiration.
-Tom is my kid.
-Tom is my lawyer.
-Tom is my name.
-Tom is my neighbor.
-Tom is my nephew.
-Tom is my partner.
-Tom is my patient.
-Tom is my problem.
-Tom is my responsibility.
-Tom is my roommate.
-Tom is my son.
-Tom is nearly dressed.
-Tom is nearly finished.
-Tom is needed elsewhere.
-Tom is never late.
-Tom is never sober.
-Tom is never there.
-Tom is new here.
-Tom is next up.
-Tom is no dummy.
-Tom is no fool.
-Tom is no killer.
-Tom is no liar.
-Tom is no threat.
-Tom is obviously shaken.
-Tom is obviously upset.
-Tom is off tonight.
-Tom is on antidepressants.
-Tom is only bluffing.
-Tom is opening presents.
-Tom is our client.
-Tom is our friend.
-Tom is our guide.
-Tom is our guy.
-Tom is our son.
-Tom is out back.
-Tom is out cold.
-Tom is out here.
-Tom is out sick.
-Tom is out there.
-Tom is over here.
-Tom is overdoing it.
-Tom is passed out.
-Tom is paying attention.
-Tom is pretty crafty.
-Tom is pretty creative.
-Tom is pretty devastated.
-Tom is pretty dumb.
-Tom is pretty excited.
-Tom is pretty good.
-Tom is pretty irritated.
-Tom is pretty old.
-Tom is pretty rich.
-Tom is pretty scared.
-Tom is pretty tough.
-Tom is pretty unusual.
-Tom is pretty upset.
-Tom is probably asleep.
-Tom is probably concerned.
-Tom is probably dead.
-Tom is probably drunk.
-Tom is probably hammered.
-Tom is probably hungry.
-Tom is probably OK.
-Tom is probably scared.
-Tom is probably sleeping.
-Tom is probably waiting.
-Tom is protecting himself.
-Tom is pushing thirty.
-Tom is quiet now.
-Tom is quite good.
-Tom is quite harmless.
-Tom is quite intelligent.
-Tom is quite popular.
-Tom is quite prepared.
-Tom is quite right.
-Tom is quite safe.
-Tom is ready now.
-Tom is really angry.
-Tom is really big.
-Tom is really excited.
-Tom is really funny.
-Tom is really good.
-Tom is really impressed.
-Tom is really lucky.
-Tom is really mad.
-Tom is really nice.
-Tom is really popular.
-Tom is really scared.
-Tom is really sick.
-Tom is really something.
-Tom is really special.
-Tom is really strong.
-Tom is really upset.
-Tom is really wonderful.
-Tom is really worried.
-Tom is returning home.
-Tom is right downstairs.
-Tom is right here.
-Tom is right outside.
-Tom is running late.
-Tom is running scared.
-Her name is Mary.
-Tom is safe now.
-Tom is saying something.
-Tom is scared now.
-Tom is serious now.
-Tom is sitting up.
-Tom is sleeping now.
-Tom is slightly tipsy.
-Tom is slowing down.
-Tom is so happy.
-Tom is so hot.
-Tom is so nice.
-Tom is stalking me.
-Tom is standing nearby.
-Tom is staying there.
-Tom is still angry.
-Tom is still around.
-Tom is still bothered.
-Tom is still breathing.
-Tom is still conscious.
-Tom is still determined.
-Tom is still here.
-Tom is still hot.
-Tom is still inside.
-Tom is still laughing.
-Tom is still listening.
-Tom is still looking.
-Tom is still mad.
-Tom is still missing.
-Tom is still out.
-Tom is still reading.
-Tom is still relaxing.
-Tom is still shaking.
-Tom is still single.
-Tom is still sitting.
-Tom is still sleeping.
-Tom is still standing.
-Tom is still there.
-Tom is still uncertain.
-Tom is still upset.
-Tom is still upstairs.
-Tom is still vulnerable.
-Tom is still waiting.
-Tom is still woozy.
-Tom is still working.
-Tom is still worried.
-Tom is suing you.
-Tom is surprisingly agile.
-Tom is surprisingly strong.
-Tom is sweating now.
-Tom is taking charge.
-Tom is taking notes.
-Tom is testing me.
-Tom is testing us.
-Tom is the best.
-Tom is the blackmailer.
-Tom is the captain.
-Tom is the defendant.
-Tom is the enemy.
-Tom is the expert.
-Tom is the father.
-Tom is the greatest.
-Tom is the killer.
-Tom is the murderer.
-Tom is the oldest.
-Tom is the one.
-Tom is the president.
-Tom is the same.
-Tom is the strongest.
-Tom is the victim.
-Tom is there alone.
-Tom is there already.
-Tom is there now.
-Tom is thirty now.
-Tom is too old.
-Tom is totally nuts.
-Tom is totally right.
-Tom is totally untrained.
-Tom is turning blue.
-Tom is turning gray.
-Tom is turning thirty.
-Tom is turning white.
-Tom is under guard.
-Tom is under investigation.
-Tom is under observation.
-Tom is under pressure.
-Tom is under surveillance.
-Tom is understandably curious.
-Tom is upstairs packing.
-Tom is upstairs resting.
-Tom is using you.
-Tom is usually working.
-Tom is very agitated.
-Tom is very attractive.
-Tom is very bright.
-Tom is very charming.
-Tom is very chatty.
-Tom is very close.
-Tom is very committed.
-Tom is very creative.
-Tom is very cute.
-Tom is very dedicated.
-Tom is very disappointed.
-Tom is very distinguished.
-Tom is very disturbed.
-Tom is very efficient.
-Tom is very elusive.
-Tom is very frightened.
-Tom is very funny.
-Tom is very good.
-Tom is very ill.
-Tom is very independent.
-Tom is very naive.
-Tom is very needy.
-Tom is very nice.
-Tom is very particular.
-Tom is very persistent.
-Tom is very polite.
-Tom is very protective.
-Tom is very rude.
 Tom is very sad.
 Tom is very shaken.
 Tom is very sorry.
@@ -4864,7 +4033,6 @@ I bet you're hungry.
 I bet you're right.
 I bet you're wondering how this works.
 I plowed the field.
-São Vicente was the first city in Brazil.
 This is a triangle.
 They decided that Johannes should be the captain of the team.
 You are living a dream, and the dream is about to end.
@@ -5104,7 +4272,6 @@ Kumi did not make boxes.
 Please present your claim tags.
 You can indulge yourself without spending a fortune.
 I wonder why Tom has been so nice to me recently.
-The Norwegians call Norway "Norge" or "Noreg", because there are two official languages: "Bokmål" and "Nynorsk".
 She has such a kind heart.
 I still haven't eaten.
 I'm going to go sell my car this afternoon.
@@ -6675,25 +5842,15 @@ Where is the store?
 Where is Manila?
 What's the difference between A and B?
 I am learning to speak Filipino.
-"How do you plan to proceed now?" "My client wants to testify." "And say what?" "That he’s innocent."
-"I’ll argue the motion." "They are coming down to watch the motion, they’re hoping you crash in there."
-If you’ll excuse us, we’re due in court.
 "Objection. This certainly has no relevance." "All objections have been waived till the trial."
 Are you aware the trial begins tomorrow?
 At the very least you could get a restraining order.
-Deposition of Mr. Moon is today. I assume you’ve prepared for today’s deposition.
 Evidently, our expert witness comes armed not only with details but a conscience.
 He got a T.R.O.
 He won the motion and settled the case.
-He’s ordered a transcript so he can read back to the judge what you said today.
 I object to that summation; it was entirely too short.
 I should report you directly to the bar.
-I’ll review any grounds for appeal.
-I’m assuming you could speed through your testimony just to keep up with our schedule.
-I’m fining you $10,000 a day for any further delay.
 It is also my expert opinion that the document analysis is reliable as these handwriting samples are comparatively similar.
-It’s a class action involving thousands of plaintiffs, and it’s complicated.
-It’s the only way you can get a restraining order.
 Ladies and gentlemen of the jury, thank you for your time.
 May I have a moment with my client, your honor?
 Members of the jury, regretfully I must declare this proceeding a mistrial.
@@ -6709,18 +5866,13 @@ The defendant stays in custody.
 The defense rests, your honor.
 The district attorney has lodged a complaint against you for witness tampering.
 The plaintiff lost his motion for sanctions.
-There’s no proof of anything!
 The prosecution rests, your honor.
 The rules of evidence are the same as civil.
-There’s been no claim for punitive damages, only compensatory.
-There’s no proof of that.
 This is a class action.
 This is a deposition. You answer the questions truthfully but never volunteer anything.
 That was your cross?
 We have a pretrial conference.
 We need an attorney with experience in unconventional means.
-We’ve got two more expert witnesses.
-It’s not exactly a trial. It’s an evidentiary hearing.
 You should be sued for malpractice.
 You cleverly orchestrated a mistrial.
 Your honor, I would like to discharge counsel.
@@ -7341,7 +6493,6 @@ I'm a volleyball player.
 What would you want to eat?
 What would you want to drink?
 It was a godsend.
-All depositors with over €100,000 in Southern Cypriot banks will now have to pay 9.9 percent levy on their savings as part of a €10 billion bailout plan agreed on Friday, March 15.
 He evicted the existing tenants by taking them to court for non-payment of back rent.
 My mother's psychic friend has predicted we will have triplets.
 He was rushed by ambulance to the nearby hospital.
@@ -9330,7 +8481,6 @@ The actress is featured on a large billboard advertising makeup.
 The hotel is near the bright yellow billboard on the north side of the highway.
 He is a brewer of beer by trade.
 Pasta is high in carbohydrates.
-Some people say a high fat–low carbohydrate diet is healthy.
 Forgetting to say the graduating student's name at the graduation ceremony was a colossal miss.
 It is a colossally bad idea to drive without a driver's license.
 Mount Chokai is a colossal mountain in Akita.
@@ -10146,9 +9296,7 @@ Tom told me I had done pretty good.
 Are you allowed to go?
 What are your traditions on this day?
 A horse! A horse! My kingdom for a horse!
-The venom clamours of a jealous woman poison more deadly than a mad dog’s tooth.
 It seems to me that you don't agree.
-Give sorrow words: the grief that does not speak whispers the o’er-fraught heart, and bids it break.
 Now there is some left over.
 If all the year were playing holidays, to sport would be as tedious as to work.
 The weather is quite pleasantly cool.
@@ -10189,7 +9337,6 @@ I'm going to the center of the city.
 We discussed the article I published.
 April Fool's!
 You just can't stand still, huh? What are you, looking for a fight?
-Love looks not with the eyes, but with the mind; and therefore is wing’d Cupid painted blind: nor hath Love’s mind of any judgement taste; wings and no eyes figure unheedy haste: and therefore is Love said to be a child, because in choice he is so oft beguiled.
 We are such stuff as dreams are made of, and our little life is rounded with a sleep.
 I'm really surprised you got a prize.
 He won the Nobel Prize for Literature.
@@ -10265,7 +9412,6 @@ So long as men can breathe or eyes can see, so long lives this, and this gives l
 I live next to a dam.
 I live near a dam.
 Presume not on thy heart when mine is slain; thou gav'st me thine, not to give back again.
-In faith, I do not love thee with mine eyes, for they in thee a thousand errors note, but ’tis my heart that loves what they dispise, who in despite of view is pleased to dote.
 Let those who are in favor with their stars of public honor and proud titles boast, whilst I whom fortune of such triumph bars, unlooked for joy in that I honor most.
 Then happy I that love and am beloved where I may not remove, nor be removed.
 Weary with toil, I haste me to my bed, the dear repose for limbs with travel tired, but then begins a journey in my head to work my mind when body's work's espired.
@@ -10396,7 +9542,6 @@ I visit him often.
 You or I?
 Why isn't your sister good?
 What months are in the calendar?
-I live in Riberão Preto.
 Despite their bulk and weight, hippos can swim rapidly.
 Tom is sitting beneath the tree.
 Tom tried to hide behind a big tree, but the others found him.
@@ -14084,7 +13229,6 @@ I want to meet people and have fun.
 There is still half an hour for the train to start.
 Hurry up, the train stops here for a short while.
 A cacophony is a mix of loud sounds.
-We’re here looking at the New York soundscape.
 I took advantage of the confusion and attacked the enemy.
 The girl who'd got lost sobbed as she said her name.
 Why are you so handsome?
@@ -14166,63 +13310,44 @@ I'm certain that you saw Tom.
 Can a man take fire in his bosom, and his clothes not be burned?
 I am quite worried about how resilient the Gulf of Mexico is. She's had some pretty dramatic traumas, and I'm worried how much the ecosystem can actually tolerate.
 The giraffe cannot swim because its centre of gravity is so high that it would topple over.
-It’s important to cover your ears with ear muffs in a job like that.
 I am in cloud number nine.
 This imbecile has sharp teeth.
 The eternal city - that's Rome; the perpetual building site - that's Berlin.
 Only when the Party Committee Secretary came in person to resolve it was this point of view dispelled entirely.
 And what was the reason?
-Now, let’s go back to where we were.
 No wonder that even he feared this word himself.
 We exchanged pleasantries, and chatted cordially about news in the team, and he moved the conversation naturally on to the main topic.
 Do you remember when we made wooden bridges?
 She gulped down half her tea in one mouthful.
-First acknowledge then deny – one for and one against – and then you are in a powerful position.
 No matter how many faults there are, our achievements are the main thing.
 Whoever ignores that point will make mistakes.
 It is how it is.
-Going from not having to having – that’s success.
-That’s the first point.
-The problem is that it wouldn’t work!
 China has Chinese characteristics.
-He’d heard this more than once, but once was once more than he could bear.
 If you're going to say it, you have to say it with force, and take away your opponent's ability to retaliate.
-Those who don’t like it will say that it doesn’t fit with China’s characteristics so it can’t be done, and those who do like it will say that according to China’s characteristics this is how it must be done.
 He was only bothered about concrete questions.
 Things are always more complex than we think.
 No two rivers in the world are completely the same.
 The natural world is always much more complex than formulations in the lab or blueprints in the design office.
 There was a different kind of atmosphere in the headquarters.
-For us, what’s most important is understanding the intention of the leadership.
 The workers didn't get their basic wage.
-That’s actually the truth.
-That doesn’t count as making a mistake.
 The situation was much more complex than he had thought.
-I’ll phone you as soon as I arrive in Shanghai.
 The thief ran off as soon as he saw the police car.
 He went back to the dorm as soon as he finished class.
-I’ll come and find you once I’ve finished my work.
 The snow will melt when the sun comes out.
-She felt much safer once she’d put her helmet on.
 Whenever I have a question, I just Google it.
 Whenever I get a large sum of money, I donate some of it to charity.
 Those two people start arguing whenever they meet.
 At the end of April, the water of the Yellow River had darkened.
 This was a warning: the floods were coming.
 They needed to make a decision - an immediate decision.
-He had to be responsible, but this was a responsibility that he couldn’t bear.
-There couldn’t be a more ideal solution than that.
 The day before, they had made preparations.
 At that moment, the telephone in the unit office rang.
 But it wasn't over yet.
-Seeing this scene, I couldn’t help but sigh.
 I constantly went over this problem in my mind.
-When I thought of that, I couldn’t help smiling.
 I decided to take the opportunity to go and visit him.
 A lot of snow had just fallen.
 Boundless snow covered all that could be seen.
 Now it was my turn to be surprised.
-That’s what we heard.
 Spring in the north sends gales to sweep the roads.
 Her face was covered with cum.
 It makes no sense whatsoever.
@@ -15933,7 +15058,6 @@ Long time ago the people of Hawaii were animists.
 He became increasingly demented!
 You are becoming lazy!
 Did you notice that one side of Leo Tolstoi's mustache is longer than the other?
-The world’s first skyscraper towered all of ten storeys and was just 42 metres tall.
 Yes, we were abroad, in Switzerland.
 Here's my room.
 I was exhausted when we arrived at the ski slope and the snow became rain.
@@ -17512,7 +16636,6 @@ He has gained weight.
 My Name is Tanaka, I just moved in next door. Pleased to meet you.
 Tom was raped by his father.
 The vocabulary of young people is not so great.
-I like that word — it will be integrated into my vocabulary immediately!
 In grammar and vocabulary, some dialects differ significantly from the standard language.
 The lessons must provide a comprehensive and differentiated vocabulary.
 A few words of Portuguese vocabulary come from the Tupi.
@@ -18233,7 +17356,6 @@ Learning French takes longer than most people think.
 Let's pretend we didn't hear that.
 Let's throw a bachelor party for Tom.
 Mary could've been the flower girl.
-Mary is my fiancée.
 Mary is wearing an ankle bracelet.
 Mary loves playing with dolls.
 Mary wants to buy a new dress. What do you want to buy?
@@ -18341,7 +17463,6 @@ I can never forget my hometown.
 You are a living legend.
 I saw a girl wearing a patch with a picture of a cute-looking flower.
 I sewed a badge onto my daughter's bag for her.
-We are the pure selected few / And all the rest are damned / There’s room enough in hell for you / We don’t want heaven crammed.
 If you cannot come you should let me know beforehand.
 Don't leave the key in the lock.
 Let me tell you a little bit of the inside story.
@@ -18571,7 +17692,6 @@ Tom is in the kitchen microwaving popcorn.
 Tom is leaving, isn't he?
 Tom is like a brother to me.
 Tom is looking for a better job.
-Tom is my fiancé.
 Tom is not as good-looking as Mary.
 Tom is not as stupid as he looks.
 Tom is not as tall as Mary.
@@ -21045,7 +20165,6 @@ The soccer player ignored the jeers from the opposing team's fans.
 He is lacking in decisiveness.
 I have a feeling that there's something funny about it.
 There is no future for her.
-I won’t be fooled.
 I don't like this song.
 I can say the alphabet backwards in less than five seconds.
 There is nothing to do here.
@@ -21130,7 +20249,6 @@ I take a taxi to the train station.
 I asked Tom to drive me to the train station.
 I asked Tom to meet me at the train station.
 I asked Tom to wait for me at the train station.
-If you declutter your linen closet, you get rid of lots of things that you don’t need.
 So the last shall be first, and the first last: for many be called, but few chosen.
 We need them.
 I drank some wine.
@@ -21189,7 +20307,6 @@ She is schizophrenic.
 I had lunch.
 His father is a bank employee.
 Her father is a bank employee.
-How do you write ‘pretty’?
 You want to buy a book.
 The revolution has its own laws.
 Salt, please.
@@ -21526,7 +20643,6 @@ I don't get it! Why do I have to take the heat?
 I bought various pieces of cloth.
 It began to rain in the evening.
 Canada is a neighboring country of the USA.
-This is Ms. Müller.
 Great Britain consists of Wales, England, and Scotland.
 The USA is very big.
 I went to school with him.
@@ -22232,7 +21348,6 @@ Stop beating around the bush and answer my question!
 The contract will expire soon.
 In France, its birthplace, Tatoeba became a cultural and social phenomenon.
 PHP is a web programming language.
-In São Paulo in '58, the candidate with the most votes was a rhinoceros named Cacareco.
 The language autodetection feature on Tatoeba hardly ever works, but you can count on other users to set you straight.
 "Tom, your dinner's getting cold." "Just a minute. I'll be right there."
 Tom, can you come tomorrow?
@@ -22274,10 +21389,8 @@ Some people don't act their age.
 You just got pantsed in the schoolyard, four-eyes.
 I'm sorry to put you through that.
 I put roll-on antiperspirant all over my body. If sweat starts squirting out the top of my head, you know why.
-I'd love to be able to tell the lady who cuts my hair that I don’t like bangs.
 I don't impose my ideas on others. I don't look to convert others to my life philosophy.
 When we were going through security, I got pulled out of line for a pat-down.
-Long story short, she’s on the No Fly List and we might have been followed here by drone.
 Do you have a drug problem?
 I think he's trying to get back at her for what she said in the meeting.
 I don't set myself unrealistic goals.
@@ -22286,7 +21399,6 @@ Omegle is a great website for people who like chatting with foreign people.
 Communities.com is one of the best websites to make new friends.
 Some people say my love can not be true.
 You can't make everyone happy.
-There are many people who think that it’s impossible not to mix up languages.
 See "/docs" for the full documentation for this API.
 What the hell is it with you?
 What the hell is wrong with you?
@@ -23309,7 +22421,6 @@ Get them before they get us.
 What pain are you trying to cover up with alcohol?
 That lecture was a waste of time.
 That meeting was a waste of time.
-Are you trying to suggest that my emotional problems are no different than those of a stupid person？
 Apparently we're just two peas in a pod.
 I didn't get to spend a lot of time with you on this visit.
 So it seems that cloud of odorless deadly gas had a silver lining after all.
@@ -23383,8 +22494,6 @@ Is there anything else you want to know?
 Mencius said, 'A great man is the one who does not lose his heart of a child.'
 The great one always has a pure heart.
 Tom knows exactly how I like my hair done.
-Don’t you try and blame this on him.
-Everything has a good side. Do not take too much attention to the good side. Oppositely, do hard to break the setback can take you to the good side and get to know that what’s the thing is worth doing.
 But will it be a problem?
 It's like I always thought.
 Practice make master.
@@ -24604,7 +23713,6 @@ The audience buzzed with excitement.
 The boots are tight around the calf.
 The bridge collapsed when one of the cables broke.
 The bus went by without stopping.
-The café is just around the corner.
 The calf was born this morning.
 The child was playing with wooden blocks.
 The Christmas tree was blazing with lights.
@@ -24833,7 +23941,6 @@ Tom was thinking of the consequences of his actions.
 Tom was too nervous to speak.
 Tom's hands were behind his back.
 Tom's name was on the list.
-We don’t know if any of it’s true, but it might be.
 What it all boils down to is that we are in the same boat.
 Would you do that for me?
 Would you gentlemen like to follow me?
@@ -24865,23 +23972,17 @@ I could only shake my head.
 I could sure use your advice.
 I could sure use your help right now.
 I could understand why Mary hated me.
-I couldn’t let it go.
 I couldn't see what she was wearing, but I knew it was something cute.
-I don’t even know if all of this will end up making a big difference eventually.
-I don’t mean to take it out on you.
 I doubt that Tom meant any harm by it.
 I dozed off and dreamed that I was dead.
 I feel like an impostor.
-I just can’t picture that.
 I just can't picture Tom in a dress.
 I just want all this to be over, you know.
 I kept expecting her to call, but she didn't.
 I kept trying to tell him, but Tom wouldn't listen.
 I know all about cars.
 I know how crazy that must sound.
-I know what he’s capable of.
 I know what I know.
-I know what’s in your heart.
 I saved up my food for later.
 I saw it all in a dream last night.
 I saw Tom sitting in the first row.
@@ -24891,10 +23992,6 @@ I started to get a sense of the person he was.
 I suppose you could be right.
 I suppose you must have a load of fans.
 I suppose you must hear that all the time.
-I suppose you’ve been told that before.
-I sure wouldn’t want to lose my job over that.
-I sure wouldn’t want to lose my job.
-I think I’m going to be okay.
 I was very proud when my son won first prize at the competition.
 I would appreciate it if you didn't come any closer.
 If Mary gives you any advice, take it.
@@ -24991,7 +24088,6 @@ To support Cantonian people in their noble struggle against Han Chinese racists 
 Cairo has a very warm climate.
 What he says is very true.
 What she says is very true.
-Today is the 4th of June — a day when Chinese government killed hundreds of people on a peaceful demonstration on the Tiananmen square.
 Children were recruited from urban daycare centers.
 That's what you do.
 I didn't go into the office yesterday, because I worked during the weekend, and now I'm swamped!
@@ -25032,8 +24128,6 @@ They're both incredibly cute!
 I choose you!
 Tom, I choose you!
 You got the walls all dirty.
-Pikachu is a Pokémon.
-Tom is not a Pokémon.
 I enjoy being with him.
 I enjoy being with her.
 I enjoy being with you.
@@ -25285,7 +24379,6 @@ This is the best day of my life.
 This is the most beautiful thing I have ever seen.
 He's the cutest guy I have ever seen.
 He's the hottest guy I have ever seen.
-It’s not the same to be alone than to be alone in a room that you’ve just left.
 My knees crack when I squat.
 My knees crack when I run.
 He got up and left.
@@ -25833,7 +24926,6 @@ Which are the villages where your language is still spoken?
 Can we visit the villages where your language is still spoken?
 Tom is preparing supper.
 What's in your suitcase?
-It's up to 5·10-³ meters.
 Tom shouted at Mary.
 You don't know what I had to put up with!
 It was almost noon when you woke up.
@@ -25844,7 +24936,6 @@ Nobody dies.
 No one dies.
 By saying "Mike" I actually meant my dog named Mike.
 I play the piano well.
-I like spicy food and I really like jalapeños.
 I like spicy Mexican food.
 What belongs to you is in danger when your neighbour's house is on fire.
 I would never be your husband.
@@ -26004,7 +25095,6 @@ I met Jaume with his daughters when I was in Barcelona.
 Jaume's grandmother spoke Catalan better than Spanish.
 I was there when Jaume's grandmother died.
 I learnt Catalan very quickly.
-I met José when I was in Bilbao.
 Lida was from Colombia. I met her when I was in Madrid.
 Lida never told me why she came to Spain.
 I called Lida "la india". I liked her Native American looks.
@@ -26250,7 +25340,6 @@ Tom is asleep in his room.
 I will be here two hours later than previously said.
 I will be here two hours earlier than previously said.
 If the real purpose of all the uproar about sweatshop labor in the Third World is to allow college students and professors to feel morally one-up on businesses that are providing much-needed jobs in poor countries, then it accomplishes that purpose.
-Teaching assistants are usually graduate students who are working toward their Master’s degrees or their Ph.D.s, while taking on the job of teaching undergraduate courses that their professors don’t want to be bothered teaching.
 She paused in surprise.
 Tom's eyes had been refreshed by the sight of Miss Mary Bright.
 She goes to the woods in the middle of the night and now, she pretends to be scared of the dark.
@@ -26465,9 +25554,7 @@ I think the increasing interest toward MILFs comes from the aging population of 
 You can easily score a MILF in this club.
 You've got another MILF? What happened to the last one?
 I just met a sexy MILF.
-Those British purists prefer to say “yummy mummy” instead of “MILF”. Whatever.
 What's the meaning of MILF?
-Within a few minutes, Tatoeba went from having no sentence containing the word “MILF” to more than a dozen.
 Why doesn't it amuse me anymore that he's again with that MILF?
 That club is filled with MILFs.
 I'm going to bed, bye.
@@ -26730,13 +25817,7 @@ That's my line.
 That's what I want to ask.
 He told him he was adopted with his dying breath.
 Aoife is loved by everyone.
-Róisín and I are in the same school.
-You'll stay in Síle's house.
-Siobhán will do her homework.
 Aisling seems very happy.
-Breandán is a lawyer.
-Séamus will become an interpreter.
-I'm Máire's fiancé.
 I will go to Ireland this summer.
 Ireland is a very beautiful country.
 Irish is a very beautiful language.
@@ -27521,7 +26602,6 @@ If you had asked me to marry you, I would have said yes.
 Would you have come to visit me if I had invited you?
 If I had gone to that restaurant last night, I would have eaten a steak.
 I would have bought that car if I'd had the money.
-Would the cat have scratched you if you hadn’t annoyed it?
 She would have called me if she'd had my phone number.
 If you hadn't asked me for it, I wouldn't have given it to you.
 If they had offered you the job, would you have accepted it?
@@ -27582,8 +26662,6 @@ Mom, there is nothing to eat.
 I know whose bag this is.
 He's a Canadian, not an American.
 Canadians are not Americans.
-I'm going to Nîmes tomorrow.
-Where is Nîmes?
 Now I am busy.
 Life is like a box of matches - treating it too seriously is stupid, whereas being careless with it is dangerous.
 You have the right to do whatever you want.
@@ -27741,7 +26819,6 @@ He really got sick.
 Are the shops open on Saturday?
 Tom's last name isn't easy to pronounce.
 I didn't order this.
-Australia’s first female prime minister Julia Gillard ousted as Labour party leader.
 Tom pressed the button, but nothing happened.
 Tom pushed the button, but nothing happened.
 I'm sorry. I didn't do it on purpose.
@@ -27821,7 +26898,6 @@ The quickest way through a hairpin turn is drifting.
 How far?
 While we're sleeping the immune system opens its repair workshop.
 He treats me with severity.
-Juan gave me a trip to Cariló for my birthday.
 I never knew what purpose would living forever serve, but now I know, that it would be useful to give us the possibility of learning English.
 What is 'terpomo'? An apple in the ground, or a potato?
 Today a child acting like a king, tomorrow a tyrant.
@@ -28005,7 +27081,6 @@ How many countries are there in the world?
 How many soldiers died in World War Two?
 How many presidents have the United States had?
 How many presidents were assassinated in the United States?
-When I want to be sure I remember where I have put an object, I mustn’t do it with averted eyes, but while putting it away look at it so intently, as if I were taking a photo.
 How many detainees are held at Guantanamo?
 Oftentimes code will start to smell.
 He told me that he had lost his textbook the previous morning.
@@ -40970,8 +40045,6 @@ They are too drunk.
 I said there's no one here.
 I'd say that I came on time.
 They love music.
-Tom is going to Nîmes tomorrow.
-They are going to Nîmes tomorrow.
 Emily goes to school.
 Emily and Kate are friends.
 Laurie is your elder sister.
@@ -42186,7 +41259,6 @@ I don't owe anyone anything.
 Tom shut down his computer.
 Tom restarted his computer.
 Tom switched off his walkie-talkie.
-José fell, but he only scraped his knee.
 I don't have any cash.
 It's not you, it's me.
 How about that?
@@ -42484,14 +41556,12 @@ A typical Bavarian breakfast consists of white sausage, wheat beer and pretzels.
 The name of the restaurant is "Old Europe".
 I must say, his behaviour is exemplary.
 Have you ever had gulasch soup?
-Spätzle are a type of German pasta.
 We ate a potato salad.
 Bavarian cooking is hearty and rustic.
 The stevia was cultivated and used as a sweetener by the Guarani people for at least 1,500 years.
 There are many varieties of potato dumplings in Bavaria.
 We ate potato soup.
 We had a Bavarian pork roast with red cabbage.
-This Bavarian Leberkäse doesn't contain any cheese nor liver.
 These apple strudels are fresh from the oven.
 Germany is one of the largest cheese producers in the world.
 The United States is the largest producer of cheese in the world.
@@ -42837,12 +41907,8 @@ He and his brother are two peas in a pod.
 The mayor doesn't do anything but paper over the cracks.
 To rub salt in someone's wounds.
 You cannot change what you refuse to confront.
-Don’t think of cost. Think of value.
 Sometimes you need to distance yourself to see things clearly.
-No matter how many mistakes you make or how slow you progress, you are still way ahead of everyone who isn’t trying.
-Saying someone is ugly doesn’t make you any prettier.
 Making a hundred friends is not a miracle. The miracle is to make a single friend who will stand by your side even when hundreds are against you.
-In life, if you don’t risk anything, you risk everything.
 There is yet one minor blemish.
 He removed even this one.
 She removed even this one.
@@ -43554,7 +42620,6 @@ Tom normally doesn't show his feelings very much.
 I have a date with my boyfriend today, so I've been in a bliss since this morning.
 This dictionary is completely useless.
 In German it's a sin to leave out a comma, whereas in English it's a sin to insert an unnecessary one.
-There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. – There is another theory which states that this has already happened.
 Everyone paid for their own meal.
 What happens today?
 Calm is a virtue of the strong.
@@ -43937,7 +43002,6 @@ Tom broke his left ankle during a rugby match.
 Tom lost his appetite due to the heat wave.
 To this day, there is still confusion between transvestites and transsexuals.
 The servant led me to a very beautiful room, which served simultaneously as a living room and office in the engineer's house.
-"You're working?" — "No, I'm just studying."
 During my entire life, I've fought against superstition.
 My whole life long, I fought against superstition.
 In molecular gastronomy, completely new appliances are used.
@@ -44136,10 +43200,8 @@ You're either with me or against me.
 I freaked out and started screaming.
 She freaked out and started screaming.
 I was surprised that you won the prize.
-I don’t know if things happening here make me laugh or cry.
 OK.
 I'll call you tomorrow, OK?
-It’s quite obvious that the purport of these misanthropic theories consists in slandering the working masses, relieving the imperialism from the responsibility for the bloody wars it provokes, and imposing the thought that wars are endless and are allegedly caused by aggresive tensencies in the human nature.
 I'll give that to Tom.
 He goes to school.
 I folded the towel in half.
@@ -44389,7 +43451,6 @@ They will be jealous.
 It rained all day.
 Do these ladies speak French?
 The old man was loved by all.
-This is an exceptional rosé wine.
 Beware of the gorilla.
 Water is the essence of life.
 Who had this idea?
@@ -44519,7 +43580,6 @@ We're nearly out of time.
 He makes a good volleyball player because he can jump high and spike the ball.
 Tom wants to buy an eight-track player to put in the car his grandmother gave him.
 I wasn't being serious.
-The lack of credibility of a married writer’s recommendation to remain unmarried is the weak point of the book.
 On the way home I'll stop by the post office.
 Italy is a beautiful country.
 Which shoes are you wearing?
@@ -44632,7 +43692,6 @@ The house that I live in is old.
 Maria likes to eat fresh fruit, because it is very healthy.
 Is one of you Tom?
 Look at her. She's beautiful.
-I’m planning to fly to Mars this weekend if I manage to get spacecraft tickets.
 Make his identikit!
 That vending machine is out of order.
 I live in Cairo.
@@ -44741,7 +43800,6 @@ The rear tire of my bicycle is flat.
 One of my bicycle tires is flat.
 My bicycle has a flat.
 It happened very quickly.
-Jewels worth €40-million were stolen in Cannes from the Carlton hotel.
 He gives his children an allowance.
 The bank closes at 3pm.
 I tried to go to the bank, but it was closed.
@@ -45503,7 +44561,6 @@ I remember that Lenin listened to theremin in 1920 (but of course I wasn't there
 She looks just like me.
 He looks just like me.
 He's my doppelganger.
-She's my doppelgänger.
 What's the best way to learn your language? Would you recommend any book?
 Don't be afraid, I'm with you.
 Was that you who told him the secret?
@@ -45660,7 +44717,6 @@ Vaduz is the capital of Liechtenstein.
 Riga is the capital of Latvia.
 Zagreb is the capital of Croatia.
 Astana is the capital of Kazakhstan.
-Reykjavík is the capital of Iceland.
 Sofia is the capital of Bulgaria.
 Athens is the capital of Greece.
 Skopje is the capital of Macedonia.
@@ -49998,3 +49054,946 @@ Tom said he wanted to play.
 Tom said he wanted to help.
 Tom said he needed a favor.
 Tom said he had a daughter.
+Tom rushed into his office.
+Tom removed his sunglasses.
+Tom regrets insulting Mary.
+Tom pushed the door closed.
+Tom pulled the door closed.
+Tom pretended to be asleep.
+Tom pondered his next move.
+Tom opened the office door.
+Tom opened the door slowly.
+Tom often talks to himself.
+Tom never shows up on time.
+Tom never raises his voice.
+Tom needs to say something.
+Tom must be a good teacher.
+Tom makes everyone nervous.
+Tom made Mary some cookies.
+Tom looks very comfortable.
+Tom looks totally confused.
+Tom looks slightly puzzled.
+Tom looks rather depressed.
+Tom looks pretty miserable.
+Tom lied to you, didn't he?
+Tom led Mary into the cave.
+Tom laughed at Mary's idea.
+Tom knows what's happening.
+Tom knows it was a mistake.
+Tom knew what was going on.
+Tom knew what he was doing.
+Tom kicked Mary repeatedly.
+Tom jumped out of the boat.
+Tom isn't wearing a jacket.
+Tom isn't selling anything.
+Tom isn't paying attention.
+Tom isn't much of a talker.
+Tom isn't enjoying himself.
+Tom is your responsibility.
+Tom is watering the plants.
+Tom is watering his garden.
+Tom is watching television.
+Tom is totally incompetent.
+Tom is thirty minutes late.
+Tom is ready for the worst.
+Tom is probably frightened.
+Tom is one of my roommates.
+Tom is obviously concerned.
+Tom is no longer in Boston.
+Tom is getting embarrassed.
+Tom is genuinely concerned.
+Tom is feeling much better.
+Tom is extremely skeptical.
+Tom is drinking some water.
+Tom is definitely not busy.
+Tom is a very good teacher.
+Tom is a very good swimmer.
+Tom is a college professor.
+Tom initialed the document.
+Tom ignored the suggestion.
+Tom hired Mary for the job.
+Tom hesitated for a moment.
+Tom held the door for Mary.
+Tom heard laughter outside.
+Tom hasn't been here today.
+Tom has decided to help us.
+Tom has a lot of potential.
+Tom hadn't considered that.
+Tom had nothing more to do.
+Tom gazed into Mary's eyes.
+Tom gave Mary a flashlight.
+Tom followed Mary upstairs.
+Tom flipped off the lights.
+Tom ducked behind the door.
+Tom dropped his flashlight.
+Tom drew his gun and fired.
+Tom drank his orange juice.
+Tom doesn't need your help.
+Tom doesn't look very busy.
+Tom doesn't like any of us.
+Tom doesn't have insurance.
+Tom disappeared last month.
+Tom didn't want to go home.
+Tom didn't want to be late.
+Tom didn't say why he went.
+Tom didn't mean to be rude.
+Tom didn't know who it was.
+Tom didn't give Mary a lot.
+Tom couldn't understand us.
+Tom couldn't help grinning.
+Tom could scarcely breathe.
+Tom considered the problem.
+Tom closed the office door.
+Tom climbed into the truck.
+Tom clearly means business.
+Tom clearly enjoys driving.
+Tom can carry that for you.
+Tom came three hours early.
+Tom brought us each a gift.
+Tom began to say something.
+Tom asked me if I was busy.
+Tom asked me for my number.
+Tom asked Mary to help him.
+Tom and Mary work at night.
+Tom and Mary weren't there.
+Tom and Mary were together.
+Tom and Mary went together.
+Tom and Mary want our help.
+Tom and Mary look so happy.
+Tom and Mary look relieved.
+Tom and Mary look familiar.
+Tom and Mary look confused.
+Tom and Mary like to dance.
+Tom and Mary laughed at me.
+Tom and Mary know about it.
+Tom and Mary both screamed.
+Tom and Mary both said yes.
+Tom and Mary aren't hungry.
+Tom and Mary aren't afraid.
+Tom and Mary are with John.
+Tom and Mary are very poor.
+Tom and Mary are very busy.
+Tom and Mary are separated.
+Tom and Mary are nice kids.
+Tom and Mary are listening.
+Tom and Mary are in danger.
+Tom and Mary are different.
+Tom and Mary are Canadians.
+Tom and Mary are both fine.
+Tom and I'll work together.
+Tom and I'll both be there.
+Tom and I had an agreement.
+Tom and I grew up together.
+Tom and I are both nervous.
+Tom and his team are ready.
+Tom agreed to work with us.
+This was left on the porch.
+This isn't your fault, Tom.
+This isn't my fault, is it?
+This is your bag, isn't it?
+This is my life's ambition.
+They're out of their minds.
+There's snow on the ground.
+The bathroom's on the left.
+That wasn't easy, you know.
+That hasn't been confirmed.
+Thanks for the opportunity.
+Thanks for the inspiration.
+Thanks for the hospitality.
+Thanks for the advice, Tom.
+Thank you for your support.
+Thank you for your service.
+Thank you for your opinion.
+Thank you for your honesty.
+Thank you for the donation.
+Thank you for being honest.
+Tell Tom Mary's on the way.
+Stay with Tom in this room.
+Stay with Tom for a moment.
+Smoking is prohibited here.
+Shouldn't you be listening?
+Shouldn't you be in school?
+Shouldn't we say something?
+Remember your promise, Tom.
+Put the kettle on the fire.
+Pick a name from this list.
+None of this is your fault.
+None of them said anything.
+Neither of them looks busy.
+My daughter's name is Mary.
+Maybe Tom was hospitalized.
+Maybe this isn't a problem.
+May I talk to you a minute?
+Look at what Tom's wearing.
+Living with Tom isn't easy.
+It's nice to have you back.
+It's good to have you home.
+It's good to have you back.
+It's complicated, you know.
+It wasn't an easy decision.
+It was wonderful, you know.
+It was nice of Tom to help.
+It was my decision to make.
+Isn't Tom having breakfast?
+Is Mary wearing eye shadow?
+I've always liked baseball.
+I'm originally from Boston.
+I used to like coming here.
+I told Tom you were hungry.
+I think that was a mistake.
+I think my phone is bugged.
+I met Tom a few months ago.
+I know that Tom isn't busy.
+I joined the football team.
+I have to apologize to Tom.
+I forgot to lock the door.
+I figured it out on my own.
+I doubt that Tom is hungry.
+How have you been sleeping?
+Here's my driver's license.
+Here are your instructions.
+Help yourself to something.
+Help yourself to breakfast.
+Haven't you been listening?
+Have you had breakfast yet?
+Have you ever seen a ghost?
+Has Tom said anything more?
+Get Tom something to drink.
+Everything is on the house.
+Everyone is in their place.
+Everyone had their reasons.
+Does Tom feel the same way?
+Does anyone have an antidote?
+Does it have to be tonight?
+Do you think Tom is hungry?
+Do you remember that night?
+Do you really like it here?
+Do you need our assistance?
+Do you know where they are?
+Do you know what they said?
+Do you have to do this now?
+Do you have to do that now?
+Do you have an explanation?
+Do you have a bowling ball?
+Did you open all the boxes?
+Did you find your car keys?
+Did you do that on purpose?
+Can we do it before Monday?
+Can Tom drive himself home?
+Boston is a wonderful city.
+Aren't you having fun, Tom?
+Are you wearing my glasses?
+Are you two about finished?
+Are you trying to be funny?
+Are you having a breakdown?
+Are you calling it a night?
+All you have to do is talk.
+All of them are successful.
+Your skirt's on backwards.
+You're wearing my pajamas.
+You're on the wrong floor.
+You're not that important.
+You're not ready for this.
+You're not in danger here.
+You're in so much trouble.
+You're in serious trouble.
+You'll understand someday.
+You'll need to wear a tie.
+You'll need some of these.
+You'll need a screwdriver.
+You'd better not be drunk.
+You'd better listen to me.
+You were wrong about that.
+You were always very kind.
+You understand us so well.
+You said you had a theory.
+You said it was important.
+You need to listen to Tom.
+You must be very busy now.
+You must be Tom's parents.
+You must be Tom's brother.
+You have no more messages.
+You have a very nice room.
+You aren't ready for this.
+Will you meet our demands?
+Why weren't you listening?
+Why is Tom wearing a coat?
+Why is Tom being followed?
+Why is that your nickname?
+Why is it such a big deal?
+Why has Tom been arrested?
+Why does it have to be me?
+Why do we have to do this?
+Why did it have to be Tom?
+Why aren't you interested?
+Why aren't you in uniform?
+Why aren't you in college?
+Why are you wearing those?
+Why are you wearing a tux?
+Why are you so dressed up?
+Why are you so busy today?
+Why are you picking on me?
+Who was that on the phone?
+Where were you that night?
+Where are you from anyway?
+When did you realize that?
+What've you done with Tom?
+What've you done now, Tom?
+What's your lawyer's name?
+What's that on your shirt?
+What's that in your mouth?
+What're you doing tonight?
+What're you doing in here?
+What'll you have to drink?
+What were you celebrating?
+What were they doing here?
+What were their interests?
+What have you been eating?
+What have they been doing?
+What does Tom usually eat?
+What does Tom have to say?
+What do you think we need?
+What do you do with these?
+What did you say that for?
+What did you have in mind?
+What did you do with them?
+What did you do with that?
+What did you do in Boston?
+What did Tom say happened?
+What did Tom do this time?
+What did they have to say?
+What are they doing there?
+What are these doing here?
+What are their weaknesses?
+Were you worried about me?
+Well, what did you expect?
+Well, Tom, you were right.
+We've had some good times.
+We're off to a good start.
+We're no longer in danger.
+We're late because of you.
+We're here because of you.
+We're having a lot of fun.
+We're almost out of sugar.
+We'll never agree to that.
+We'll meet you downstairs.
+We were worried about you.
+We watched TV for a while.
+We only have three spoons.
+We need three more chairs.
+We need that woman's name.
+We know you were involved.
+We have the same birthday.
+We have so much in common.
+We have people everywhere.
+We could meet you at 2:30.
+We could meet for a drink.
+We agree to your proposal.
+Tom's wife kicked him out.
+Tom's not so good at math.
+Tom's dog bit Mary's hand.
+Tom, do you have a moment?
+Tom would never lie to me.
+Tom won't risk doing that.
+Tom won't make it in time.
+Tom won't let you do that.
+Tom won't let us help him.
+Tom won't even talk to me.
+Tom won't even look at me.
+Tom won't be needing that.
+Tom won't always be around.
+Tom will go there with me.
+Tom will believe anything.
+Tom went to Boston by car.
+Tom watched Mary silently.
+Tom wasn't too interested.
+Tom wasn't expecting that.
+Tom wasn't even surprised.
+Tom was worried about you.
+Tom was working part-time.
+Tom was wearing a uniform.
+Tom was wearing a sweater.
+Tom was very disappointed.
+Tom was totally impressed.
+Tom was there all morning.
+Tom was the only survivor.
+Tom was in his bed asleep.
+Tom was here this morning.
+Tom was genuinely shocked.
+Tom was genuinely puzzled.
+Tom was full of surprises.
+Tom was at Mary's baptism.
+Tom was also at the beach.
+Tom was a baseball player.
+Tom wants to meet with me.
+Tom wants Mary's approval.
+Tom walked into the store.
+Tom walked into his house.
+Tom unzipped his knapsack.
+Tom turned off the lights.
+Tom turned off the engine.
+Tom turned off the device.
+Tom tried to wake Mary up.
+Tom took off his gas mask.
+Tom took a picture of Mary.
+Tom told some dirty jokes.
+Tom told me it was stolen.
+Tom told Mary he was busy.
+Tom thought Mary was busy.
+Tom thought it was stupid.
+Tom struggled to get free.
+Tom still seems concerned.
+Tom still looks surprised.
+Tom still looks depressed.
+Tom still hasn't shown up.
+Tom started singing along.
+Tom slipped off his shoes.
+Tom slipped into the room.
+Tom slipped into his robe.
+Tom slashed Mary's throat.
+Tom slammed the door shut.
+Tom showed Mary the photo.
+Tom showed Mary the paper.
+Tom should've been warned.
+Tom seems to be very busy.
+Tom seemed really impressed.
+Tom says it was your idea.
+Tom sat on a nearby bench.
+Tom said you were in here.
+Tom said you wanted water.
+Tom said you needed a job.
+Tom said that he was busy.
+Tom said it was important.
+Tom said it was a diamond.
+Tom said he was an artist.
+Tom said he had been busy.
+Tom said he didn't get it.
+Tom rushed into the house.
+Tom repeated his question.
+Tom quietly left the room.
+Tom put the car into gear.
+Tom put his car into park.
+Tom put away his notebook.
+Tom pulled off Mary's wig.
+Tom pulled off his gloves.
+Tom pretended not to look.
+Tom personally invited me.
+Tom or somebody said that.
+Tom opened the door wider.
+Tom only has one good eye.
+Tom never wanted you here.
+Tom never knew his father.
+Tom never forgave himself.
+Tom never considered that.
+Tom needs to be with Mary.
+Tom needs some assistance.
+Tom made the wrong choice.
+Tom made the right choice.
+Tom looks very busy today.
+Tom looks really relieved.
+Tom looks really familiar.
+Tom looked very surprised.
+Tom looked very concerned.
+Tom looked really worried.
+Tom looked pretty freaked.
+Tom looked around quickly.
+Tom knows what's going on.
+Tom knows what that means.
+Tom knows Mary is teasing.
+Tom knew Mary wasn't busy.
+Tom knew it was dangerous.
+Tom knew it was a mistake.
+Tom kept his eyes on Mary.
+Tom isn't saying anything.
+Tom is wearing sunglasses.
+Tom is wearing a bathrobe.
+Tom is the only one there.
+Tom is the night watchman.
+Tom is studying his notes.
+Tom is still on the phone.
+Tom is somewhat concerned.
+Tom is really embarrassed.
+Tom is out shoveling snow.
+Tom is one of my students.
+Tom is on the third floor.
+Tom is now in the kitchen.
+Tom is now in Mary's room.
+Tom is in serious trouble.
+Tom is in lots of trouble.
+Tom is growing frustrated.
+Tom is feeling good today.
+Tom is fast asleep in bed.
+Tom is away on assignment.
+Tom is asleep on the sofa.
+Tom is asleep on his bunk.
+Tom is almost ready to go.
+Tom is almost in position.
+Tom is a very good driver.
+Tom is a very good dancer.
+Tom is a mountain climber.
+Tom is a little skeptical.
+Tom is a basketball player.
+Tom introduced his family.
+Tom impersonated a doctor.
+Tom held up three fingers.
+Tom has three secretaries.
+Tom has so much potential.
+Tom has psychic abilities.
+Tom has lots of free time.
+Tom has flu-like symptoms.
+Tom has an eye for detail.
+Tom had the wrong address.
+Tom had a little accident.
+Tom had a key to the room.
+Tom had a bad day at work.
+Tom got up from the table.
+Tom got up from the couch.
+Tom got up from the bench.
+Tom got up from his stool.
+Tom got up from his chair.
+Tom got mugged last night.
+Tom got into the elevator.
+Tom got back into his car.
+Tom gave Mary some brandy.
+Tom finished off the soup.
+Tom felt quite threatened.
+Tom felt extremely guilty.
+Tom felt a little nervous.
+Tom feels much better now.
+Tom explained his problem.
+Tom examined it carefully.
+Tom ducked into the alley.
+Tom drives Mary to school.
+Tom drank three cocktails.
+Tom doesn't seem too busy.
+Tom doesn't look too busy.
+Tom doesn't have red hair.
+Tom didn't wear a uniform.
+Tom didn't talk to anyone.
+Tom didn't put up a fight.
+Tom didn't look that busy.
+Tom didn't give Mary much.
+Tom didn't get on the bus.
+Tom didn't get in the car.
+Tom could've had this job.
+Tom could've been injured.
+Tom could understand Mary.
+Tom completely ignored me.
+Tom clearly has potential.
+Tom cleaned up the office.
+Tom checked the equipment.
+Tom chain-locked the door.
+Tom can handle it himself.
+Tom answered the question.
+Tom and Mary were worried.
+Tom and Mary were married.
+Tom and Mary were friends.
+Tom and Mary were engaged.
+Tom and Mary want to help.
+Tom and Mary tied John up.
+Tom and Mary seem worried.
+Tom and Mary look worried.
+Tom and Mary look healthy.
+Tom and Mary like to sing.
+Tom and Mary both said no.
+Tom and Mary both relaxed.
+Tom and Mary both drowned.
+Tom and Mary aren't happy.
+Tom and Mary aren't alone.
+Tom and Mary are fighting.
+Tom and Mary are a couple.
+Tom and I'll wait for you.
+Tom and I'll be all right.
+Tom and I were very close.
+Tom and I were both wrong.
+Tom and I were both tired.
+Tom and I were both happy.
+Tom and I were both drunk.
+Tom and I have work to do.
+Tom and I are pretty busy.
+Tom and I are both single.
+Tom and I are both scared.
+Tom and I are both hungry.
+Tom and I are always busy.
+Tom always makes me laugh.
+Tom also has a flashlight.
+Tom admitted killing Mary.
+Tom acted in self-defense.
+This is Tom's handwriting.
+This is Tom, my colleague.
+This is Tom, my assistant.
+This is difficult for Tom.
+They'll be ready for that.
+There's no doubt about it.
+There are three survivors.
+The gun hadn't been fired.
+That's your job, isn't it?
+That's my impression, too.
+That wasn't my experience.
+That was your third drink.
+That was my understanding.
+Thanks for your attention.
+Thanks for the help, guys.
+Thank you for your candor.
+Thank you for the tickets.
+Thank you for the flowers.
+Thank you for remembering.
+Thank you for cooperating.
+Thank you for coming, Tom.
+Thank you for being there.
+Tell Tom we're on our way.
+Some of them are teachers.
+Sit down and have a drink.
+Shouldn't you be in there?
+Should we call it a night?
+See you in thirty minutes.
+Put this coat on a hanger.
+Put on your seatbelt, Tom.
+Perhaps Tom had it coming.
+Nobody was busy except me.
+Mary was Tom's first wife.
+Mary put on some lipstick.
+Mary is now my girlfriend.
+Mary is an old girlfriend.
+Love is a beautiful thing.
+Look, Tom, we have to move.
+Listen, we have a problem.
+Keep this to yourself, Tom.
+It's your money, isn't it?
+It's time for us to leave.
+It's not time to stop yet.
+It was your grandfather's.
+It seems that Tom is busy.
+It all happened very fast.
+Is it your birthday today?
+I've never met Tom's wife.
+I've just finished dinner.
+I'm the only one here now.
+I'm sorry I said anything.
+I'm not at all hungry now.
+I'm glad to be of service.
+I'll help you in a minute.
+I wasn't very busy anyway.
+I was kicked off the team.
+I used to love this place.
+I told you Tom was hungry.
+I thought you'd be hungry.
+I thought you had to work.
+I thought Tom wasn't busy.
+I think Tom might be busy.
+I think this is a mistake.
+I need to check the rules.
+I know why Tom left early.
+I know why Tom isn't here.
+I hope Tom gets here soon.
+I have some things to say.
+I guess I'm not that busy.
+I don't think Tom is busy.
+How're you doing tonight?
+How long's Tom been there?
+How is Tom related to you?
+How have you been feeling?
+How did Tom and Mary meet?
+How can you pick just one?
+How are your grandparents?
+Has Tom had many visitors?
+Has that been done before?
+Half of them are students.
+Give Tom what he asks for.
+Give Tom something to eat.
+Everything's in your room.
+Does Tom have to be there?
+Does Tom have an attorney?
+Does anybody have a match?
+Do you need my assistance?
+Do you know what Tom said?
+Do you know what they did?
+Do you know what that was?
+Do you know that for sure?
+Do you know how they knew?
+Do you have Tom's picture?
+Do you have Tom's address?
+Do you have today's paper?
+Do you have their address?
+Do you have a moment, Tom?
+Do you have a family, Tom?
+Do you have a better plan?
+Do you hate Tom that much?
+Did you do the decorating?
+Did you do that purposely?
+Could you babysit my boys?
+Could Tom have been there?
+Come on, pick up the pace.
+Both of them are confused.
+Are you the only one here?
+Are you doing this for me?
+Are you doing that for me?
+Are we done with this job?
+Are they keeping you busy?
+All you have to do is ask.
+All you had to do was ask.
+All of my things are gone.
+Your wife's on the phone.
+You're not wearing a tie.
+You're not that old, Tom.
+You're not that hopeless.
+You're not busy, are you?
+You're no friend of mine.
+You're in the wrong seat.
+You're in serious danger.
+You'll never change, Tom.
+You'll need a flashlight.
+You'll meet Tom tomorrow.
+You'd better have a plan.
+You were right, you know.
+You were a teenager then.
+You three are very lucky.
+You said you were thirty.
+You said you were hungry.
+You said you needed help.
+You said we were invited.
+You said we were friends.
+You said Tom was adopted.
+You people are my guests.
+You opened the wrong box.
+You only have three days.
+You need to listen to me.
+You need to face reality.
+You must've been wrong.
+You must be very excited.
+You must be Tom's sister.
+You must be Tom's father.
+You must be Tom and Mary.
+You must be the Jacksons.
+You must be disappointed.
+You know that isn't true.
+You have my word on that.
+You have my full support.
+You don't seem too happy.
+You don't seem so hungry.
+You don't look very busy.
+You and Tom must be busy.
+You almost sat on my hat.
+Wouldn't that be a shame?
+Would you say that again?
+Would you really do that?
+Would you like more wine?
+Would you do this for me?
+Would that be acceptable?
+Why was Tom at your home?
+Why isn't Tom in the car?
+Why is Tom picking on me?
+Why have you deceived us?
+Why do you have my phone?
+Why aren't you in school?
+Why aren't you in Boston?
+Why aren't you here, Tom?
+Why aren't these working?
+Why are you wearing that?
+Why are you a Republican?
+Why are they saying that?
+Who's picking up the tab?
+Who's not wearing gloves?
+Who's going to wear them?
+Who did you have in mind?
+Where's your family, Tom?
+Where's Tom this morning?
+Where were your children?
+Where were you stationed?
+Where were they standing?
+Where is your compassion?
+Where have you been, Tom?
+Where are you going, Tom?
+What've you done with it?
+What've you been cooking?
+What's your problem, Tom?
+What's your niece's name?
+What's your dilemma, Tom?
+What's on your mind, Tom?
+What're we doing tonight?
+What're we doing in here?
+What you did was illegal.
+What was in the envelope?
+What was in that package?
+What time did they leave?
+What is it you want, Tom?
+What is it you need, Tom?
+What is it that you need?
+What have you heard, Tom?
+What have you found, Tom?
+What have you discovered?
+What does Tom do for fun?
+What did you do with Tom?
+What did you do in there?
+What did Tom say this is?
+What did Tom say exactly?
+What did Tom have to say?
+What did they say to you?
+What did that accomplish?
+What are you smirking at?
+What are you negotiating?
+What are you insinuating?
+What are they rehearsing?
+What are they doing here?
+What are they discussing?
+Were you in the military?
+Were you and Tom friends?
+We've never discussed it.
+We're the only ones left.
+We're ready for anything.
+We're not that desperate.
+We're not ready for this.
+We're in serious trouble.
+We're almost out of time.
+We're almost out of fuel.
+We're all beginners here.
+We're all agreed on that.
+We'll discuss this later.
+We weren't all that busy.
+We were close, Tom and I.
+We were all watching Tom.
+We were all very thirsty.
+We were all so busy then.
+We wanted to talk to Tom.
+We want nothing from you.
+We understand your anger.
+We only have three hours.
+We need you to be strong.
+We need to meet with Tom.
+We need to eat something.
+We need more information.
+We need a new babysitter.
+We must know for certain.
+We know that Tom is here.
+We have the same dentist.
+We have some houseguests.
+We have so much to learn.
+We have so many students.
+We have a lot to discuss.
+We had nothing in common.
+We had a little argument.
+We could meet after work.
+We care about each other.
+We all have our off days.
+We all have dark secrets.
+We all had the same idea.
+Wait for us in the lobby.
+Tom's wife picked him up.
+Tom's not ready for that.
+Tom's eyes are wide open.
+Tom would be embarrassed.
+Tom wiped his tears away.
+Tom will be safe with me.
+Tom watched the children.
+Tom was wrong about that.
+Tom was worried about me.
+Tom was very hardworking.
+Tom was very embarrassed.
+Tom was very cooperative.
+Tom was totally confused.
+Tom was tired and hungry.
+Tom was the name he used.
+Tom was really irritated.
+Tom was never my partner.
+Tom was murdered by Mary.
+Tom was Mary's assistant.
+Tom was in that building.
+Tom was having a bad day.
+Tom was getting agitated.
+Tom was caught off-guard.
+Tom was busy for a while.
+Tom was asking questions.
+Tom was asking about you.
+Tom was a little shocked.
+Tom was a friend of mine.
+Tom wants to become rich.
+Tom wants something else.
+Tom walked into the yard.
+Tom walked into the barn.
+Tom walked into his room.
+Tom waited a few seconds.
+Tom waded into the water.
+Tom used to be a soldier.
+Tom unplugged his guitar.
+Tom turned on some music.
+Tom turned off the radio.
+Tom turned off the music.
+Tom turned off the light.
+Tom turned off the alarm.
+Tom turned off his phone.
+Tom tucked Mary into bed.
+Tom tripped on something.
+Tom tried to concentrate.
+Tom took off on his bike.
+Tom took off his sweater.
+Tom took off his glasses.
+Tom took a few snapshots.
+Tom thinks it's possible.
+Tom straightened his tie.
+Tom stood in the doorway.
+Tom still looks doubtful.
+Tom still looks confused.
+Tom stayed up until dawn.
+Tom stayed out all night.
+Tom started crying again.
+Tom squeezed the trigger.
+Tom sounded really upset.
+Tom skinned his knuckles.
+Tom signed the documents.
+Tom signed for something.
+Tom shut the office door.
+Tom shoved the door open.
+Tom should be encouraged.
+Tom searched his pockets.
+Tom says he's not hungry.
+Tom says he was confused.
+Tom saw Mary approaching.
+Tom sat in the first row.
+Tom sat down by the fire.
+Tom said you were lonely.
+Tom said you were hungry.
+Tom said you were coming.
+Tom said you were bright.
+Tom said you needed this.
+Tom said Mary was hungry.
+Tom said it was up to us.
+Tom said I didn't get it.
+Tom said he was finished.
+Tom said he wanted to go.
+Tom relaxed on the couch.
+Tom recognized the sound.
+Tom recognized the smell.
+Tom realized what was up.
+Tom realized the problem.
+Tom ran toward the house.
+Tom pulled the door shut.
+Tom pulled open the door.
+Tom pulled off his shoes.
+Tom poured another drink.
+Tom opened the blue door.
+Tom only has one shoe on.
+Tom nodded his agreement.
+Tom never speaks to Mary.
+Tom never mentioned Mary.
+Tom needs his medication.
+Tom needs a prescription.
+Tom must've overheard us.
+Tom must've had a reason.
+Tom must've been tired.
+Tom moved back to Boston.
+Tom moved away with Mary.
+Tom moved away from Mary.
+Tom might leave tomorrow.
+Tom met Mary at the door.
+Tom may never walk again.
+Tom loved Mary, you know.
+Tom looks rather worried.
+Tom looks rather nervous.
+Tom looks pretty relaxed.
+Tom looks extremely busy.
+Tom looks bored to death.
+Tom looked up at the sky.
+Tom looked a bit puzzled.
+Tom locked the apartment.
+Tom liked what Mary said.
+Tom left the party early.
