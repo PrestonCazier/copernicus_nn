@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "natlanganalyze",
+  "private_key_id": "0cca995daea5084cf8afdc3790fd7884932ba195",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWKqLgQggZuyO8\nq2/iJ/D6MWQU7nKeg+vBR1M5fJUAlNeQ0GjDeIBORcaz4s5q8oB+4M00WSf7uBZX\nH10Fxjh3cNrmEJQdGmJtGn+EjyNH9qziVpvwfx1bxITdhW/JssMatRLHj4J7rtou\nj2NUKLdpcRynNvskOCBaEJ4kAzXU6tpsfYnoHPubkKCDY5GsN6+GCnUfDWr4Y6i0\nOPox0KJ7144I+ewhk+5zWQw1nefHNDZHVQQuhDxJaffTQTb0abCGcrN2QwjpTCQD\nulczY2W9j6MVAWJVv5HdrIv5e6Xy14LGC3MFoRE41vJ8ZcwlzzTaxRpkFSqTm0K4\n/gY5cBLzAgMBAAECggEAPPtU93A16EW+LknOiOIAnu0TZ1ZiMrqzlYxeqT7NGqZH\nH0gInKgiOKdrpesOBavZZMdUBvTgCq/nRJV8ollH2NK8scfEtOi/X/usla1ASYx2\nu9gXfQpk7K1ve7g0FYWeQmuO1l4JtHgcTiesC9mwKAj6NK7WIgENTTfwH6b+XAqi\nAPG4370uulSao2iLBOvZTmN4qRX6j7IC4CCiVxmxU4TuGWpdyhhsNEoCC9twg6OY\ni3v6Ni5CNOZM2ETlKDNMprwwiB1w6Ih+D6iMcHycHXabVsMpoxZkNO5n+7ffQuee\nEG6mB59g8khXGRfK9Q1ooFbxcWO19SF433bAXv8LcQKBgQD0dYXGj+RDJMvaYTkm\nKjz1ijAzDlT0qcLdy7ZmC/MwIw44yQOE37tu78LU+I62MlaZ1P+PGPhVjK5G4Y1o\nnZ0wdoOEgr477YkcbpbLkNggPPE6m/U/No77IVTm8GkrqPfm3FjAwMLXDs/6p1ZM\nhga6t1IAM+4jEjefsfB+8OxTywKBgQDgRwFJQf8015NAMzcaiPpFSpl6l2ZHnS+R\nADHhX2nZYhkHWgxyMr0gLLt79MGm4wus1szzAO9XTwUPm3xIFshDZhaeyyjRdL1F\n/9wqwTfCT9b8VsWXaOKKXvdXol03UXKdyqg5DI/cD2xXm8maMuwUtSxDYUoy25+P\nGHP3ZNZoeQKBgQDaXu0cXcdLD2CmeDjj1dFUiZfa08+iKs9u753E9KHNe1Ml+LKT\nDITTaYwCUPKy4K6phjKv8l9LlHrNyIhYTotvEj8TrPMgd2UGp+c+euoFikr2zwA5\n8pOw06qTDWj1Xl/ssyL5NHgYQhwZTUfy3bq/KikvEzSD0a8skXhC/RYvFwKBgAys\n9q2lRT8/T9s5Ccw+Iab46GO9WtKBV8biM++A7QKUQMXhmQJ7S6Ud4hrHYoqEGozS\nNxMk4mIU3TxclVGduAPXKUAgS1ZLOsdSBqeD9BrPWF86qEA+dU9Mvr39NzeBKvEw\nGwHea+MMHBt3epV0e1NQSggk34SwVPxJbYR19ohBAoGAea0ipf64R2QlM3GSfs2D\nhZP2VXqM5uF3t7+lI8fH2KXU/G/hi+ObYnYCgOiC3l760HsdOfPBc/bytccJTIGu\niiwbW5yXYkPuFpOwXMfKR0YWDYRcJGYrLcTcAjhnJT5XbrPBRnAdytM7s+lIG4EK\nw74blGkaPoUQyUWqXdrGRYo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdxrobotics2-2018@natlanganalyze.iam.gserviceaccount.com",
+  "client_id": "100738986585041583395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdxrobotics2-2018%40natlanganalyze.iam.gserviceaccount.com"
+}
