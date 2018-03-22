@@ -33,3 +33,5 @@ sudo pip install -U pypinfo
 
 install things in home
 have orange folder, gcloud flolder
+
+https://github.com/biolab/orange3/wiki/Installation-on-Ubuntu-16.04-LTS
