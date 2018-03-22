@@ -1,0 +1,5 @@
+# this is to install tensorflow 1.0
+pip install tensorflow==1.0
+
+follow the rest of the guide
+https://www.tensorflow.org/install/install_linux
