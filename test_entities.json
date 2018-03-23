@@ -1,7 +1,7 @@
-{ "name" : That politician is well versed in internal and external conditions.
+{ "name" : "That politician is well versed in internal and external conditions".
 	{ "entities" : {
-		{ "name" : politician, "entity" : { "type" : PERSON, "salience" : 0.800970196724, "mentions" : [{ "text" : { "content" : politician, "begin_offset" : -1 }, "type" : COMMON },   ] } },
-		{ "name" : conditions, "entity" : { "type" : OTHER, "salience" : 0.199029788375, "mentions" : [{ "text" : { "content" : conditions, "begin_offset" : -1 }, "type" : COMMON },   ] } },
+		{ "name" : "politician", "entity" : { "type" : "PERSON", "salience" : 0.800970196724, "mentions" : [{ "text" : { "content" : "politician", "begin_offset" : -1 }, "type" : "COMMON" },   ] } },
+		{ "name" : "conditions", "entity" : { "type" : "OTHER", "salience" : 0.199029788375, "mentions" : [{ "text" : { "content" : "conditions", "begin_offset" : -1 }, "type" : "COMMON" },   ] } },
 		
 	},
 },
