@@ -4,78 +4,78 @@
 			{
 				"text" : { "content" : "That", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "DET", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "SINGULAR", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : TENSE_UNKNOWN, "voice" : VOICE_UNKNOWN }, 
-				"dependency_edge" : { "head_token_index" : 1, "label" : DET },
-				"lemma" : That },
+				"dependency_edge" : { "head_token_index" : 1, "label" : "DET" },
+				"lemma" : "That" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "politician", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "NOUN", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "SINGULAR", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 2, "label" : NSUBJ },
-				"lemma" : politician },
+				"dependency_edge" : { "head_token_index" : 2, "label" : "NSUBJ" },
+				"lemma" : "politician" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "is", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "VERB", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "INDICATIVE", "number" : "SINGULAR", "person" : "THIRD", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "PRESENT", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 2, "label" : ROOT },
-				"lemma" : be },
+				"dependency_edge" : { "head_token_index" : 2, "label" : "ROOT" },
+				"lemma" : "be" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "well", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "ADV", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 4, "label" : ADVMOD },
-				"lemma" : well },
+				"dependency_edge" : { "head_token_index" : 4, "label" : "ADVMOD" },
+				"lemma" : "well" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "versed", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "VERB", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "PAST", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 2, "label" : ACOMP },
-				"lemma" : verse },
+				"dependency_edge" : { "head_token_index" : 2, "label" : "ACOMP" },
+				"lemma" : "verse" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "in", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "ADP", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 4, "label" : PREP },
-				"lemma" : in },
+				"dependency_edge" : { "head_token_index" : 4, "label" : "PREP" },
+				"lemma" : "in" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "internal", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "ADJ", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 9, "label" : AMOD },
-				"lemma" : internal },
+				"dependency_edge" : { "head_token_index" : 9, "label" : "AMOD" },
+				"lemma" : "internal" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "and", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "CONJ", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 6, "label" : CC },
-				"lemma" : and },
+				"dependency_edge" : { "head_token_index" : 6, "label" : "CC" },
+				"lemma" : "and" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "external", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "ADJ", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 6, "label" : CONJ },
-				"lemma" : external },
+				"dependency_edge" : { "head_token_index" : 6, "label" : "CONJ" },
+				"lemma" : "external" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : "conditions", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "NOUN", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "PLURAL", "person" : "PERSON_UNKNOWN, "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 5, "label" : POBJ },
-				"lemma" : condition },
+				"dependency_edge" : { "head_token_index" : 5, "label" : "POBJ" },
+				"lemma" : "condition" },
 
 		{ "token" : 
 			{
 				"text" : { "content" : ".", "begin_offset" : -1 }, 
 				"part_of_speech" : { "tag" : "PUNCT", "aspect" : "ASPECT_UNKNOWN", "case" : "CASE_UNKNOWN", "form" : "FORM_UNKNOWN", "gender" : "GENDER_UNKNOWN", "mood" : "MOOD_UNKNOWN", "number" : "NUMBER_UNKNOWN", "person" : "PERSON_UNKNOWN", "proper" : "PROPER_UNKNOWN", "reciprocity" : "RECIPROCITY_UNKNOWN", "tense" : "TENSE_UNKNOWN", "voice" : "VOICE_UNKNOWN" }, 
-				"dependency_edge" : { "head_token_index" : 2, "label" : P },
-				"lemma" : . },
+				"dependency_edge" : { "head_token_index" : 2, "label" : "P" },
+				"lemma" : ". },
 
 	]}
 },
