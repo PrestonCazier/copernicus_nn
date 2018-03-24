@@ -2,3 +2,16 @@
 replace the contents of this file with the api key generated on the google console dashboard for your project
 
 see wiki for instructions
+
+{
+  "type": "service_account",
+  "project_id": "copernicus-speech-learner",
+  "private_key_id": "5d81cdbd9bb1aa1fffe73b855f5abf6bfdc585c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsFtX9gR3uKttd\nKqFCY853GGTOnCGIWpGYl7MtlVPxZ+lrlLB5YkNrnrdtfIt3UAFQvPB6yzMe++9u\n40HJnl1+WSxoZSF6L3WWCq7bjzwJnbgyh3pXQL+TPj0CxBbrS4JGGuXHSO67tMJ4\nRW8ky6bnQi6ot94GQQr5spH6QcF/3Wg4RVTUR/2vmab2OwHudJqW9UHy/qdvK7TE\nWFmAmxIqFmlkzJ2PKxE4ybhZNAewinDJN6RnX7z7Yd51/QbztyHr1gJ9iczdIaBo\nQnufyzZ3+PRqn0gu0cOD0IhqZH4gn8s2oHrXwdzeE4xKzjVzHajvYBePPx6wCFsV\ndklzqVgZAgMBAAECggEAJYZDOih18NGajMm3aSUfR7vje2PzMerh1Z66nOVzbO/m\nJ6XAB2/kWKq+v5qJRMaGyuawH26AorB36LuYRFEKfPsP4mGu95gysTl6IHkus8AX\nArmk9TKys3Y+UoSUpNENwqCp2xctq3OCdjxZvHHF3qaBSxvwx3dWX9VO3H2LJoiy\n1qB+pAyRRW87Mt014likwKvrRQ6UNKJBIhnN9SwN/N6Xc8tDTlcOyythHbuWvWM1\nG5JjuPDLosuWb+ofQGTW6oyMJzdFXcC82kzJWpGRvZ4A3MovB3cqnTXuL6pb5Do5\nem1qy9Kx/wYp8FMPAGC2Zn6arvgoe76J8vCuIeBoqQKBgQDX/hyQVKcazVuC5Ue0\niAGdvNe3u2gK7kXLHqd/VIy82atxVITvWjc/QF4+HFpYVMZ18qf7wZVaorussBAN\nuhWxQkO7QmqtLO+zoGL3/8RgXaeeepcRMnOY92XsjU9jbxulOw2RwM18l74R4mZr\n2NuH/EnUOcbKbHzH6Fl8brkttQKBgQDL9uwLFDQUcVuNpAIPHLk+oGcBmvyixQRM\ni0ca15B8C6mZes+J2TnqT7rEyOhCLpip85BhB86DEIhKs0/dYvBNCI+fk/w+ZsE1\nSXgsrFN3hcLyVulOs4aozLM1CRiov/iBS+3R7ngXjIbr5Kp5uaYVdoWasvmY8Fx1\nJxmcYbtfVQKBgAEZzG933vol/cdm/7yNzORO6BKJo/gaSsTEPTpK5gS4X0VOlvbZ\nUNrDqzdJ0bQNio1jVTPVQruZhLdWll5bimzC17GGnyCO0BHsSVTWOtv63jXSjh6K\nUUiASkawWa06DbwD1wfdIa723wMcUkVOb5/7yyyHttmlP+WM65fUwKDZAoGAI5dW\n4SgJXnfZbgHsig6NFKyQzOrqosyWT3UOV1S+VacDVVDk3j0Vqhl3kdctED9pTF7A\nFu5xztUXs1FO4mbdX9PanBIKtijgFhhX7BO2DOk+d2NLGvygxtvRebO4pdm513YU\nbcmbEyDmektQpCUNIjmoXrJUc6eduqO0CGHVfHECgYA2zsCBiFp3A0hckVqL/v6H\nDGvoY6jPntRIXGTI5qk/yxxtLKfS03d3IaaYqKoJH01j6U2ciWErmtHMSVVBSpSK\nKoJNZ5o1xLewFmnKX4GWjh0HgdyctBT7lWAl/H5D6kIJjdLQRn2AROcf1Sqp0bnL\nMQ4ahwlUc37TLNc7VZC85g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "natlanganalyze@copernicus-speech-learner.iam.gserviceaccount.com",
+  "client_id": "102362951968658058800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/natlanganalyze%40copernicus-speech-learner.iam.gserviceaccount.com"
+}
