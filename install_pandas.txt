@@ -1,2 +1,0 @@
-in virtual evironment
-pip install pandas
