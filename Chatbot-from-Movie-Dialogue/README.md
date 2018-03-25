@@ -10,4 +10,4 @@ If you would like to learn a bit more about the details of this project, especia
 movie_conversations.txt.zip contains the indexes for the lines of each conversation.
 movie_lines.txt.zip contains the lines spoken by the characters.
 
-To view my work most easily, click on the .ipynb file."
+To view my work most easily, click on the .ipynb file." - Quoted from the REAMME.md of the [forked repo](https://github.com/Currie32/Chatbot-from-Movie-Dialogue)  
