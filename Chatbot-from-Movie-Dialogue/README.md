@@ -1,6 +1,6 @@
 # Chatbot-from-Movie-Dialogue
 
-The following is a fork of a repo that was used to generate the trained model that is used to generate responses.  A copy of the trained model can be found [at](https://drive.google.com/file/d/1BgRYlFPhjEoD92l2gho74M_RdVmf88MJ/view?usp=sharing)  
+The following is a fork of a repo by [Currie32](https://github.com/Currie32) that was used to generate the trained model that is used to generate responses.  A copy of the trained model can be found [at](https://drive.google.com/file/d/1BgRYlFPhjEoD92l2gho74M_RdVmf88MJ/view?usp=sharing)  
 
 
 "I built a simple chatbot using conversations from Cornell University's [Movie Dialogue Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). The main features of our model are LSTM cells, a bidirectional dynamic RNN, and decoders with attention. 
