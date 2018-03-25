@@ -1,3 +1,7 @@
+https://www.tensorflow.org/get_started/
+https://www.tensorflow.org/get_started/checkpoints
+https://github.com/tensorflow/models
+https://github.com/tensorflow/tensorflow
 
 
 https://cloud.google.com/natural-language/docs/reference/rest/v1/Token  
