@@ -12,9 +12,9 @@ def callback(data):
 	engine.runAndWait()
         
 		
-def listener():
-    rospy.init_node('speaker', anonymous=True)
-    rospy.Subscriber("response_text", String, callback)
+def responder():
+    rospy.init_node('responder', anonymous=True)
+    rospy.Subscriber("response", String, callback)
     rospy.spin()
 
 
