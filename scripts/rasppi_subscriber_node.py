@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import rospy
-import google.cloud
+import pttsx3
 import os
 from std_msgs.msg import String
 
