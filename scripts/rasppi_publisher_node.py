@@ -1,35 +1,4 @@
 #!/usr/bin/env python
-import rospy
-import google.cloud
-import os
-from std_msgs.msg import String
-
-def publishFileName()
-	pub = rospy.Publisher('chatter', String, queue_size=10)
-    rospy.init_node('listener', anonymous=True)
-	rate = rospy.rate=10
-	
-	while not rospy.is_shutdown()
-		hello_str = "hello world %s" % rospy.get_time()
-		rospy.loginfo(hello_str)
-		pub.publish(hello_str)
-		rate.sleep()
-
-
-pub = rospy.Publisher('student2', String, queue_size=10)
-
-
-def callback(data):
-	my_str = data.data
-	pub.publish(my_str)
-        
-		
-def listener():
-    rospy.init_node('telephone1', anonymous=True)
-    rospy.Subscriber("student1", String, callback)
-    rospy.spin()
-
-#!/usr/bin/env python
 
 # Copyright 2017 Google Inc. All Rights Reserved.
 #
@@ -58,11 +27,14 @@ from __future__ import division
 
 import re
 import sys
+import rospy
+import os
+import pyaudio
 
+from std_msgs.msg import String
 from google.cloud import speech
 from google.cloud.speech import enums
 from google.cloud.speech import types
-import pyaudio
 from six.moves import queue
 # [END import_libraries]
 
@@ -70,6 +42,7 @@ from six.moves import queue
 RATE = 16000
 CHUNK = int(RATE / 10)  # 100ms
 
+pub = rospy.Publisher('listen', String, queue_size=10)
 
 class MicrophoneStream(object):
     """Opens a recording stream as a generator yielding the audio chunks."""
@@ -179,6 +152,8 @@ def listen_print_loop(responses):
 
         else:
             print(transcript + overwrite_chars)
+	
+	    pub.publish(transcript + overwrite_chars)
 
             # Exit recognition if any of the transcribed phrases could be
             # one of our keywords.
@@ -215,10 +190,8 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
-
-if __name__ == '__main__':
 	try:
-    		talker()
+    		rospy.init_node('listener', anonymous=True)
+    		main()
 	except rospy.ROSInterruptException:
 		pass
